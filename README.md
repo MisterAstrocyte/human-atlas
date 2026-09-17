@@ -2,7 +2,7 @@
 
 An interactive 3D anatomy explorer built with React, Three.js, and shadcn/ui. Take the BodyParts3D adult male reference apart into **3,210 individually selectable meshes**, explore **15 anatomical systems**, and search **3,926 named concepts**. The Software gives no professional Medical Advice.
 
-**[Explore the live demo](https://human-atlas-seven.vercel.app)**
+**[Explore the live demo](https://human-atlas-n93cx5m0k-misterastrocyte.vercel.app/)**
 
 ## Explore
 
