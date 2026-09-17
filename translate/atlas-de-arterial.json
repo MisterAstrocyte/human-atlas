@@ -1,0 +1,2540 @@
+[
+ {
+  "english": "abdominal aorta",
+  "german": "Bauchaorta",
+  "latin": "Aorta abdominalis",
+  "system": "arterial"
+ },
+ {
+  "english": "accessory subsuperior branch of right posterior basal segmental artery",
+  "german": "Akzessorischer subsuperiorer Ast der rechten hinteren basalen Segmentarterie",
+  "latin": "Ramus subsuperior accessorius arteriae segmentalis basalis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "acromial branch of left thoraco-acromial artery",
+  "german": "Schulterhöhenast der linken Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus acromialis arteriae thoracoacromialis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "acromial branch of right thoraco-acromial artery",
+  "german": "Schulterhöhenast der rechten Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus acromialis arteriae thoracoacromialis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior branch of lateral segmental artery",
+  "german": "Vorderer Ast der seitlichen Segmentarterie",
+  "latin": "Ramus anterior arteriae segmentalis lateralis",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior branch of right anterior segmental artery",
+  "german": "Vorderer Ast der rechten vorderen Segmentarterie",
+  "latin": "Ramus anterior arteriae segmentalis anterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior cecal artery",
+  "german": "Vordere Blinddarmarterie",
+  "latin": "Arteria caecalis anterior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior communicating artery",
+  "german": "Vordere Verbindungsarterie",
+  "latin": "Arteria communicans anterior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior division of left renal artery",
+  "german": "Vorderer Ast der linken Nierenarterie",
+  "latin": "Ramus anterior arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior division of right renal artery",
+  "german": "Vorderer Ast der rechten Nierenarterie",
+  "latin": "Ramus anterior arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior inferior cerebellar artery",
+  "german": "Vordere untere Kleinhirnarterie",
+  "latin": "Arteria inferior anterior cerebelli",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior inferior pancreaticoduodenal artery",
+  "german": "Vordere untere Pankreas-Duodenal-Arterie",
+  "latin": "Arteria pancreaticoduodenalis inferior anterior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior inferior segmental hepatic artery",
+  "german": "Vordere untere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica anterior inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior part of right apical segmental artery",
+  "german": "Vorderer Teil der rechten apikalen Segmentarterie",
+  "latin": "Pars anterior arteriae segmentalis apicalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior superior pancreaticoduodenal artery",
+  "german": "Vordere obere Pankreas-Duodenal-Arterie",
+  "latin": "Arteria pancreaticoduodenalis superior anterior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior superior segmental hepatic artery",
+  "german": "Vordere obere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica anterior superior",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior temporal branch of left lateral occipital artery",
+  "german": "Vorderer Schläfenast der linken seitlichen Hinterhauptarterie",
+  "latin": "Ramus temporalis anterior arteriae occipitalis lateralis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterior temporal branch of right lateral occipital artery",
+  "german": "Vorderer Schläfenast der rechten seitlichen Hinterhauptarterie",
+  "latin": "Ramus temporalis anterior arteriae occipitalis lateralis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterolateral central branch of left middle cerebral artery",
+  "german": "Anterolateraler zentraler Ast der linken mittleren Hirnarterie",
+  "latin": "Ramus centralis anterolateralis arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "anterolateral central branch of right middle cerebral artery",
+  "german": "Anterolateraler zentraler Ast der rechten mittleren Hirnarterie",
+  "latin": "Ramus centralis anterolateralis arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "apical part of right apical segmental artery",
+  "german": "Apikaler Teil der rechten apikalen Segmentarterie",
+  "latin": "Pars apicalis arteriae segmentalis apicalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "apical part of right posterior segmental artery",
+  "german": "Apikaler Teil der rechten hinteren Segmentarterie",
+  "latin": "Pars apicalis arteriae segmentalis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "appendicular artery",
+  "german": "Wurmfortsatzarterie",
+  "latin": "Arteria appendicularis",
+  "system": "arterial"
+ },
+ {
+  "english": "arch of aorta",
+  "german": "Aortenbogen",
+  "latin": "Arcus aortae",
+  "system": "arterial"
+ },
+ {
+  "english": "artery of central sulcus",
+  "german": "Arterie des Sulcus centralis",
+  "latin": "Arteria sulci centralis",
+  "system": "arterial"
+ },
+ {
+  "english": "artery of left postcentral sulcus",
+  "german": "Arterie des linken Sulcus postcentralis",
+  "latin": "Arteria sulci postcentralis sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "artery of left precentral sulcus",
+  "german": "Arterie des linken Sulcus precentralis",
+  "latin": "Arteria sulci precentralis sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "artery of right postcentral sulcus",
+  "german": "Arterie des rechten Sulcus postcentralis",
+  "latin": "Arteria sulci postcentralis dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "artery of right precentral sulcus",
+  "german": "Arterie des rechten Sulcus precentralis",
+  "latin": "Arteria sulci precentralis dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "ascending aorta",
+  "german": "Aufsteigende Aorta",
+  "latin": "Aorta ascendens",
+  "system": "arterial"
+ },
+ {
+  "english": "ascending branch of inferior branch of ileocolic artery",
+  "german": "Aufsteigender Ast des unteren Astes der Ileokolikarterie",
+  "latin": "Ramus ascendens rami inferioris arteriae ileocolicae",
+  "system": "arterial"
+ },
+ {
+  "english": "ascending branch of left colic artery",
+  "german": "Aufsteigender Ast der linken Dickdarmarterie",
+  "latin": "Ramus ascendens arteriae colicae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "basal branch of right anterior basal segmental artery",
+  "german": "Basaler Ast der rechten vorderen basalen Segmentarterie",
+  "latin": "Ramus basalis arteriae segmentalis basalis anterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "basilar artery",
+  "german": "Basilararterie",
+  "latin": "Arteria basilaris",
+  "system": "arterial"
+ },
+ {
+  "english": "brachiocephalic artery",
+  "german": "Arm-Kopf-Stamm",
+  "latin": "Truncus brachiocephalicus",
+  "system": "arterial"
+ },
+ {
+  "english": "branch of left anterior choroidal artery to posterior limb of left internal capsule",
+  "german": "Ast der linken vorderen Aderhautarterie zum hinteren Schenkel der linken inneren Kapsel",
+  "latin": "Ramus arteriae choroideae anterioris sinistrae ad crus posterius capsulae internae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "branch of left middle cerebral artery to left angular gyrus",
+  "german": "Ast der linken mittleren Hirnarterie zum linken Gyrus angularis",
+  "latin": "Ramus arteriae cerebri mediae sinistrae ad gyrum angularem sinistrum",
+  "system": "arterial"
+ },
+ {
+  "english": "branch of right anterior choroidal artery to posterior limb of right internal capsule",
+  "german": "Ast der rechten vorderen Aderhautarterie zum hinteren Schenkel der rechten inneren Kapsel",
+  "latin": "Ramus arteriae choroideae anterioris dextrae ad crus posterius capsulae internae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "branch of right middle cerebral artery to right angular gyrus",
+  "german": "Ast der rechten mittleren Hirnarterie zum rechten Gyrus angularis",
+  "latin": "Ramus arteriae cerebri mediae dextrae ad gyrum angularem dextrum",
+  "system": "arterial"
+ },
+ {
+  "english": "bronchial artery",
+  "german": "Bronchialarterie",
+  "latin": "Arteria bronchialis",
+  "system": "arterial"
+ },
+ {
+  "english": "bronchial branch of arch of aorta",
+  "german": "Bronchialast des Aortenbogens",
+  "latin": "Ramus bronchialis arcus aortae",
+  "system": "arterial"
+ },
+ {
+  "english": "caudal pancreatic artery",
+  "german": "Pankreasschwanzarterie",
+  "latin": "Arteria caudae pancreatis",
+  "system": "arterial"
+ },
+ {
+  "english": "caudate lobe branch of left hepatic artery",
+  "german": "Schwanzlappenast der linken Leberarterie",
+  "latin": "Ramus lobi caudati arteriae hepaticae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "caudate lobe branch of right hepatic artery",
+  "german": "Schwanzlappenast der rechten Leberarterie",
+  "latin": "Ramus lobi caudati arteriae hepaticae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "celiac artery",
+  "german": "Eingeweidearterie",
+  "latin": "Arteria coeliaca",
+  "system": "arterial"
+ },
+ {
+  "english": "celiac trunk",
+  "german": "Eingeweidestamm",
+  "latin": "Truncus coeliacus",
+  "system": "arterial"
+ },
+ {
+  "english": "circumflex branch of left coronary artery",
+  "german": "Zirkumflexast der linken Koronararterie",
+  "latin": "Ramus circumflexus arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "common hepatic artery",
+  "german": "Gemeinsame Leberarterie",
+  "latin": "Arteria hepatica communis",
+  "system": "arterial"
+ },
+ {
+  "english": "conus branch of anterior interventricular branch of left coronary artery",
+  "german": "Konusast des vorderen Zwischenkammerastes der linken Koronararterie",
+  "latin": "Ramus coni arteriosi rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "deltoid branch of left thoraco-acromial artery",
+  "german": "Deltaast der linken Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus deltoideus arteriae thoracoacromialis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "deltoid branch of right thoraco-acromial artery",
+  "german": "Deltaast der rechten Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus deltoideus arteriae thoracoacromialis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "descending aorta",
+  "german": "Absteigende Aorta",
+  "latin": "Aorta descendens",
+  "system": "arterial"
+ },
+ {
+  "english": "descending branch of left colic artery",
+  "german": "Absteigender Ast der linken Dickdarmarterie",
+  "latin": "Ramus descendens arteriae colicae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "descending branch of left lateral circumflex femoral artery",
+  "german": "Absteigender Ast der linken seitlichen Oberschenkel-Zirkumflexarterie",
+  "latin": "Ramus descendens arteriae circumflexae femoris lateralis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "descending branch of right lateral circumflex femoral artery",
+  "german": "Absteigender Ast der rechten seitlichen Oberschenkel-Zirkumflexarterie",
+  "latin": "Ramus descendens arteriae circumflexae femoris lateralis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "descending thoracic aorta",
+  "german": "Absteigende Brustaorta",
+  "latin": "Aorta thoracica descendens",
+  "system": "arterial"
+ },
+ {
+  "english": "diagonal branch of anterior descending branch of left coronary artery",
+  "german": "Diagonaler Ast des vorderen absteigenden Astes der linken Koronararterie",
+  "latin": "Ramus diagonalis rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "distal perforating artery",
+  "german": "Distale Perforansarterie",
+  "latin": "Arteria perforans distalis",
+  "system": "arterial"
+ },
+ {
+  "english": "dorsal carpal branch of left radial artery",
+  "german": "Dorsaler Handwurzelast der linken Speichenarterie",
+  "latin": "Ramus carpalis dorsalis arteriae radialis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "dorsal carpal branch of right radial artery",
+  "german": "Dorsaler Handwurzelast der rechten Speichenarterie",
+  "latin": "Ramus carpalis dorsalis arteriae radialis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "dorsal digital artery of foot",
+  "german": "Dorsale Zehenarterie",
+  "latin": "Arteria digitalis dorsalis pedis",
+  "system": "arterial"
+ },
+ {
+  "english": "dorsal pancreatic artery",
+  "german": "Dorsale Pankreasarterie",
+  "latin": "Arteria pancreatica dorsalis",
+  "system": "arterial"
+ },
+ {
+  "english": "esophageal artery",
+  "german": "Speiseröhrenarterie",
+  "latin": "Arteria oesophagea",
+  "system": "arterial"
+ },
+ {
+  "english": "first anterior ventricular branch of right coronary artery",
+  "german": "Erster vorderer Kammerast der rechten Koronararterie",
+  "latin": "Ramus ventricularis anterior primus arteriae coronariae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "first posterior ventricular branch of right coronary artery",
+  "german": "Erster hinterer Kammerast der rechten Koronararterie",
+  "latin": "Ramus ventricularis posterior primus arteriae coronariae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "first right anterior branch of anterior interventricular branch of left coronary artery",
+  "german": "Erster rechter vorderer Ast des vorderen Zwischenkammerastes der linken Koronararterie",
+  "latin": "Ramus anterior dexter primus rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "first septal branch of right posterior interventricular artery",
+  "german": "Erster Septumast der rechten hinteren Zwischenkammerarterie",
+  "latin": "Ramus septalis primus arteriae interventricularis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "great pancreatic artery",
+  "german": "Große Pankreasarterie",
+  "latin": "Arteria pancreatica magna",
+  "system": "arterial"
+ },
+ {
+  "english": "hepatic artery proper",
+  "german": "Eigentliche Leberarterie",
+  "latin": "Arteria hepatica propria",
+  "system": "arterial"
+ },
+ {
+  "english": "hypothalamic branch of left posterior communicating artery",
+  "german": "Hypothalamusast der linken hinteren Verbindungsarterie",
+  "latin": "Ramus hypothalamicus arteriae communicantis posterioris sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "hypothalamic branch of right posterior communicating artery",
+  "german": "Hypothalamusast der rechten hinteren Verbindungsarterie",
+  "latin": "Ramus hypothalamicus arteriae communicantis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "ileal artery",
+  "german": "Krummdarmarterie",
+  "latin": "Arteria ilealis",
+  "system": "arterial"
+ },
+ {
+  "english": "ileal branch of inferior branch of ileocolic artery",
+  "german": "Krummdarmast des unteren Astes der Ileokolikarterie",
+  "latin": "Ramus ilealis rami inferioris arteriae ileocolicae",
+  "system": "arterial"
+ },
+ {
+  "english": "ileocolic artery",
+  "german": "Ileokolikarterie",
+  "latin": "Arteria ileocolica",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior branch of medial segmental artery",
+  "german": "Unterer Ast der medialen Segmentarterie",
+  "latin": "Ramus inferior arteriae segmentalis medialis",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior lingular artery",
+  "german": "Untere Lingula-Arterie",
+  "latin": "Arteria lingularis inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior mesenteric artery",
+  "german": "Untere Gekrösearterie",
+  "latin": "Arteria mesenterica inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior pancreatic artery",
+  "german": "Untere Pankreasarterie",
+  "latin": "Arteria pancreatica inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior pancreaticoduodenal artery",
+  "german": "Untere Pankreas-Duodenal-Arterie",
+  "latin": "Arteria pancreaticoduodenalis inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior segmental branch of left renal artery",
+  "german": "Unterer Segmentast der linken Nierenarterie",
+  "latin": "Ramus segmentalis inferior arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "inferior segmental branch of right renal artery",
+  "german": "Unterer Segmentast der rechten Nierenarterie",
+  "latin": "Ramus segmentalis inferior arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "insular part of left middle cerebral artery",
+  "german": "Insulärer Teil der linken mittleren Hirnarterie",
+  "latin": "Pars insularis arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "insular part of right middle cerebral artery",
+  "german": "Insulärer Teil der rechten mittleren Hirnarterie",
+  "latin": "Pars insularis arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "intermediomedial branch of left callosomarginal artery",
+  "german": "Intermediomedialer Ast der linken Callosomarginalarterie",
+  "latin": "Ramus intermediomedialis arteriae callosomarginalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "intermediomedial branch of right callosomarginal artery",
+  "german": "Intermediomedialer Ast der rechten Callosomarginalarterie",
+  "latin": "Ramus intermediomedialis arteriae callosomarginalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of left pontine artery",
+  "german": "Seitlicher Ast der linken Brückenarterie",
+  "latin": "Ramus lateralis arteriae pontis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of left superior cerebellar artery",
+  "german": "Seitlicher Ast der linken oberen Kleinhirnarterie",
+  "latin": "Ramus lateralis arteriae superioris cerebelli sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of right anterior basal segmental artery",
+  "german": "Seitlicher Ast der rechten vorderen basalen Segmentarterie",
+  "latin": "Ramus lateralis arteriae segmentalis basalis anterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of right lateral basal segmental artery",
+  "german": "Seitlicher Ast der rechten seitlichen basalen Segmentarterie",
+  "latin": "Ramus lateralis arteriae segmentalis basalis lateralis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of right pontine artery",
+  "german": "Seitlicher Ast der rechten Brückenarterie",
+  "latin": "Ramus lateralis arteriae pontis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of right superior cerebellar artery",
+  "german": "Seitlicher Ast der rechten oberen Kleinhirnarterie",
+  "latin": "Ramus lateralis arteriae superioris cerebelli dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral branch of right superior segmental artery",
+  "german": "Seitlicher Ast der rechten oberen Segmentarterie",
+  "latin": "Ramus lateralis arteriae segmentalis superioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral inferior segmental hepatic artery",
+  "german": "Seitliche untere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica lateralis inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of left little finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des linken Kleinfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti minimi sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of left middle finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des linken Mittelfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti medii sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of left ring finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des linken Ringfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti anularis sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of right little finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des rechten Kleinfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti minimi dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of right middle finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des rechten Mittelfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti medii dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral proper palmar digital artery of right ring finger",
+  "german": "Seitliche eigentliche Hohlhand-Fingerarterie des rechten Ringfingers",
+  "latin": "Arteria digitalis palmaris propria lateralis digiti anularis dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "lateral superior segmental hepatic artery",
+  "german": "Seitliche obere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica lateralis superior",
+  "system": "arterial"
+ },
+ {
+  "english": "laterobasal branch of right posterior basal segmental artery",
+  "german": "Laterobasaler Ast der rechten hinteren basalen Segmentarterie",
+  "latin": "Ramus laterobasalis arteriae segmentalis basalis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior basal segmental artery",
+  "german": "Linke vordere basale Segmentarterie",
+  "latin": "Arteria segmentalis basalis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior cerebral artery",
+  "german": "Linke vordere Hirnarterie",
+  "latin": "Arteria cerebri anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior choroidal artery",
+  "german": "Linke vordere Aderhautarterie",
+  "latin": "Arteria choroidea anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior circumflex humeral artery",
+  "german": "Linke vordere Oberarm-Zirkumflexarterie",
+  "latin": "Arteria circumflexa humeri anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior interosseous artery",
+  "german": "Linke vordere Zwischenknochenarterie",
+  "latin": "Arteria interossea anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior parietal artery",
+  "german": "Linke vordere Scheitellappenarterie",
+  "latin": "Arteria parietalis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior segmental artery",
+  "german": "Linke vordere Segmentarterie",
+  "latin": "Arteria segmentalis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior spinal artery",
+  "german": "Linke vordere Rückenmarksarterie",
+  "latin": "Arteria spinalis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior temporal artery",
+  "german": "Linke vordere Schläfenlappenarterie",
+  "latin": "Arteria temporalis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior tibial artery",
+  "german": "Linke vordere Schienbeinarterie",
+  "latin": "Arteria tibialis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior tibial recurrent artery",
+  "german": "Linke vordere rückläufige Schienbeinarterie",
+  "latin": "Arteria recurrens tibialis anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left anterior ulnar recurrent artery",
+  "german": "Linke vordere rückläufige Ellenarterie",
+  "latin": "Arteria recurrens ulnaris anterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left apical segmental artery",
+  "german": "Linke apikale Segmentarterie",
+  "latin": "Arteria segmentalis apicalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left arcuate artery",
+  "german": "Linke Bogenarterie",
+  "latin": "Arteria arcuata sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left arteria princeps pollicis",
+  "german": "Linke Hauptdaumenarterie",
+  "latin": "Arteria princeps pollicis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left arteria radialis indicis",
+  "german": "Linke speichenseitige Zeigefingerarterie",
+  "latin": "Arteria radialis indicis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left axillary artery",
+  "german": "Linke Achselarterie",
+  "latin": "Arteria axillaris sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left brachial artery",
+  "german": "Linke Oberarmarterie",
+  "latin": "Arteria brachialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left callosomarginal artery",
+  "german": "Linke Callosomarginalarterie",
+  "latin": "Arteria callosomarginalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left circumflex scapular artery",
+  "german": "Linke Schulterblatt-Zirkumflexarterie",
+  "latin": "Arteria circumflexa scapulae sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left colic artery",
+  "german": "Linke Dickdarmarterie",
+  "latin": "Arteria colica sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left common carotid artery",
+  "german": "Linke gemeinsame Halsschlagader",
+  "latin": "Arteria carotis communis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left common iliac artery",
+  "german": "Linke gemeinsame Beckenarterie",
+  "latin": "Arteria iliaca communis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left common interosseous artery",
+  "german": "Linke gemeinsame Zwischenknochenarterie",
+  "latin": "Arteria interossea communis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left costocervical trunk",
+  "german": "Linker Rippen-Hals-Stamm",
+  "latin": "Truncus costocervicalis sinister",
+  "system": "arterial"
+ },
+ {
+  "english": "left deep brachial artery",
+  "german": "Linke tiefe Oberarmarterie",
+  "latin": "Arteria profunda brachii sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left deep cervical artery",
+  "german": "Linke tiefe Halsarterie",
+  "latin": "Arteria cervicalis profunda sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left deep palmar arch",
+  "german": "Linker tiefer Hohlhandbogen",
+  "latin": "Arcus palmaris profundus sinister",
+  "system": "arterial"
+ },
+ {
+  "english": "left deep plantar artery",
+  "german": "Linke tiefe Fußsohlenarterie",
+  "latin": "Arteria plantaris profunda sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left descending genicular artery",
+  "german": "Linke absteigende Kniearterie",
+  "latin": "Arteria descendens genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left dorsal artery of penis",
+  "german": "Linke dorsale Penisarterie",
+  "latin": "Arteria dorsalis penis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left dorsal carpal branch of ulnar artery",
+  "german": "Linker dorsaler Handwurzelast der Ellenarterie",
+  "latin": "Ramus carpalis dorsalis sinister arteriae ulnaris",
+  "system": "arterial"
+ },
+ {
+  "english": "left dorsal scapular artery",
+  "german": "Linke dorsale Schulterblattarterie",
+  "latin": "Arteria dorsalis scapulae sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left dorsalis pedis artery",
+  "german": "Linke Fußrückenarterie",
+  "latin": "Arteria dorsalis pedis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left external iliac artery",
+  "german": "Linke äußere Beckenarterie",
+  "latin": "Arteria iliaca externa sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left femoral artery",
+  "german": "Linke Oberschenkelarterie",
+  "latin": "Arteria femoralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left first common palmar digital artery",
+  "german": "Linke erste gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis prima sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left first posterior intercostal artery",
+  "german": "Linke erste hintere Zwischenrippenarterie",
+  "latin": "Arteria intercostalis posterior prima sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left fourth common palmar digital artery",
+  "german": "Linke vierte gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis quarta sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left gastric artery",
+  "german": "Linke Magenarterie",
+  "latin": "Arteria gastrica sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left gastro-epiploic artery",
+  "german": "Linke Magen-Netz-Arterie",
+  "latin": "Arteria gastroomentalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior epigastric artery",
+  "german": "Linke untere Bauchdeckenarterie",
+  "latin": "Arteria epigastrica inferior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior lateral genicular artery",
+  "german": "Linke untere seitliche Kniearterie",
+  "latin": "Arteria inferior lateralis genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior medial genicular artery",
+  "german": "Linke untere mediale Kniearterie",
+  "latin": "Arteria inferior medialis genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior phrenic artery",
+  "german": "Linke untere Zwerchfellarterie",
+  "latin": "Arteria phrenica inferior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior suprarenal artery",
+  "german": "Linke untere Nebennierenarterie",
+  "latin": "Arteria suprarenalis inferior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior thyroid artery",
+  "german": "Linke untere Schilddrüsenarterie",
+  "latin": "Arteria thyroidea inferior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left inferior ulnar collateral artery",
+  "german": "Linke untere Ellen-Kollateralarterie",
+  "latin": "Arteria collateralis ulnaris inferior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left internal carotid artery",
+  "german": "Linke innere Halsschlagader",
+  "latin": "Arteria carotis interna sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left internal iliac artery",
+  "german": "Linke innere Beckenarterie",
+  "latin": "Arteria iliaca interna sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left internal thoracic artery",
+  "german": "Linke innere Brustwandarterie",
+  "latin": "Arteria thoracica interna sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral basal segmental artery",
+  "german": "Linke seitliche basale Segmentarterie",
+  "latin": "Arteria segmentalis basalis lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral circumflex femoral artery",
+  "german": "Linke seitliche Oberschenkel-Zirkumflexarterie",
+  "latin": "Arteria circumflexa femoris lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral frontobasal artery",
+  "german": "Linke seitliche Frontobasalarterie",
+  "latin": "Arteria frontobasalis lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral occipital artery",
+  "german": "Linke seitliche Hinterhauptarterie",
+  "latin": "Arteria occipitalis lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral plantar artery",
+  "german": "Linke seitliche Fußsohlenarterie",
+  "latin": "Arteria plantaris lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral superior genicular artery",
+  "german": "Linke obere seitliche Kniearterie",
+  "latin": "Arteria superior lateralis genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral tarsal artery",
+  "german": "Linke seitliche Fußwurzelarterie",
+  "latin": "Arteria tarsalis lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lateral thoracic artery",
+  "german": "Linke seitliche Brustwandarterie",
+  "latin": "Arteria thoracica lateralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left lobe branch of left hepatic artery",
+  "german": "Linkslappenast der linken Leberarterie",
+  "latin": "Ramus lobi sinistri arteriae hepaticae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "left medial basal segmental artery",
+  "german": "Linke mediale basale Segmentarterie",
+  "latin": "Arteria segmentalis basalis medialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left medial frontobasal artery",
+  "german": "Linke mediale Frontobasalarterie",
+  "latin": "Arteria frontobasalis medialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left medial occipital artery",
+  "german": "Linke mediale Hinterhauptarterie",
+  "latin": "Arteria occipitalis medialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left medial plantar artery",
+  "german": "Linke mediale Fußsohlenarterie",
+  "latin": "Arteria plantaris medialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left medial superior genicular artery",
+  "german": "Linke obere mediale Kniearterie",
+  "latin": "Arteria superior medialis genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left middle genicular artery",
+  "german": "Linke mittlere Kniearterie",
+  "latin": "Arteria media genus sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left middle suprarenal artery",
+  "german": "Linke mittlere Nebennierenarterie",
+  "latin": "Arteria suprarenalis media sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left musculophrenic artery",
+  "german": "Linke Muskel-Zwerchfell-Arterie",
+  "latin": "Arteria musculophrenica sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left ophthalmic artery",
+  "german": "Linke Augenarterie",
+  "latin": "Arteria ophthalmica sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left palmar metacarpal artery",
+  "german": "Linke Hohlhand-Mittelhandarterie",
+  "latin": "Arteria metacarpalis palmaris sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left pericallosal artery",
+  "german": "Linke Perikallosalarterie",
+  "latin": "Arteria pericallosa sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left plantar arch",
+  "german": "Linker Fußsohlenbogen",
+  "latin": "Arcus plantaris sinister",
+  "system": "arterial"
+ },
+ {
+  "english": "left polar temporal artery",
+  "german": "Linke polare Schläfenlappenarterie",
+  "latin": "Arteria polaris temporalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left popliteal artery",
+  "german": "Linke Kniekehlenarterie",
+  "latin": "Arteria poplitea sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior basal segmental artery",
+  "german": "Linke hintere basale Segmentarterie",
+  "latin": "Arteria segmentalis basalis posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior circumflex humeral artery",
+  "german": "Linke hintere Oberarm-Zirkumflexarterie",
+  "latin": "Arteria circumflexa humeri posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior communicating artery",
+  "german": "Linke hintere Verbindungsarterie",
+  "latin": "Arteria communicans posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior inferior cerebellar artery",
+  "german": "Linke hintere untere Kleinhirnarterie",
+  "latin": "Arteria inferior posterior cerebelli sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior medial choroidal artery",
+  "german": "Linke hintere mediale Aderhautarterie",
+  "latin": "Arteria choroidea posterior medialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior parietal artery",
+  "german": "Linke hintere Scheitellappenarterie",
+  "latin": "Arteria parietalis posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior segmental artery",
+  "german": "Linke hintere Segmentarterie",
+  "latin": "Arteria segmentalis posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior tibial artery",
+  "german": "Linke hintere Schienbeinarterie",
+  "latin": "Arteria tibialis posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left posterior ulnar recurrent artery",
+  "german": "Linke hintere rückläufige Ellenarterie",
+  "latin": "Arteria recurrens ulnaris posterior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left prefrontal artery",
+  "german": "Linke Präfrontalarterie",
+  "latin": "Arteria prefrontalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left pulmonary artery",
+  "german": "Linke Lungenarterie",
+  "latin": "Arteria pulmonalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left radial artery",
+  "german": "Linke Speichenarterie",
+  "latin": "Arteria radialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left radial recurrent artery",
+  "german": "Linke rückläufige Speichenarterie",
+  "latin": "Arteria recurrens radialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left recurrent interosseous artery",
+  "german": "Linke rückläufige Zwischenknochenarterie",
+  "latin": "Arteria interossea recurrens sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left renal artery",
+  "german": "Linke Nierenarterie",
+  "latin": "Arteria renalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left second common palmar digital artery",
+  "german": "Linke zweite gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis secunda sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left second posterior intercostal artery",
+  "german": "Linke zweite hintere Zwischenrippenarterie",
+  "latin": "Arteria intercostalis posterior secunda sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left splenial artery",
+  "german": "Linke Spleniumarterie",
+  "latin": "Arteria splenialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left subclavian artery",
+  "german": "Linke Unterschlüsselbeinarterie",
+  "latin": "Arteria subclavia sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left subcostal artery",
+  "german": "Linke Unterrippenarterie",
+  "latin": "Arteria subcostalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left subscapular artery",
+  "german": "Linke Unterschulterblattarterie",
+  "latin": "Arteria subscapularis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superficial cervical artery",
+  "german": "Linke oberflächliche Halsarterie",
+  "latin": "Arteria cervicalis superficialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superficial epigastric artery",
+  "german": "Linke oberflächliche Bauchdeckenarterie",
+  "latin": "Arteria epigastrica superficialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superficial medial plantar artery",
+  "german": "Linke oberflächliche mediale Fußsohlenarterie",
+  "latin": "Arteria plantaris medialis superficialis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superficial palmar arterial arch",
+  "german": "Linker oberflächlicher Hohlhandbogen",
+  "latin": "Arcus palmaris superficialis sinister",
+  "system": "arterial"
+ },
+ {
+  "english": "left superior cerebellar artery",
+  "german": "Linke obere Kleinhirnarterie",
+  "latin": "Arteria superior cerebelli sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superior epigastric artery",
+  "german": "Linke obere Bauchdeckenarterie",
+  "latin": "Arteria epigastrica superior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superior intercostal artery",
+  "german": "Linke oberste Zwischenrippenarterie",
+  "latin": "Arteria intercostalis suprema sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superior segmental artery",
+  "german": "Linke obere Segmentarterie",
+  "latin": "Arteria segmentalis superior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left superior ulnar collateral artery",
+  "german": "Linke obere Ellen-Kollateralarterie",
+  "latin": "Arteria collateralis ulnaris superior sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left suprascapular artery",
+  "german": "Linke Oberschulterblattarterie",
+  "latin": "Arteria suprascapularis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left testicular artery",
+  "german": "Linke Hodenarterie",
+  "latin": "Arteria testicularis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left thalamogeniculate artery",
+  "german": "Linke Thalamogenikulararterie",
+  "latin": "Arteria thalamogeniculata sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left thalamoperforating artery",
+  "german": "Linke Thalamoperforansarterie",
+  "latin": "Arteria thalamoperforans sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left third common palmar digital artery",
+  "german": "Linke dritte gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis tertia sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left thoracodorsal artery",
+  "german": "Linke Brust-Rücken-Arterie",
+  "latin": "Arteria thoracodorsalis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left thyrocervical trunk",
+  "german": "Linker Schilddrüsen-Hals-Stamm",
+  "latin": "Truncus thyrocervicalis sinister",
+  "system": "arterial"
+ },
+ {
+  "english": "left transverse cervical artery",
+  "german": "Linke quere Halsarterie",
+  "latin": "Arteria transversa cervicis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left ulnar artery",
+  "german": "Linke Ellenarterie",
+  "latin": "Arteria ulnaris sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "left vertebral artery",
+  "german": "Linke Wirbelarterie",
+  "latin": "Arteria vertebralis sinistra",
+  "system": "arterial"
+ },
+ {
+  "english": "lumbar artery",
+  "german": "Lendenarterie",
+  "latin": "Arteria lumbalis",
+  "system": "arterial"
+ },
+ {
+  "english": "marginal artery of colon",
+  "german": "Dickdarmrandarterie",
+  "latin": "Arteria marginalis coli",
+  "system": "arterial"
+ },
+ {
+  "english": "marginal branch of right coronary artery",
+  "german": "Randast der rechten Koronararterie",
+  "latin": "Ramus marginalis arteriae coronariae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "marginal colic artery",
+  "german": "Dickdarmrandarterie",
+  "latin": "Arteria marginalis coli",
+  "system": "arterial"
+ },
+ {
+  "english": "medial branch of left pontine artery",
+  "german": "Medialer Ast der linken Brückenarterie",
+  "latin": "Ramus medialis arteriae pontis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "medial branch of left superior cerebellar artery",
+  "german": "Medialer Ast der linken oberen Kleinhirnarterie",
+  "latin": "Ramus medialis arteriae superioris cerebelli sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "medial branch of right pontine artery",
+  "german": "Medialer Ast der rechten Brückenarterie",
+  "latin": "Ramus medialis arteriae pontis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "medial branch of right superior cerebellar artery",
+  "german": "Medialer Ast der rechten oberen Kleinhirnarterie",
+  "latin": "Ramus medialis arteriae superioris cerebelli dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "medial branch of right superior segmental artery",
+  "german": "Medialer Ast der rechten oberen Segmentarterie",
+  "latin": "Ramus medialis arteriae segmentalis superioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "medial inferior segmental hepatic artery",
+  "german": "Mediale untere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica medialis inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "medial proper palmar digital artery of left index finger",
+  "german": "Mediale eigentliche Hohlhand-Fingerarterie des linken Zeigefingers",
+  "latin": "Arteria digitalis palmaris propria medialis indicis sinistri",
+  "system": "arterial"
+ },
+ {
+  "english": "medial proper palmar digital artery of right index finger",
+  "german": "Mediale eigentliche Hohlhand-Fingerarterie des rechten Zeigefingers",
+  "latin": "Arteria digitalis palmaris propria medialis indicis dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "medial proper palmar digital artery of right middle finger",
+  "german": "Mediale eigentliche Hohlhand-Fingerarterie des rechten Mittelfingers",
+  "latin": "Arteria digitalis palmaris propria medialis digiti medii dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "medial proper palmar digital artery of right ring finger",
+  "german": "Mediale eigentliche Hohlhand-Fingerarterie des rechten Ringfingers",
+  "latin": "Arteria digitalis palmaris propria medialis digiti anularis dextri",
+  "system": "arterial"
+ },
+ {
+  "english": "medial superior segmental hepatic artery",
+  "german": "Mediale obere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica medialis superior",
+  "system": "arterial"
+ },
+ {
+  "english": "mediobasal branch of right posterior basal segmental artery",
+  "german": "Mediobasaler Ast der rechten hinteren basalen Segmentarterie",
+  "latin": "Ramus mediobasalis arteriae segmentalis basalis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle colic artery",
+  "german": "Mittlere Dickdarmarterie",
+  "latin": "Arteria colica media",
+  "system": "arterial"
+ },
+ {
+  "english": "middle collateral branch of left deep brachial artery",
+  "german": "Mittlerer Kollateralast der linken tiefen Oberarmarterie",
+  "latin": "Ramus collateralis medius arteriae profundae brachii sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle collateral branch of right deep brachial artery",
+  "german": "Mittlerer Kollateralast der rechten tiefen Oberarmarterie",
+  "latin": "Ramus collateralis medius arteriae profundae brachii dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle temporal branch of left lateral occipital artery",
+  "german": "Mittlerer Schläfenast der linken seitlichen Hinterhauptarterie",
+  "latin": "Ramus temporalis medius arteriae occipitalis lateralis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle temporal branch of left middle cerebral artery",
+  "german": "Mittlerer Schläfenast der linken mittleren Hirnarterie",
+  "latin": "Ramus temporalis medius arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle temporal branch of right lateral occipital artery",
+  "german": "Mittlerer Schläfenast der rechten seitlichen Hinterhauptarterie",
+  "latin": "Ramus temporalis medius arteriae occipitalis lateralis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "middle temporal branch of right middle cerebral artery",
+  "german": "Mittlerer Schläfenast der rechten mittleren Hirnarterie",
+  "latin": "Ramus temporalis medius arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "paracentral branch of left callosomarginal artery",
+  "german": "Parazentraler Ast der linken Callosomarginalarterie",
+  "latin": "Ramus paracentralis arteriae callosomarginalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "paracentral branch of right callosomarginal artery",
+  "german": "Parazentraler Ast der rechten Callosomarginalarterie",
+  "latin": "Ramus paracentralis arteriae callosomarginalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "pectoral branch of left thoraco-acromial artery",
+  "german": "Brustast der linken Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus pectoralis arteriae thoracoacromialis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "pectoral branch of right thoraco-acromial artery",
+  "german": "Brustast der rechten Brust-Schulterhöhen-Arterie",
+  "latin": "Ramus pectoralis arteriae thoracoacromialis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "plantar metatarsal artery",
+  "german": "Fußsohlen-Mittelfußarterie",
+  "latin": "Arteria metatarsalis plantaris",
+  "system": "arterial"
+ },
+ {
+  "english": "postcommunicating part of left posterior cerebral artery",
+  "german": "Postkommunikaler Teil der linken hinteren Hirnarterie",
+  "latin": "Pars postcommunicalis arteriae cerebri posterioris sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "postcommunicating part of right posterior cerebral artery",
+  "german": "Postkommunikaler Teil der rechten hinteren Hirnarterie",
+  "latin": "Pars postcommunicalis arteriae cerebri posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior branch of lateral segmental artery",
+  "german": "Hinterer Ast der seitlichen Segmentarterie",
+  "latin": "Ramus posterior arteriae segmentalis lateralis",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior branch of right anterior segmental artery",
+  "german": "Hinterer Ast der rechten vorderen Segmentarterie",
+  "latin": "Ramus posterior arteriae segmentalis anterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior cecal artery",
+  "german": "Hintere Blinddarmarterie",
+  "latin": "Arteria caecalis posterior",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior division of left renal artery",
+  "german": "Hinterer Ast der linken Nierenarterie",
+  "latin": "Ramus posterior arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior division of right renal artery",
+  "german": "Hinterer Ast der rechten Nierenarterie",
+  "latin": "Ramus posterior arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior inferior pancreaticoduodenal artery",
+  "german": "Hintere untere Pankreas-Duodenal-Arterie",
+  "latin": "Arteria pancreaticoduodenalis inferior posterior",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior inferior segmental hepatic artery",
+  "german": "Hintere untere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica posterior inferior",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior intercostal arteries",
+  "german": "Hintere Zwischenrippenarterien",
+  "latin": "Arteriae intercostales posteriores",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior interventricular branch of right coronary artery",
+  "german": "Hinterer Zwischenkammerast der rechten Koronararterie",
+  "latin": "Ramus interventricularis posterior arteriae coronariae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior part of right posterior segmental artery",
+  "german": "Hinterer Teil der rechten hinteren Segmentarterie",
+  "latin": "Pars posterior arteriae segmentalis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior segmental branch of left renal artery",
+  "german": "Hinterer Segmentast der linken Nierenarterie",
+  "latin": "Ramus segmentalis posterior arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior segmental branch of right renal artery",
+  "german": "Hinterer Segmentast der rechten Nierenarterie",
+  "latin": "Ramus segmentalis posterior arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior superior pancreaticoduodenal artery",
+  "german": "Hintere obere Pankreas-Duodenal-Arterie",
+  "latin": "Arteria pancreaticoduodenalis superior posterior",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior superior segmental hepatic artery",
+  "german": "Hintere obere Lebersegmentarterie",
+  "latin": "Arteria segmentalis hepatica posterior superior",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior temporal branch of left middle cerebral artery",
+  "german": "Hinterer Schläfenast der linken mittleren Hirnarterie",
+  "latin": "Ramus temporalis posterior arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posterior temporal branch of right middle cerebral artery",
+  "german": "Hinterer Schläfenast der rechten mittleren Hirnarterie",
+  "latin": "Ramus temporalis posterior arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posteromedial branch of left callosomarginal artery",
+  "german": "Posteromedialer Ast der linken Callosomarginalarterie",
+  "latin": "Ramus posteromedialis arteriae callosomarginalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posteromedial branch of right callosomarginal artery",
+  "german": "Posteromedialer Ast der rechten Callosomarginalarterie",
+  "latin": "Ramus posteromedialis arteriae callosomarginalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posteromedial central branch of left posterior cerebral artery",
+  "german": "Posteromedialer zentraler Ast der linken hinteren Hirnarterie",
+  "latin": "Ramus centralis posteromedialis arteriae cerebri posterioris sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "posteromedial central branch of right posterior cerebral artery",
+  "german": "Posteromedialer zentraler Ast der rechten hinteren Hirnarterie",
+  "latin": "Ramus centralis posteromedialis arteriae cerebri posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "precommunicating part of left posterior cerebral artery",
+  "german": "Präkommunikaler Teil der linken hinteren Hirnarterie",
+  "latin": "Pars precommunicalis arteriae cerebri posterioris sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "precommunicating part of right posterior cerebral artery",
+  "german": "Präkommunikaler Teil der rechten hinteren Hirnarterie",
+  "latin": "Pars precommunicalis arteriae cerebri posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "precuneal branch of left pericallosal artery",
+  "german": "Precuneusast der linken Perikallosalarterie",
+  "latin": "Ramus precunealis arteriae pericallosae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "precuneal branch of right pericallosal artery",
+  "german": "Precuneusast der rechten Perikallosalarterie",
+  "latin": "Ramus precunealis arteriae pericallosae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "pulmonary trunk",
+  "german": "Lungenstamm",
+  "latin": "Truncus pulmonalis",
+  "system": "arterial"
+ },
+ {
+  "english": "radial collateral branch of left deep brachial artery",
+  "german": "Speichenseitiger Kollateralast der linken tiefen Oberarmarterie",
+  "latin": "Ramus collateralis radialis arteriae profundae brachii sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "radial collateral branch of right deep brachial artery",
+  "german": "Speichenseitiger Kollateralast der rechten tiefen Oberarmarterie",
+  "latin": "Ramus collateralis radialis arteriae profundae brachii dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior cerebral artery",
+  "german": "Rechte vordere Hirnarterie",
+  "latin": "Arteria cerebri anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior choroidal artery",
+  "german": "Rechte vordere Aderhautarterie",
+  "latin": "Arteria choroidea anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior circumflex humeral artery",
+  "german": "Rechte vordere Oberarm-Zirkumflexarterie",
+  "latin": "Arteria circumflexa humeri anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior interosseous artery",
+  "german": "Rechte vordere Zwischenknochenarterie",
+  "latin": "Arteria interossea anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior parietal artery",
+  "german": "Rechte vordere Scheitellappenarterie",
+  "latin": "Arteria parietalis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior segmental artery",
+  "german": "Rechte vordere Segmentarterie",
+  "latin": "Arteria segmentalis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior spinal artery",
+  "german": "Rechte vordere Rückenmarksarterie",
+  "latin": "Arteria spinalis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior temporal artery",
+  "german": "Rechte vordere Schläfenlappenarterie",
+  "latin": "Arteria temporalis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior tibial artery",
+  "german": "Rechte vordere Schienbeinarterie",
+  "latin": "Arteria tibialis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior tibial recurrent artery",
+  "german": "Rechte vordere rückläufige Schienbeinarterie",
+  "latin": "Arteria recurrens tibialis anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right anterior ulnar recurrent artery",
+  "german": "Rechte vordere rückläufige Ellenarterie",
+  "latin": "Arteria recurrens ulnaris anterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right arcuate artery",
+  "german": "Rechte Bogenarterie",
+  "latin": "Arteria arcuata dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right arteria princeps pollicis",
+  "german": "Rechte Hauptdaumenarterie",
+  "latin": "Arteria princeps pollicis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right arteria radialis indicis",
+  "german": "Rechte speichenseitige Zeigefingerarterie",
+  "latin": "Arteria radialis indicis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right axillary artery",
+  "german": "Rechte Achselarterie",
+  "latin": "Arteria axillaris dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right brachial artery",
+  "german": "Rechte Oberarmarterie",
+  "latin": "Arteria brachialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right callosomarginal artery",
+  "german": "Rechte Callosomarginalarterie",
+  "latin": "Arteria callosomarginalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right circumflex scapular artery",
+  "german": "Rechte Schulterblatt-Zirkumflexarterie",
+  "latin": "Arteria circumflexa scapulae dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right colic artery",
+  "german": "Rechte Dickdarmarterie",
+  "latin": "Arteria colica dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right common carotid artery",
+  "german": "Rechte gemeinsame Halsschlagader",
+  "latin": "Arteria carotis communis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right common iliac artery",
+  "german": "Rechte gemeinsame Beckenarterie",
+  "latin": "Arteria iliaca communis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right common interosseous artery",
+  "german": "Rechte gemeinsame Zwischenknochenarterie",
+  "latin": "Arteria interossea communis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right conus artery",
+  "german": "Rechte Konusarterie",
+  "latin": "Arteria coni arteriosi dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right costocervical trunk",
+  "german": "Rechter Rippen-Hals-Stamm",
+  "latin": "Truncus costocervicalis dexter",
+  "system": "arterial"
+ },
+ {
+  "english": "right deep brachial artery",
+  "german": "Rechte tiefe Oberarmarterie",
+  "latin": "Arteria profunda brachii dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right deep cervical artery",
+  "german": "Rechte tiefe Halsarterie",
+  "latin": "Arteria cervicalis profunda dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right deep palmar arch",
+  "german": "Rechter tiefer Hohlhandbogen",
+  "latin": "Arcus palmaris profundus dexter",
+  "system": "arterial"
+ },
+ {
+  "english": "right deep plantar artery",
+  "german": "Rechte tiefe Fußsohlenarterie",
+  "latin": "Arteria plantaris profunda dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right descending genicular artery",
+  "german": "Rechte absteigende Kniearterie",
+  "latin": "Arteria descendens genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right dorsal artery of penis",
+  "german": "Rechte dorsale Penisarterie",
+  "latin": "Arteria dorsalis penis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right dorsal carpal branch of ulnar artery",
+  "german": "Rechter dorsaler Handwurzelast der Ellenarterie",
+  "latin": "Ramus carpalis dorsalis dexter arteriae ulnaris",
+  "system": "arterial"
+ },
+ {
+  "english": "right dorsal scapular artery",
+  "german": "Rechte dorsale Schulterblattarterie",
+  "latin": "Arteria dorsalis scapulae dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right dorsalis pedis artery",
+  "german": "Rechte Fußrückenarterie",
+  "latin": "Arteria dorsalis pedis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right external iliac artery",
+  "german": "Rechte äußere Beckenarterie",
+  "latin": "Arteria iliaca externa dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right femoral artery",
+  "german": "Rechte Oberschenkelarterie",
+  "latin": "Arteria femoralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right first common palmar digital artery",
+  "german": "Rechte erste gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis prima dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right first posterior intercostal artery",
+  "german": "Rechte erste hintere Zwischenrippenarterie",
+  "latin": "Arteria intercostalis posterior prima dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right fourth common palmar digital artery",
+  "german": "Rechte vierte gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis quarta dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right gastric artery",
+  "german": "Rechte Magenarterie",
+  "latin": "Arteria gastrica dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right gastro-epiploic artery",
+  "german": "Rechte Magen-Netz-Arterie",
+  "latin": "Arteria gastroomentalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior epigastric artery",
+  "german": "Rechte untere Bauchdeckenarterie",
+  "latin": "Arteria epigastrica inferior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior lateral genicular artery",
+  "german": "Rechte untere seitliche Kniearterie",
+  "latin": "Arteria inferior lateralis genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior medial genicular artery",
+  "german": "Rechte untere mediale Kniearterie",
+  "latin": "Arteria inferior medialis genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior phrenic artery",
+  "german": "Rechte untere Zwerchfellarterie",
+  "latin": "Arteria phrenica inferior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior suprarenal artery",
+  "german": "Rechte untere Nebennierenarterie",
+  "latin": "Arteria suprarenalis inferior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior thyroid artery",
+  "german": "Rechte untere Schilddrüsenarterie",
+  "latin": "Arteria thyroidea inferior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right inferior ulnar collateral artery",
+  "german": "Rechte untere Ellen-Kollateralarterie",
+  "latin": "Arteria collateralis ulnaris inferior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right internal carotid artery",
+  "german": "Rechte innere Halsschlagader",
+  "latin": "Arteria carotis interna dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right internal iliac artery",
+  "german": "Rechte innere Beckenarterie",
+  "latin": "Arteria iliaca interna dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right internal thoracic artery",
+  "german": "Rechte innere Brustwandarterie",
+  "latin": "Arteria thoracica interna dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral circumflex femoral artery",
+  "german": "Rechte seitliche Oberschenkel-Zirkumflexarterie",
+  "latin": "Arteria circumflexa femoris lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral frontobasal artery",
+  "german": "Rechte seitliche Frontobasalarterie",
+  "latin": "Arteria frontobasalis lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral occipital artery",
+  "german": "Rechte seitliche Hinterhauptarterie",
+  "latin": "Arteria occipitalis lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral plantar artery",
+  "german": "Rechte seitliche Fußsohlenarterie",
+  "latin": "Arteria plantaris lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral superior genicular artery",
+  "german": "Rechte obere seitliche Kniearterie",
+  "latin": "Arteria superior lateralis genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral tarsal artery",
+  "german": "Rechte seitliche Fußwurzelarterie",
+  "latin": "Arteria tarsalis lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lateral thoracic artery",
+  "german": "Rechte seitliche Brustwandarterie",
+  "latin": "Arteria thoracica lateralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right lobe branch of right hepatic artery",
+  "german": "Rechtslappenast der rechten Leberarterie",
+  "latin": "Ramus lobi dextri arteriae hepaticae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "right medial frontobasal artery",
+  "german": "Rechte mediale Frontobasalarterie",
+  "latin": "Arteria frontobasalis medialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right medial occipital artery",
+  "german": "Rechte mediale Hinterhauptarterie",
+  "latin": "Arteria occipitalis medialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right medial plantar artery",
+  "german": "Rechte mediale Fußsohlenarterie",
+  "latin": "Arteria plantaris medialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right medial superior genicular artery",
+  "german": "Rechte obere mediale Kniearterie",
+  "latin": "Arteria superior medialis genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right middle genicular artery",
+  "german": "Rechte mittlere Kniearterie",
+  "latin": "Arteria media genus dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right middle suprarenal artery",
+  "german": "Rechte mittlere Nebennierenarterie",
+  "latin": "Arteria suprarenalis media dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right musculophrenic artery",
+  "german": "Rechte Muskel-Zwerchfell-Arterie",
+  "latin": "Arteria musculophrenica dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right ophthalmic artery",
+  "german": "Rechte Augenarterie",
+  "latin": "Arteria ophthalmica dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right palmar metacarpal artery",
+  "german": "Rechte Hohlhand-Mittelhandarterie",
+  "latin": "Arteria metacarpalis palmaris dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right pericallosal artery",
+  "german": "Rechte Perikallosalarterie",
+  "latin": "Arteria pericallosa dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right plantar arch",
+  "german": "Rechter Fußsohlenbogen",
+  "latin": "Arcus plantaris dexter",
+  "system": "arterial"
+ },
+ {
+  "english": "right polar temporal artery",
+  "german": "Rechte polare Schläfenlappenarterie",
+  "latin": "Arteria polaris temporalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right popliteal artery",
+  "german": "Rechte Kniekehlenarterie",
+  "latin": "Arteria poplitea dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior circumflex humeral artery",
+  "german": "Rechte hintere Oberarm-Zirkumflexarterie",
+  "latin": "Arteria circumflexa humeri posterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior communicating artery",
+  "german": "Rechte hintere Verbindungsarterie",
+  "latin": "Arteria communicans posterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior inferior cerebellar artery",
+  "german": "Rechte hintere untere Kleinhirnarterie",
+  "latin": "Arteria inferior posterior cerebelli dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior medial choroidal artery",
+  "german": "Rechte hintere mediale Aderhautarterie",
+  "latin": "Arteria choroidea posterior medialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior parietal artery",
+  "german": "Rechte hintere Scheitellappenarterie",
+  "latin": "Arteria parietalis posterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior tibial artery",
+  "german": "Rechte hintere Schienbeinarterie",
+  "latin": "Arteria tibialis posterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right posterior ulnar recurrent artery",
+  "german": "Rechte hintere rückläufige Ellenarterie",
+  "latin": "Arteria recurrens ulnaris posterior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right prefrontal artery",
+  "german": "Rechte Präfrontalarterie",
+  "latin": "Arteria prefrontalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right pulmonary artery",
+  "german": "Rechte Lungenarterie",
+  "latin": "Arteria pulmonalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right radial artery",
+  "german": "Rechte Speichenarterie",
+  "latin": "Arteria radialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right radial recurrent artery",
+  "german": "Rechte rückläufige Speichenarterie",
+  "latin": "Arteria recurrens radialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right recurrent interosseous artery",
+  "german": "Rechte rückläufige Zwischenknochenarterie",
+  "latin": "Arteria interossea recurrens dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right renal artery",
+  "german": "Rechte Nierenarterie",
+  "latin": "Arteria renalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right second common palmar digital artery",
+  "german": "Rechte zweite gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis secunda dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right second posterior intercostal artery",
+  "german": "Rechte zweite hintere Zwischenrippenarterie",
+  "latin": "Arteria intercostalis posterior secunda dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right splenial artery",
+  "german": "Rechte Spleniumarterie",
+  "latin": "Arteria splenialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right subclavian artery",
+  "german": "Rechte Unterschlüsselbeinarterie",
+  "latin": "Arteria subclavia dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right subcostal artery",
+  "german": "Rechte Unterrippenarterie",
+  "latin": "Arteria subcostalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right subscapular artery",
+  "german": "Rechte Unterschulterblattarterie",
+  "latin": "Arteria subscapularis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superficial cervical artery",
+  "german": "Rechte oberflächliche Halsarterie",
+  "latin": "Arteria cervicalis superficialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superficial epigastric artery",
+  "german": "Rechte oberflächliche Bauchdeckenarterie",
+  "latin": "Arteria epigastrica superficialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superficial medial plantar artery",
+  "german": "Rechte oberflächliche mediale Fußsohlenarterie",
+  "latin": "Arteria plantaris medialis superficialis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superficial palmar arterial arch",
+  "german": "Rechter oberflächlicher Hohlhandbogen",
+  "latin": "Arcus palmaris superficialis dexter",
+  "system": "arterial"
+ },
+ {
+  "english": "right superior cerebellar artery",
+  "german": "Rechte obere Kleinhirnarterie",
+  "latin": "Arteria superior cerebelli dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superior epigastric artery",
+  "german": "Rechte obere Bauchdeckenarterie",
+  "latin": "Arteria epigastrica superior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superior intercostal artery",
+  "german": "Rechte oberste Zwischenrippenarterie",
+  "latin": "Arteria intercostalis suprema dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right superior ulnar collateral artery",
+  "german": "Rechte obere Ellen-Kollateralarterie",
+  "latin": "Arteria collateralis ulnaris superior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right suprascapular artery",
+  "german": "Rechte Oberschulterblattarterie",
+  "latin": "Arteria suprascapularis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right testicular artery",
+  "german": "Rechte Hodenarterie",
+  "latin": "Arteria testicularis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right thalamogeniculate artery",
+  "german": "Rechte Thalamogenikulararterie",
+  "latin": "Arteria thalamogeniculata dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right thalamoperforating artery",
+  "german": "Rechte Thalamoperforansarterie",
+  "latin": "Arteria thalamoperforans dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right third common palmar digital artery",
+  "german": "Rechte dritte gemeinsame Hohlhand-Fingerarterie",
+  "latin": "Arteria digitalis palmaris communis tertia dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right thoracodorsal artery",
+  "german": "Rechte Brust-Rücken-Arterie",
+  "latin": "Arteria thoracodorsalis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right thyrocervical trunk",
+  "german": "Rechter Schilddrüsen-Hals-Stamm",
+  "latin": "Truncus thyrocervicalis dexter",
+  "system": "arterial"
+ },
+ {
+  "english": "right transverse cervical artery",
+  "german": "Rechte quere Halsarterie",
+  "latin": "Arteria transversa cervicis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right ulnar artery",
+  "german": "Rechte Ellenarterie",
+  "latin": "Arteria ulnaris dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right upper lobar artery",
+  "german": "Rechte obere Lappenarterie",
+  "latin": "Arteria lobaris superior dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "right vertebral artery",
+  "german": "Rechte Wirbelarterie",
+  "latin": "Arteria vertebralis dextra",
+  "system": "arterial"
+ },
+ {
+  "english": "second right anterior branch of anterior interventricular branch of left coronary artery",
+  "german": "Zweiter rechter vorderer Ast des vorderen Zwischenkammerastes der linken Koronararterie",
+  "latin": "Ramus anterior dexter secundus rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "second septal branch of right posterior interventricular artery",
+  "german": "Zweiter Septumast der rechten hinteren Zwischenkammerarterie",
+  "latin": "Ramus septalis secundus arteriae interventricularis posterioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "septal branch of anterior interventricular artery",
+  "german": "Septumast der vorderen Zwischenkammerarterie",
+  "latin": "Ramus septalis arteriae interventricularis anterioris",
+  "system": "arterial"
+ },
+ {
+  "english": "set of calcaneal branches of posterior tibial artery",
+  "german": "Fersenbeinäste der hinteren Schienbeinarterie",
+  "latin": "Rami calcanei arteriae tibialis posterioris",
+  "system": "arterial"
+ },
+ {
+  "english": "set of common plantar digital arteries",
+  "german": "Gemeinsame Fußsohlen-Zehenarterien",
+  "latin": "Arteriae digitales plantares communes",
+  "system": "arterial"
+ },
+ {
+  "english": "set of dorsal digital arteries",
+  "german": "Rückseitige Fingerarterien",
+  "latin": "Arteriae digitales dorsales",
+  "system": "arterial"
+ },
+ {
+  "english": "set of dorsal metacarpal arteries",
+  "german": "Rückseitige Mittelhandarterien",
+  "latin": "Arteriae metacarpales dorsales",
+  "system": "arterial"
+ },
+ {
+  "english": "set of oesophageal branches of thoracic aorta",
+  "german": "Speiseröhrenäste der Brustaorta",
+  "latin": "Rami oesophageales aortae thoracicae",
+  "system": "arterial"
+ },
+ {
+  "english": "set of perforating arteries",
+  "german": "Perforansarterien",
+  "latin": "Arteriae perforantes",
+  "system": "arterial"
+ },
+ {
+  "english": "set of plantar digital arteries proper",
+  "german": "Eigentliche Fußsohlen-Zehenarterien",
+  "latin": "Arteriae digitales plantares propriae",
+  "system": "arterial"
+ },
+ {
+  "english": "set of posterior temporal branches of lateral occipital artery",
+  "german": "Hintere Schläfenäste der seitlichen Hinterhauptarterie",
+  "latin": "Rami temporales posteriores arteriae occipitalis lateralis",
+  "system": "arterial"
+ },
+ {
+  "english": "sigmoid artery",
+  "german": "Sigmaarterie",
+  "latin": "Arteria sigmoidea",
+  "system": "arterial"
+ },
+ {
+  "english": "sphenoid part of left middle cerebral artery",
+  "german": "Sphenoidaler Teil der linken mittleren Hirnarterie",
+  "latin": "Pars sphenoidalis arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "sphenoid part of right middle cerebral artery",
+  "german": "Sphenoidaler Teil der rechten mittleren Hirnarterie",
+  "latin": "Pars sphenoidalis arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "splenic artery",
+  "german": "Milzarterie",
+  "latin": "Arteria splenica",
+  "system": "arterial"
+ },
+ {
+  "english": "superior branch of medial segmental artery",
+  "german": "Oberer Ast der medialen Segmentarterie",
+  "latin": "Ramus superior arteriae segmentalis medialis",
+  "system": "arterial"
+ },
+ {
+  "english": "superior branch of right superior segmental artery",
+  "german": "Oberer Ast der rechten oberen Segmentarterie",
+  "latin": "Ramus superior arteriae segmentalis superioris dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "superior lingular artery",
+  "german": "Obere Lingula-Arterie",
+  "latin": "Arteria lingularis superior",
+  "system": "arterial"
+ },
+ {
+  "english": "superior mesenteric artery",
+  "german": "Obere Gekrösearterie",
+  "latin": "Arteria mesenterica superior",
+  "system": "arterial"
+ },
+ {
+  "english": "superior rectal artery",
+  "german": "Obere Mastdarmarterie",
+  "latin": "Arteria rectalis superior",
+  "system": "arterial"
+ },
+ {
+  "english": "superior segmental branch of left renal artery",
+  "german": "Oberer Segmentast der linken Nierenarterie",
+  "latin": "Ramus segmentalis superior arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "superior segmental branch of right renal artery",
+  "german": "Oberer Segmentast der rechten Nierenarterie",
+  "latin": "Ramus segmentalis superior arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "superior vermian branch of medial branch of left superior cerebellar artery",
+  "german": "Oberer Wurmast des medialen Astes der linken oberen Kleinhirnarterie",
+  "latin": "Ramus vermis superior rami medialis arteriae superioris cerebelli sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "superior vermian branch of medial branch of right superior cerebellar artery",
+  "german": "Oberer Wurmast des medialen Astes der rechten oberen Kleinhirnarterie",
+  "latin": "Ramus vermis superior rami medialis arteriae superioris cerebelli dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "temporo-occipital branch of left middle cerebral artery",
+  "german": "Schläfen-Hinterhaupt-Ast der linken mittleren Hirnarterie",
+  "latin": "Ramus temporooccipitalis arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "temporo-occipital branch of right middle cerebral artery",
+  "german": "Schläfen-Hinterhaupt-Ast der rechten mittleren Hirnarterie",
+  "latin": "Ramus temporooccipitalis arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "third right anterior branch of anterior interventricular branch of left coronary artery",
+  "german": "Dritter rechter vorderer Ast des vorderen Zwischenkammerastes der linken Koronararterie",
+  "latin": "Ramus anterior dexter tertius rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of anterior interventricular branch of left coronary artery",
+  "german": "Stamm des vorderen Zwischenkammerastes der linken Koronararterie",
+  "latin": "Truncus rami interventricularis anterioris arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of gastroduodenal artery",
+  "german": "Stamm der Magen-Duodenal-Arterie",
+  "latin": "Truncus arteriae gastroduodenalis",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of inferior terminal branch of left middle cerebral artery",
+  "german": "Stamm des unteren terminalen Astes der linken mittleren Hirnarterie",
+  "latin": "Truncus rami terminalis inferioris arteriae cerebri mediae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of inferior terminal branch of right middle cerebral artery",
+  "german": "Stamm des unteren terminalen Astes der rechten mittleren Hirnarterie",
+  "latin": "Truncus rami terminalis inferioris arteriae cerebri mediae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of left coronary artery",
+  "german": "Stamm der linken Koronararterie",
+  "latin": "Truncus arteriae coronariae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of left hepatic artery",
+  "german": "Stamm der linken Leberarterie",
+  "latin": "Truncus arteriae hepaticae sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of left renal artery",
+  "german": "Stamm der linken Nierenarterie",
+  "latin": "Truncus arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of left thoraco-acromial artery",
+  "german": "Stamm der linken Brust-Schulterhöhen-Arterie",
+  "latin": "Truncus arteriae thoracoacromialis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of right coronary artery",
+  "german": "Stamm der rechten Koronararterie",
+  "latin": "Truncus arteriae coronariae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of right hepatic artery",
+  "german": "Stamm der rechten Leberarterie",
+  "latin": "Truncus arteriae hepaticae dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of right renal artery",
+  "german": "Stamm der rechten Nierenarterie",
+  "latin": "Truncus arteriae renalis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of right thoraco-acromial artery",
+  "german": "Stamm der rechten Brust-Schulterhöhen-Arterie",
+  "latin": "Truncus arteriae thoracoacromialis dextrae",
+  "system": "arterial"
+ },
+ {
+  "english": "trunk of superior mesenteric artery",
+  "german": "Stamm der oberen Gekrösearterie",
+  "latin": "Truncus arteriae mesentericae superioris",
+  "system": "arterial"
+ },
+ {
+  "english": "ureteric segment of left renal artery",
+  "german": "Harnleiterabschnitt der linken Nierenarterie",
+  "latin": "Pars ureterica arteriae renalis sinistrae",
+  "system": "arterial"
+ },
+ {
+  "english": "ureteric segment of right renal artery",
+  "german": "Harnleiterabschnitt der rechten Nierenarterie",
+  "latin": "Pars ureterica arteriae renalis dextrae",
+  "system": "arterial"
+ }
+]

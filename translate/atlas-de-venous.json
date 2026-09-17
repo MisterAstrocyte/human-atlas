@@ -1,0 +1,1352 @@
+[
+ {
+  "english": "accessory hemiazygos vein",
+  "german": "Akzessorische Hemiazygosvene",
+  "latin": "Vena hemiazygos accessoria",
+  "system": "venous"
+ },
+ {
+  "english": "anterior cardiac vein",
+  "german": "Vordere Herzvene",
+  "latin": "Vena cardiaca anterior",
+  "system": "venous"
+ },
+ {
+  "english": "anterior inferior segmental branch of right portal vein",
+  "german": "Vorderer unterer Segmentast der rechten Pfortader",
+  "latin": "Ramus segmentalis anterior inferior venae portae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "anterior inferior segmental tributary of middle hepatic vein",
+  "german": "Vorderer unterer Segmentzufluss der mittleren Lebervene",
+  "latin": "Ramus segmentalis anterior inferior venae hepaticae intermediae",
+  "system": "venous"
+ },
+ {
+  "english": "anterior interventricular vein",
+  "german": "Vordere Zwischenkammervene",
+  "latin": "Vena interventricularis anterior",
+  "system": "venous"
+ },
+ {
+  "english": "anterior part of lateral segmental vein",
+  "german": "Vorderer Teil der seitlichen Segmentvene",
+  "latin": "Pars anterior venae segmentalis lateralis",
+  "system": "venous"
+ },
+ {
+  "english": "anterior part of right apical segmental vein",
+  "german": "Vorderer Teil der rechten apikalen Segmentvene",
+  "latin": "Pars anterior venae segmentalis apicalis dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "anterior superior segmental branch of right portal vein",
+  "german": "Vorderer oberer Segmentast der rechten Pfortader",
+  "latin": "Ramus segmentalis anterior superior venae portae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "anterior superior segmental tributary of right hepatic vein",
+  "german": "Vorderer oberer Segmentzufluss der rechten Lebervene",
+  "latin": "Ramus segmentalis anterior superior venae hepaticae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "apical part of right apical segmental vein",
+  "german": "Apikaler Teil der rechten apikalen Segmentvene",
+  "latin": "Pars apicalis venae segmentalis apicalis dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "ascending lumbar vein",
+  "german": "Aufsteigende Lendenvene",
+  "latin": "Vena lumbalis ascendens",
+  "system": "venous"
+ },
+ {
+  "english": "azygos vein",
+  "german": "Azygosvene",
+  "latin": "Vena azygos",
+  "system": "venous"
+ },
+ {
+  "english": "caudate lobe branch of left portal vein",
+  "german": "Schwanzlappenast der linken Pfortader",
+  "latin": "Ramus lobi caudati venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "caudate lobe branch of right portal vein",
+  "german": "Schwanzlappenast der rechten Pfortader",
+  "latin": "Ramus lobi caudati venae portae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "common palmar digital vein",
+  "german": "Gemeinsame Hohlhand-Fingervene",
+  "latin": "Vena digitalis palmaris communis",
+  "system": "venous"
+ },
+ {
+  "english": "coronary sinus",
+  "german": "Koronarsinus",
+  "latin": "Sinus coronarius",
+  "system": "venous"
+ },
+ {
+  "english": "deep dorsal vein of penis",
+  "german": "Tiefe dorsale Penisvene",
+  "latin": "Vena dorsalis profunda penis",
+  "system": "venous"
+ },
+ {
+  "english": "dorsal metacarpal vein",
+  "german": "Dorsale Mittelhandvene",
+  "latin": "Vena metacarpalis dorsalis",
+  "system": "venous"
+ },
+ {
+  "english": "dorsal venous arch of left foot",
+  "german": "Linker dorsaler Fußvenenbogen",
+  "latin": "Arcus venosus dorsalis pedis sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "dorsal venous arch of right foot",
+  "german": "Rechter dorsaler Fußvenenbogen",
+  "latin": "Arcus venosus dorsalis pedis dextri",
+  "system": "venous"
+ },
+ {
+  "english": "dorsal venous network of left hand",
+  "german": "Linkes dorsales Handvenennetz",
+  "latin": "Rete venosum dorsale manus sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "dorsal venous network of right hand",
+  "german": "Rechtes dorsales Handvenennetz",
+  "latin": "Rete venosum dorsale manus dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "great cardiac vein",
+  "german": "Große Herzvene",
+  "latin": "Vena cardiaca magna",
+  "system": "venous"
+ },
+ {
+  "english": "hemiazygos vein",
+  "german": "Hemiazygosvene",
+  "latin": "Vena hemiazygos",
+  "system": "venous"
+ },
+ {
+  "english": "hepatic portal vein",
+  "german": "Pfortader",
+  "latin": "Vena portae hepatis",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment ii",
+  "german": "Lebervenensegment II",
+  "latin": "Segmentum hepatovenosum II",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment iii",
+  "german": "Lebervenensegment III",
+  "latin": "Segmentum hepatovenosum III",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment iv",
+  "german": "Lebervenensegment IV",
+  "latin": "Segmentum hepatovenosum IV",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment ix",
+  "german": "Lebervenensegment IX",
+  "latin": "Segmentum hepatovenosum IX",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment v",
+  "german": "Lebervenensegment V",
+  "latin": "Segmentum hepatovenosum V",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment vi",
+  "german": "Lebervenensegment VI",
+  "latin": "Segmentum hepatovenosum VI",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment vii",
+  "german": "Lebervenensegment VII",
+  "latin": "Segmentum hepatovenosum VII",
+  "system": "venous"
+ },
+ {
+  "english": "hepatovenous segment viii",
+  "german": "Lebervenensegment VIII",
+  "latin": "Segmentum hepatovenosum VIII",
+  "system": "venous"
+ },
+ {
+  "english": "ileal vein",
+  "german": "Krummdarmvene",
+  "latin": "Vena ilealis",
+  "system": "venous"
+ },
+ {
+  "english": "ileocolic vein",
+  "german": "Ileokolikvene",
+  "latin": "Vena ileocolica",
+  "system": "venous"
+ },
+ {
+  "english": "inferior lingular vein",
+  "german": "Untere Lingula-Vene",
+  "latin": "Vena lingularis inferior",
+  "system": "venous"
+ },
+ {
+  "english": "inferior mesenteric vein",
+  "german": "Untere Gekrösevene",
+  "latin": "Vena mesenterica inferior",
+  "system": "venous"
+ },
+ {
+  "english": "inferior part of medial segmental vein",
+  "german": "Unterer Teil der medialen Segmentvene",
+  "latin": "Pars inferior venae segmentalis medialis",
+  "system": "venous"
+ },
+ {
+  "english": "inferior part of right anterior segmental vein",
+  "german": "Unterer Teil der rechten vorderen Segmentvene",
+  "latin": "Pars inferior venae segmentalis anterioris dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "inferior phrenic vein",
+  "german": "Untere Zwerchfellvene",
+  "latin": "Vena phrenica inferior",
+  "system": "venous"
+ },
+ {
+  "english": "inferior vena cava",
+  "german": "Untere Hohlvene",
+  "latin": "Vena cava inferior",
+  "system": "venous"
+ },
+ {
+  "english": "lateral inferior segmental branch of left portal vein",
+  "german": "Seitlicher unterer Segmentast der linken Pfortader",
+  "latin": "Ramus segmentalis lateralis inferior venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "lateral inferior segmental tributary of left hepatic vein",
+  "german": "Seitlicher unterer Segmentzufluss der linken Lebervene",
+  "latin": "Ramus segmentalis lateralis inferior venae hepaticae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "lateral superior segmental branch of left portal vein",
+  "german": "Seitlicher oberer Segmentast der linken Pfortader",
+  "latin": "Ramus segmentalis lateralis superior venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "lateral superior segmental tributary of left hepatic vein",
+  "german": "Seitlicher oberer Segmentzufluss der linken Lebervene",
+  "latin": "Ramus segmentalis lateralis superior venae hepaticae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "left anterior basal segmental vein",
+  "german": "Linke vordere basale Segmentvene",
+  "latin": "Vena segmentalis basalis anterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left anterior circumflex humeral vein",
+  "german": "Linke vordere Oberarm-Zirkumflexvene",
+  "latin": "Vena circumflexa humeri anterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left anterior segmental vein",
+  "german": "Linke vordere Segmentvene",
+  "latin": "Vena segmentalis anterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left anterior tibial vein",
+  "german": "Linke vordere Schienbeinvene",
+  "latin": "Vena tibialis anterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left apical segmental vein",
+  "german": "Linke apikale Segmentvene",
+  "latin": "Vena segmentalis apicalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left ascending lumbar vein",
+  "german": "Linke aufsteigende Lendenvene",
+  "latin": "Vena lumbalis ascendens sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left axillary vein",
+  "german": "Linke Achselvene",
+  "latin": "Vena axillaris sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left basilic vein",
+  "german": "Linke Basilikavene",
+  "latin": "Vena basilica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left brachiocephalic vein",
+  "german": "Linke Arm-Kopf-Vene",
+  "latin": "Vena brachiocephalica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left cephalic vein",
+  "german": "Linke Kopfvene",
+  "latin": "Vena cephalica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left circumflex scapular vein",
+  "german": "Linke Schulterblatt-Zirkumflexvene",
+  "latin": "Vena circumflexa scapulae sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left colic vein",
+  "german": "Linke Dickdarmvene",
+  "latin": "Vena colica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left common iliac vein",
+  "german": "Linke gemeinsame Beckenvene",
+  "latin": "Vena iliaca communis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left deep femoral vein",
+  "german": "Linke tiefe Oberschenkelvene",
+  "latin": "Vena profunda femoris sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left deep palmar venous arch",
+  "german": "Linker tiefer Hohlhand-Venenbogen",
+  "latin": "Arcus venosus palmaris profundus sinister",
+  "system": "venous"
+ },
+ {
+  "english": "left external iliac vein",
+  "german": "Linke äußere Beckenvene",
+  "latin": "Vena iliaca externa sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left femoral vein",
+  "german": "Linke Oberschenkelvene",
+  "latin": "Vena femoralis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left fibular vein",
+  "german": "Linke Wadenbeinvene",
+  "latin": "Vena fibularis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left gastric vein",
+  "german": "Linke Magenvene",
+  "latin": "Vena gastrica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left gastroepiploic vein",
+  "german": "Linke Magen-Netz-Vene",
+  "latin": "Vena gastroomentalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left genicular vein",
+  "german": "Linke Knievene",
+  "latin": "Vena genicularis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left great saphenous vein",
+  "german": "Linke große Rosenvene",
+  "latin": "Vena saphena magna sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left hepatic vein",
+  "german": "Linke Lebervene",
+  "latin": "Vena hepatica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left iliolumbar vein",
+  "german": "Linke Darmbein-Lenden-Vene",
+  "latin": "Vena iliolumbalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left inferior epigastric vein",
+  "german": "Linke untere Bauchdeckenvene",
+  "latin": "Vena epigastrica inferior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left inferior gluteal vein",
+  "german": "Linke untere Gesäßvene",
+  "latin": "Vena glutea inferior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left inferior pulmonary vein",
+  "german": "Linke untere Lungenvene",
+  "latin": "Vena pulmonalis inferior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left internal iliac vein",
+  "german": "Linke innere Beckenvene",
+  "latin": "Vena iliaca interna sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left internal jugular vein",
+  "german": "Linke innere Drosselvene",
+  "latin": "Vena jugularis interna sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left internal pudendal vein",
+  "german": "Linke innere Schamvene",
+  "latin": "Vena pudenda interna sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left lateral basal segmental vein",
+  "german": "Linke seitliche basale Segmentvene",
+  "latin": "Vena segmentalis basalis lateralis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left lateral circumflex femoral vein",
+  "german": "Linke seitliche Oberschenkel-Zirkumflexvene",
+  "latin": "Vena circumflexa femoris lateralis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left lateral sacral vein",
+  "german": "Linke seitliche Kreuzbeinvene",
+  "latin": "Vena sacralis lateralis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left lateral thoracic vein",
+  "german": "Linke seitliche Brustwandvene",
+  "latin": "Vena thoracica lateralis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left marginal vein",
+  "german": "Linke Randvene",
+  "latin": "Vena marginalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left medial brachial vein",
+  "german": "Linke mediale Oberarmvene",
+  "latin": "Vena brachialis medialis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left medial circumflex femoral vein",
+  "german": "Linke mediale Oberschenkel-Zirkumflexvene",
+  "latin": "Vena circumflexa femoris medialis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left median antebrachial vein",
+  "german": "Linke mittlere Unterarmvene",
+  "latin": "Vena mediana antebrachii sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left median cubital vein",
+  "german": "Linke mittlere Ellenbeugenvene",
+  "latin": "Vena mediana cubiti sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left musculophrenic vein",
+  "german": "Linke Muskel-Zwerchfell-Vene",
+  "latin": "Vena musculophrenica sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left obturator vein",
+  "german": "Linke Hüftlochvene",
+  "latin": "Vena obturatoria sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left palmar metacarpal vein",
+  "german": "Linke Hohlhand-Mittelhandvene",
+  "latin": "Vena metacarpalis palmaris sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left popliteal vein",
+  "german": "Linke Kniekehlenvene",
+  "latin": "Vena poplitea sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left portal vein",
+  "german": "Linke Pfortader",
+  "latin": "Vena portae sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left posterior basal segmental vein",
+  "german": "Linke hintere basale Segmentvene",
+  "latin": "Vena segmentalis basalis posterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left posterior segmental vein",
+  "german": "Linke hintere Segmentvene",
+  "latin": "Vena segmentalis posterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left posterior tibial vein",
+  "german": "Linke hintere Schienbeinvene",
+  "latin": "Vena tibialis posterior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left radial vein",
+  "german": "Linke Speichenvene",
+  "latin": "Vena radialis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left renal vein",
+  "german": "Linke Nierenvene",
+  "latin": "Vena renalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left small saphenous vein",
+  "german": "Linke kleine Rosenvene",
+  "latin": "Vena saphena parva sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left subclavian vein",
+  "german": "Linke Unterschlüsselbeinvene",
+  "latin": "Vena subclavia sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left subcostal vein",
+  "german": "Linke Unterrippenvene",
+  "latin": "Vena subcostalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left subscapular vein",
+  "german": "Linke Unterschulterblattvene",
+  "latin": "Vena subscapularis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superficial dorsal vein of penis",
+  "german": "Linke oberflächliche dorsale Penisvene",
+  "latin": "Vena dorsalis superficialis penis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superficial epigastric vein",
+  "german": "Linke oberflächliche Bauchdeckenvene",
+  "latin": "Vena epigastrica superficialis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superficial palmar venous arch",
+  "german": "Linker oberflächlicher Hohlhand-Venenbogen",
+  "latin": "Arcus venosus palmaris superficialis sinister",
+  "system": "venous"
+ },
+ {
+  "english": "left superior epigastric vein",
+  "german": "Linke obere Bauchdeckenvene",
+  "latin": "Vena epigastrica superior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superior gluteal vein",
+  "german": "Linke obere Gesäßvene",
+  "latin": "Vena glutea superior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superior intercostal vein",
+  "german": "Linke obere Zwischenrippenvene",
+  "latin": "Vena intercostalis superior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left superior pulmonary vein",
+  "german": "Linke obere Lungenvene",
+  "latin": "Vena pulmonalis superior sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left suprarenal vein",
+  "german": "Linke Nebennierenvene",
+  "latin": "Vena suprarenalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left suprascapular vein",
+  "german": "Linke Oberschulterblattvene",
+  "latin": "Vena suprascapularis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left testicular vein",
+  "german": "Linke Hodenvene",
+  "latin": "Vena testicularis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left thoracodorsal vein",
+  "german": "Linke Brust-Rücken-Vene",
+  "latin": "Vena thoracodorsalis sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "left ulnar vein",
+  "german": "Linke Ellenvene",
+  "latin": "Vena ulnaris sinistra",
+  "system": "venous"
+ },
+ {
+  "english": "lumbar vein",
+  "german": "Lendenvene",
+  "latin": "Vena lumbalis",
+  "system": "venous"
+ },
+ {
+  "english": "medial inferior segmental branch of left portal vein",
+  "german": "Medialer unterer Segmentast der linken Pfortader",
+  "latin": "Ramus segmentalis medialis inferior venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "medial inferior segmental tributary of middle hepatic vein",
+  "german": "Medialer unterer Segmentzufluss der mittleren Lebervene",
+  "latin": "Ramus segmentalis medialis inferior venae hepaticae intermediae",
+  "system": "venous"
+ },
+ {
+  "english": "medial superior segmental branch of left portal vein",
+  "german": "Medialer oberer Segmentast der linken Pfortader",
+  "latin": "Ramus segmentalis medialis superior venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "medial superior segmental tributary of left hepatic vein",
+  "german": "Medialer oberer Segmentzufluss der linken Lebervene",
+  "latin": "Ramus segmentalis medialis superior venae hepaticae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "median sacral vein",
+  "german": "Mittlere Kreuzbeinvene",
+  "latin": "Vena sacralis mediana",
+  "system": "venous"
+ },
+ {
+  "english": "middle cardiac vein",
+  "german": "Mittlere Herzvene",
+  "latin": "Vena cardiaca media",
+  "system": "venous"
+ },
+ {
+  "english": "middle colic vein",
+  "german": "Mittlere Dickdarmvene",
+  "latin": "Vena colica media",
+  "system": "venous"
+ },
+ {
+  "english": "middle hepatic vein",
+  "german": "Mittlere Lebervene",
+  "latin": "Vena hepatica intermedia",
+  "system": "venous"
+ },
+ {
+  "english": "pancreaticoduodenal vein",
+  "german": "Pankreas-Duodenal-Vene",
+  "latin": "Vena pancreaticoduodenalis",
+  "system": "venous"
+ },
+ {
+  "english": "plantar metatarsal vein",
+  "german": "Fußsohlen-Mittelfußvene",
+  "latin": "Vena metatarsalis plantaris",
+  "system": "venous"
+ },
+ {
+  "english": "plantar venous arch of left foot",
+  "german": "Linker Fußsohlen-Venenbogen",
+  "latin": "Arcus venosus plantaris pedis sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "plantar venous arch of right foot",
+  "german": "Rechter Fußsohlen-Venenbogen",
+  "latin": "Arcus venosus plantaris pedis dextri",
+  "system": "venous"
+ },
+ {
+  "english": "posterior inferior segmental branch of right portal vein",
+  "german": "Hinterer unterer Segmentast der rechten Pfortader",
+  "latin": "Ramus segmentalis posterior inferior venae portae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "posterior inferior segmental tributary of right hepatic vein",
+  "german": "Hinterer unterer Segmentzufluss der rechten Lebervene",
+  "latin": "Ramus segmentalis posterior inferior venae hepaticae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "posterior part of lateral segmental vein",
+  "german": "Hinterer Teil der seitlichen Segmentvene",
+  "latin": "Pars posterior venae segmentalis lateralis",
+  "system": "venous"
+ },
+ {
+  "english": "posterior superior segmental branch of right portal vein",
+  "german": "Hinterer oberer Segmentast der rechten Pfortader",
+  "latin": "Ramus segmentalis posterior superior venae portae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "posterior superior segmental tributary of right hepatic vein",
+  "german": "Hinterer oberer Segmentzufluss der rechten Lebervene",
+  "latin": "Ramus segmentalis posterior superior venae hepaticae dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "posterior vein of left ventricle",
+  "german": "Hintere Vene der linken Herzkammer",
+  "latin": "Vena posterior ventriculi sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "pre-hepatic portal vein",
+  "german": "Prähepatische Pfortader",
+  "latin": "Vena portae prehepatica",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of left index finger",
+  "german": "Eigentliche Hohlhand-Fingervene des linken Zeigefingers",
+  "latin": "Vena digitalis palmaris propria indicis sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of left little finger",
+  "german": "Eigentliche Hohlhand-Fingervene des linken Kleinfingers",
+  "latin": "Vena digitalis palmaris propria digiti minimi sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of left middle finger",
+  "german": "Eigentliche Hohlhand-Fingervene des linken Mittelfingers",
+  "latin": "Vena digitalis palmaris propria digiti medii sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of left ring finger",
+  "german": "Eigentliche Hohlhand-Fingervene des linken Ringfingers",
+  "latin": "Vena digitalis palmaris propria digiti anularis sinistri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of right index finger",
+  "german": "Eigentliche Hohlhand-Fingervene des rechten Zeigefingers",
+  "latin": "Vena digitalis palmaris propria indicis dextri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of right little finger",
+  "german": "Eigentliche Hohlhand-Fingervene des rechten Kleinfingers",
+  "latin": "Vena digitalis palmaris propria digiti minimi dextri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of right middle finger",
+  "german": "Eigentliche Hohlhand-Fingervene des rechten Mittelfingers",
+  "latin": "Vena digitalis palmaris propria digiti medii dextri",
+  "system": "venous"
+ },
+ {
+  "english": "proper palmar digital vein of right ring finger",
+  "german": "Eigentliche Hohlhand-Fingervene des rechten Ringfingers",
+  "latin": "Vena digitalis palmaris propria digiti anularis dextri",
+  "system": "venous"
+ },
+ {
+  "english": "right anterior basal segmental vein",
+  "german": "Rechte vordere basale Segmentvene",
+  "latin": "Vena segmentalis basalis anterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right anterior circumflex humeral vein",
+  "german": "Rechte vordere Oberarm-Zirkumflexvene",
+  "latin": "Vena circumflexa humeri anterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right anterior segmental vein",
+  "german": "Rechte vordere Segmentvene",
+  "latin": "Vena segmentalis anterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right anterior tibial vein",
+  "german": "Rechte vordere Schienbeinvene",
+  "latin": "Vena tibialis anterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right ascending lumbar vein",
+  "german": "Rechte aufsteigende Lendenvene",
+  "latin": "Vena lumbalis ascendens dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right axillary vein",
+  "german": "Rechte Achselvene",
+  "latin": "Vena axillaris dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right basilic vein",
+  "german": "Rechte Basilikavene",
+  "latin": "Vena basilica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right brachiocephalic vein",
+  "german": "Rechte Arm-Kopf-Vene",
+  "latin": "Vena brachiocephalica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right cephalic vein",
+  "german": "Rechte Kopfvene",
+  "latin": "Vena cephalica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right circumflex scapular vein",
+  "german": "Rechte Schulterblatt-Zirkumflexvene",
+  "latin": "Vena circumflexa scapulae dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right colic vein",
+  "german": "Rechte Dickdarmvene",
+  "latin": "Vena colica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right common iliac vein",
+  "german": "Rechte gemeinsame Beckenvene",
+  "latin": "Vena iliaca communis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right deep femoral vein",
+  "german": "Rechte tiefe Oberschenkelvene",
+  "latin": "Vena profunda femoris dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right deep palmar venous arch",
+  "german": "Rechter tiefer Hohlhand-Venenbogen",
+  "latin": "Arcus venosus palmaris profundus dexter",
+  "system": "venous"
+ },
+ {
+  "english": "right external iliac vein",
+  "german": "Rechte äußere Beckenvene",
+  "latin": "Vena iliaca externa dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right femoral vein",
+  "german": "Rechte Oberschenkelvene",
+  "latin": "Vena femoralis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right fibular vein",
+  "german": "Rechte Wadenbeinvene",
+  "latin": "Vena fibularis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right gastric vein",
+  "german": "Rechte Magenvene",
+  "latin": "Vena gastrica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right gastroepiploic vein",
+  "german": "Rechte Magen-Netz-Vene",
+  "latin": "Vena gastroomentalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right genicular vein",
+  "german": "Rechte Knievene",
+  "latin": "Vena genicularis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right great saphenous vein",
+  "german": "Rechte große Rosenvene",
+  "latin": "Vena saphena magna dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right hepatic vein",
+  "german": "Rechte Lebervene",
+  "latin": "Vena hepatica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right iliolumbar vein",
+  "german": "Rechte Darmbein-Lenden-Vene",
+  "latin": "Vena iliolumbalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right inferior epigastric vein",
+  "german": "Rechte untere Bauchdeckenvene",
+  "latin": "Vena epigastrica inferior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right inferior gluteal vein",
+  "german": "Rechte untere Gesäßvene",
+  "latin": "Vena glutea inferior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right inferior pulmonary vein",
+  "german": "Rechte untere Lungenvene",
+  "latin": "Vena pulmonalis inferior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right internal iliac vein",
+  "german": "Rechte innere Beckenvene",
+  "latin": "Vena iliaca interna dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right internal jugular vein",
+  "german": "Rechte innere Drosselvene",
+  "latin": "Vena jugularis interna dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right internal pudendal vein",
+  "german": "Rechte innere Schamvene",
+  "latin": "Vena pudenda interna dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right internal thoracic vein",
+  "german": "Rechte innere Brustwandvene",
+  "latin": "Vena thoracica interna dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right lateral basal segmental vein",
+  "german": "Rechte seitliche basale Segmentvene",
+  "latin": "Vena segmentalis basalis lateralis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right lateral circumflex femoral vein",
+  "german": "Rechte seitliche Oberschenkel-Zirkumflexvene",
+  "latin": "Vena circumflexa femoris lateralis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right lateral sacral vein",
+  "german": "Rechte seitliche Kreuzbeinvene",
+  "latin": "Vena sacralis lateralis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right lateral thoracic vein",
+  "german": "Rechte seitliche Brustwandvene",
+  "latin": "Vena thoracica lateralis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right marginal vein",
+  "german": "Rechte Randvene",
+  "latin": "Vena marginalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right medial basal segmental vein",
+  "german": "Rechte mediale basale Segmentvene",
+  "latin": "Vena segmentalis basalis medialis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right medial brachial vein",
+  "german": "Rechte mediale Oberarmvene",
+  "latin": "Vena brachialis medialis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right medial circumflex femoral vein",
+  "german": "Rechte mediale Oberschenkel-Zirkumflexvene",
+  "latin": "Vena circumflexa femoris medialis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right median antebrachial vein",
+  "german": "Rechte mittlere Unterarmvene",
+  "latin": "Vena mediana antebrachii dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right median cubital vein",
+  "german": "Rechte mittlere Ellenbeugenvene",
+  "latin": "Vena mediana cubiti dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right musculophrenic vein",
+  "german": "Rechte Muskel-Zwerchfell-Vene",
+  "latin": "Vena musculophrenica dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right obturator vein",
+  "german": "Rechte Hüftlochvene",
+  "latin": "Vena obturatoria dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right palmar metacarpal vein",
+  "german": "Rechte Hohlhand-Mittelhandvene",
+  "latin": "Vena metacarpalis palmaris dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right popliteal vein",
+  "german": "Rechte Kniekehlenvene",
+  "latin": "Vena poplitea dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right portal vein",
+  "german": "Rechte Pfortader",
+  "latin": "Vena portae dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right posterior basal segmental vein",
+  "german": "Rechte hintere basale Segmentvene",
+  "latin": "Vena segmentalis basalis posterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right posterior segmental vein",
+  "german": "Rechte hintere Segmentvene",
+  "latin": "Vena segmentalis posterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right posterior tibial vein",
+  "german": "Rechte hintere Schienbeinvene",
+  "latin": "Vena tibialis posterior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right radial vein",
+  "german": "Rechte Speichenvene",
+  "latin": "Vena radialis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right renal vein",
+  "german": "Rechte Nierenvene",
+  "latin": "Vena renalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right small saphenous vein",
+  "german": "Rechte kleine Rosenvene",
+  "latin": "Vena saphena parva dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right subclavian vein",
+  "german": "Rechte Unterschlüsselbeinvene",
+  "latin": "Vena subclavia dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right subcostal vein",
+  "german": "Rechte Unterrippenvene",
+  "latin": "Vena subcostalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right subscapular vein",
+  "german": "Rechte Unterschulterblattvene",
+  "latin": "Vena subscapularis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superficial dorsal vein of penis",
+  "german": "Rechte oberflächliche dorsale Penisvene",
+  "latin": "Vena dorsalis superficialis penis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superficial epigastric vein",
+  "german": "Rechte oberflächliche Bauchdeckenvene",
+  "latin": "Vena epigastrica superficialis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superficial palmar venous arch",
+  "german": "Rechter oberflächlicher Hohlhand-Venenbogen",
+  "latin": "Arcus venosus palmaris superficialis dexter",
+  "system": "venous"
+ },
+ {
+  "english": "right superior epigastric vein",
+  "german": "Rechte obere Bauchdeckenvene",
+  "latin": "Vena epigastrica superior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superior gluteal vein",
+  "german": "Rechte obere Gesäßvene",
+  "latin": "Vena glutea superior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superior intercostal vein",
+  "german": "Rechte obere Zwischenrippenvene",
+  "latin": "Vena intercostalis superior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superior pulmonary vein",
+  "german": "Rechte obere Lungenvene",
+  "latin": "Vena pulmonalis superior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right superior segmental vein",
+  "german": "Rechte obere Segmentvene",
+  "latin": "Vena segmentalis superior dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right suprarenal vein",
+  "german": "Rechte Nebennierenvene",
+  "latin": "Vena suprarenalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right suprascapular vein",
+  "german": "Rechte Oberschulterblattvene",
+  "latin": "Vena suprascapularis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right testicular vein",
+  "german": "Rechte Hodenvene",
+  "latin": "Vena testicularis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right thoracodorsal vein",
+  "german": "Rechte Brust-Rücken-Vene",
+  "latin": "Vena thoracodorsalis dextra",
+  "system": "venous"
+ },
+ {
+  "english": "right ulnar vein",
+  "german": "Rechte Ellenvene",
+  "latin": "Vena ulnaris dextra",
+  "system": "venous"
+ },
+ {
+  "english": "set of anterior intercostal veins",
+  "german": "Vordere Zwischenrippenvenen",
+  "latin": "Venae intercostales anteriores",
+  "system": "venous"
+ },
+ {
+  "english": "set of dorsal digital veins",
+  "german": "Rückseitige Fingervenen",
+  "latin": "Venae digitales dorsales",
+  "system": "venous"
+ },
+ {
+  "english": "set of perforating veins",
+  "german": "Perforansvenen",
+  "latin": "Venae perforantes",
+  "system": "venous"
+ },
+ {
+  "english": "set of plantar digital veins",
+  "german": "Fußsohlen-Zehenvenen",
+  "latin": "Venae digitales plantares",
+  "system": "venous"
+ },
+ {
+  "english": "sigmoid vein",
+  "german": "Sigmavene",
+  "latin": "Vena sigmoidea",
+  "system": "venous"
+ },
+ {
+  "english": "small cardiac vein",
+  "german": "Kleine Herzvene",
+  "latin": "Vena cardiaca parva",
+  "system": "venous"
+ },
+ {
+  "english": "splenic vein",
+  "german": "Milzvene",
+  "latin": "Vena splenica",
+  "system": "venous"
+ },
+ {
+  "english": "superficial dorsal vein of penis",
+  "german": "Oberflächliche dorsale Penisvene",
+  "latin": "Vena dorsalis superficialis penis",
+  "system": "venous"
+ },
+ {
+  "english": "superior lingular vein",
+  "german": "Obere Lingula-Vene",
+  "latin": "Vena lingularis superior",
+  "system": "venous"
+ },
+ {
+  "english": "superior mesenteric vein",
+  "german": "Obere Gekrösevene",
+  "latin": "Vena mesenterica superior",
+  "system": "venous"
+ },
+ {
+  "english": "superior part of medial segmental vein",
+  "german": "Oberer Teil der medialen Segmentvene",
+  "latin": "Pars superior venae segmentalis medialis",
+  "system": "venous"
+ },
+ {
+  "english": "superior part of right anterior segmental vein",
+  "german": "Oberer Teil der rechten vorderen Segmentvene",
+  "latin": "Pars superior venae segmentalis anterioris dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "superior phrenic vein",
+  "german": "Obere Zwerchfellvene",
+  "latin": "Vena phrenica superior",
+  "system": "venous"
+ },
+ {
+  "english": "superior rectal vein",
+  "german": "Obere Mastdarmvene",
+  "latin": "Vena rectalis superior",
+  "system": "venous"
+ },
+ {
+  "english": "superior vena cava",
+  "german": "Obere Hohlvene",
+  "latin": "Vena cava superior",
+  "system": "venous"
+ },
+ {
+  "english": "tributary of middle hepatic vein",
+  "german": "Zufluss der mittleren Lebervene",
+  "latin": "Ramus venae hepaticae intermediae",
+  "system": "venous"
+ },
+ {
+  "english": "tributary of plantar venous arch",
+  "german": "Zufluss des Fußsohlen-Venenbogens",
+  "latin": "Ramus arcus venosi plantaris",
+  "system": "venous"
+ },
+ {
+  "english": "trunk of left portal vein",
+  "german": "Stamm der linken Pfortader",
+  "latin": "Truncus venae portae sinistrae",
+  "system": "venous"
+ },
+ {
+  "english": "trunk of right apical segmental vein",
+  "german": "Stamm der rechten apikalen Segmentvene",
+  "latin": "Truncus venae segmentalis apicalis dextrae",
+  "system": "venous"
+ },
+ {
+  "english": "trunk of right portal vein",
+  "german": "Stamm der rechten Pfortader",
+  "latin": "Truncus venae portae dextrae",
+  "system": "venous"
+ }
+]

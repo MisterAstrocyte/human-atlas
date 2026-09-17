@@ -19,6 +19,14 @@ export const SYSTEMS: {id:SystemId;name:string;color:string;description:string}[
 export interface Part {id:string;name:string;conceptId:string;system:SystemId;chunk:number;positions:number;normals:number;indices:number;vertexCount:number;indexCount:number;bounds:[number[],number[]]}
 export interface Concept {id:string;name:string;elements:string[]}
 export interface Atlas {version:string;sex?:'male';source?:string;scope?:string;parts:Part[];concepts:Concept[];chunks:{url:string;bytes:number;gzip?:string;gzipBytes?:number}[];triangles:number}
+export type Lang = 'en'|'de';
+export interface Translation {parts:{id:string;conceptId:string;german:string;latin:string}[];concepts:{id:string;german:string;latin:string}[]}
+export type Names = Map<string,{de:string;la:string}>;
+export function buildNames(t:Translation):Names{const m:Names=new Map();t.concepts.forEach(c=>m.set(c.id,{de:c.german,la:c.latin}));t.parts.forEach(p=>m.set(p.id,{de:p.german,la:p.latin}));return m;}
+export function displayName(id:string,english:string,lang:Lang,names:Names|null){if(lang==='en'||!names)return english;const n=names.get(id);return n?n.de:english;}
+export function latinName(id:string,names:Names|null){return names?.get(id)?.la??'';}
+export interface InfoDe {classes:Record<string,{nu:string[];su:string[];di:[string,string][]}>;items:Record<string,{c:string;d:string}>}
+export function infoFor(info:InfoDe|null,id:string){if(!info)return null;const it=info.items[id];if(!it)return null;const cl=info.classes[it.c];return {description:it.d,nutrients:cl?.nu??[],supplements:cl?.su??[],diseases:cl?.di??[]};}
 export type View = 'three-quarter'|'front'|'back'|'side';
 export interface SceneState {inspectorOpen?:boolean;explode:number;visible:SystemId[];selected:string[];isolate:boolean;view:View;rotate:boolean;reset:number}
 export const DEFAULT_VISIBLE:SystemId[] = ['cardiac','sensory','skeletal','muscular','arterial','venous','nervous','respiratory','digestive','urinary','lymphatic','endocrine','reproductive','connective'];
@@ -33,4 +41,6 @@ export const EXPLANATIONS:Record<string,string> = {
  'trachea':'The main airway connecting the larynx to the bronchi. Its cartilage supports keep the airway open during breathing.',
  'diaphragm':'A broad muscle separating the chest and abdomen. When it contracts, it increases chest volume and helps draw air into the lungs.',
 };
-export function explanation(name:string,system:SystemId){return EXPLANATIONS[name.toLowerCase()] ?? SYSTEMS.find(s=>s.id===system)?.description ?? '';}
+export function explanation(name:string,system:SystemId,lang:Lang='en'){if(lang==='de'){return EXPLANATIONS_DE[name.toLowerCase()] ?? SYSTEMS_DE[system]?.description ?? '';}return EXPLANATIONS[name.toLowerCase()] ?? SYSTEMS.find(s=>s.id===system)?.description ?? '';}
+export function systemName(id:SystemId,lang:Lang){return lang==='de'?SYSTEMS_DE[id].name:SYSTEMS.find(s=>s.id===id)?.name??id;}
+import {SYSTEMS_DE,EXPLANATIONS_DE} from './i18n';

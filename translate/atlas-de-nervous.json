@@ -1,0 +1,746 @@
+[
+ {
+  "english": "anterior commissure",
+  "german": "Vordere Kommissur",
+  "latin": "Commissura anterior",
+  "system": "nervous"
+ },
+ {
+  "english": "anterior part of left superior temporal gyrus",
+  "german": "Vorderer Teil des linken Gyrus temporalis superior",
+  "latin": "Pars anterior gyri temporalis superioris sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "anterior part of right superior temporal gyrus",
+  "german": "Vorderer Teil des rechten Gyrus temporalis superior",
+  "latin": "Pars anterior gyri temporalis superioris dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "brachium of left inferior colliculus",
+  "german": "Arm des linken unteren Hügels",
+  "latin": "Brachium colliculi inferioris sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "brachium of left superior colliculus",
+  "german": "Arm des linken oberen Hügels",
+  "latin": "Brachium colliculi superioris sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "brachium of right inferior colliculus",
+  "german": "Arm des rechten unteren Hügels",
+  "latin": "Brachium colliculi inferioris dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "brachium of right superior colliculus",
+  "german": "Arm des rechten oberen Hügels",
+  "latin": "Brachium colliculi superioris dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "central canal of spinal cord",
+  "german": "Zentralkanal des Rückenmarks",
+  "latin": "Canalis centralis medullae spinalis",
+  "system": "nervous"
+ },
+ {
+  "english": "cerebellum",
+  "german": "Kleinhirn",
+  "latin": "Cerebellum",
+  "system": "nervous"
+ },
+ {
+  "english": "cerebral aqueduct",
+  "german": "Hirnwasserleitung",
+  "latin": "Aqueductus mesencephali",
+  "system": "nervous"
+ },
+ {
+  "english": "commissure of fornix of forebrain",
+  "german": "Kommissur des Fornix",
+  "latin": "Commissura fornicis",
+  "system": "nervous"
+ },
+ {
+  "english": "communicating branch of left nasociliary nerve with left ciliary ganglion",
+  "german": "Verbindungsast des linken Nasoziliarnervs zum linken Ziliarganglion",
+  "latin": "Ramus communicans nervi nasociliaris sinistri cum ganglio ciliari sinistro",
+  "system": "nervous"
+ },
+ {
+  "english": "communicating branch of right nasociliary nerve with right ciliary ganglion",
+  "german": "Verbindungsast des rechten Nasoziliarnervs zum rechten Ziliarganglion",
+  "latin": "Ramus communicans nervi nasociliaris dextri cum ganglio ciliari dextro",
+  "system": "nervous"
+ },
+ {
+  "english": "corpus callosum",
+  "german": "Balken",
+  "latin": "Corpus callosum",
+  "system": "nervous"
+ },
+ {
+  "english": "habenula",
+  "german": "Habenula",
+  "latin": "Habenula",
+  "system": "nervous"
+ },
+ {
+  "english": "hypothalamus",
+  "german": "Hypothalamus",
+  "latin": "Hypothalamus",
+  "system": "nervous"
+ },
+ {
+  "english": "inferior branch of left oculomotor nerve",
+  "german": "Unterer Ast des linken Augenbewegungsnervs",
+  "latin": "Ramus inferior nervi oculomotorii sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "inferior branch of right oculomotor nerve",
+  "german": "Unterer Ast des rechten Augenbewegungsnervs",
+  "latin": "Ramus inferior nervi oculomotorii dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "interpeduncular fossa",
+  "german": "Interpedunkuläre Grube",
+  "latin": "Fossa interpeduncularis",
+  "system": "nervous"
+ },
+ {
+  "english": "lamina terminalis",
+  "german": "Lamina terminalis",
+  "latin": "Lamina terminalis",
+  "system": "nervous"
+ },
+ {
+  "english": "left amygdala",
+  "german": "Linker Mandelkern",
+  "latin": "Corpus amygdaloideum sinistrum",
+  "system": "nervous"
+ },
+ {
+  "english": "left angular gyrus",
+  "german": "Linker Gyrus angularis",
+  "latin": "Gyrus angularis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left anterior ethmoidal nerve",
+  "german": "Linker vorderer Siebbeinnerv",
+  "latin": "Nervus ethmoidalis anterior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left caudate nucleus",
+  "german": "Linker Schweifkern",
+  "latin": "Nucleus caudatus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left ciliary ganglion",
+  "german": "Linkes Ziliarganglion",
+  "latin": "Ganglion ciliare sinistrum",
+  "system": "nervous"
+ },
+ {
+  "english": "left cingulate gyrus",
+  "german": "Linke Gürtelwindung",
+  "latin": "Gyrus cinguli sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left fornix of forebrain",
+  "german": "Linker Fornix",
+  "latin": "Fornix sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left frontal nerve",
+  "german": "Linker Stirnnerv",
+  "latin": "Nervus frontalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left fusiform gyrus",
+  "german": "Linke Spindelförmige Windung",
+  "latin": "Gyrus fusiformis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left globus pallidus",
+  "german": "Linkes Pallidum",
+  "latin": "Globus pallidus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left hippocampus",
+  "german": "Linker Hippocampus",
+  "latin": "Hippocampus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left inferior colliculus",
+  "german": "Linker unterer Hügel",
+  "latin": "Colliculus inferior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left inferior frontal gyrus",
+  "german": "Linke untere Stirnwindung",
+  "latin": "Gyrus frontalis inferior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left inferior temporal gyrus",
+  "german": "Linke untere Schläfenwindung",
+  "latin": "Gyrus temporalis inferior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left infratrochlear nerve",
+  "german": "Linker Nervus infratrochlearis",
+  "latin": "Nervus infratrochlearis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left insula",
+  "german": "Linke Inselrinde",
+  "latin": "Insula sinistra",
+  "system": "nervous"
+ },
+ {
+  "english": "left internal capsule",
+  "german": "Linke innere Kapsel",
+  "latin": "Capsula interna sinistra",
+  "system": "nervous"
+ },
+ {
+  "english": "left lacrimal nerve",
+  "german": "Linker Tränennerv",
+  "latin": "Nervus lacrimalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left lateral geniculate body",
+  "german": "Linker seitlicher Kniehöcker",
+  "latin": "Corpus geniculatum laterale sinistrum",
+  "system": "nervous"
+ },
+ {
+  "english": "left long ciliary nerve",
+  "german": "Linker langer Ziliarnerv",
+  "latin": "Nervus ciliaris longus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left medial geniculate body",
+  "german": "Linker medialer Kniehöcker",
+  "latin": "Corpus geniculatum mediale sinistrum",
+  "system": "nervous"
+ },
+ {
+  "english": "left middle frontal gyrus",
+  "german": "Linke mittlere Stirnwindung",
+  "latin": "Gyrus frontalis medius sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left middle temporal gyrus",
+  "german": "Linke mittlere Schläfenwindung",
+  "latin": "Gyrus temporalis medius sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left nasociliary nerve",
+  "german": "Linker Nasoziliarnerv",
+  "latin": "Nervus nasociliaris sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left occipital lobe",
+  "german": "Linker Hinterhauptslappen",
+  "latin": "Lobus occipitalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left ophthalmic nerve",
+  "german": "Linker Augennerv",
+  "latin": "Nervus ophthalmicus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left optic nerve",
+  "german": "Linker Sehnerv",
+  "latin": "Nervus opticus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left optic tract",
+  "german": "Linke Sehbahn",
+  "latin": "Tractus opticus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left parahippocampal gyrus",
+  "german": "Linke Parahippocampale Windung",
+  "latin": "Gyrus parahippocampalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left postcentral gyrus",
+  "german": "Linke hintere Zentralwindung",
+  "latin": "Gyrus postcentralis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left posterior ethmoidal nerve",
+  "german": "Linker hinterer Siebbeinnerv",
+  "latin": "Nervus ethmoidalis posterior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left precentral gyrus",
+  "german": "Linke vordere Zentralwindung",
+  "latin": "Gyrus precentralis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left putamen",
+  "german": "Linkes Putamen",
+  "latin": "Putamen sinistrum",
+  "system": "nervous"
+ },
+ {
+  "english": "left stria medullaris of thalamus",
+  "german": "Linker Markstreifen des Thalamus",
+  "latin": "Stria medullaris thalami sinistra",
+  "system": "nervous"
+ },
+ {
+  "english": "left stria terminalis",
+  "german": "Linke Stria terminalis",
+  "latin": "Stria terminalis sinistra",
+  "system": "nervous"
+ },
+ {
+  "english": "left superior colliculus",
+  "german": "Linker oberer Hügel",
+  "latin": "Colliculus superior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left superior frontal gyrus",
+  "german": "Linke obere Stirnwindung",
+  "latin": "Gyrus frontalis superior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left superior parietal lobule",
+  "german": "Linkes oberes Scheitelläppchen",
+  "latin": "Lobulus parietalis superior sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left supra-orbital nerve",
+  "german": "Linker oberer Augenhöhlennerv",
+  "latin": "Nervus supraorbitalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left supramarginal gyrus",
+  "german": "Linker Gyrus supramarginalis",
+  "latin": "Gyrus supramarginalis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left supratrochlear nerve",
+  "german": "Linker Nervus supratrochlearis",
+  "latin": "Nervus supratrochlearis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left thalamus",
+  "german": "Linker Thalamus",
+  "latin": "Thalamus sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "left trochlear nerve",
+  "german": "Linker Rollnerv",
+  "latin": "Nervus trochlearis sinister",
+  "system": "nervous"
+ },
+ {
+  "english": "mammillary body",
+  "german": "Brustwarzenkörper",
+  "latin": "Corpus mamillare",
+  "system": "nervous"
+ },
+ {
+  "english": "medulla oblongata",
+  "german": "Verlängertes Mark",
+  "latin": "Medulla oblongata",
+  "system": "nervous"
+ },
+ {
+  "english": "midbrain",
+  "german": "Mittelhirn",
+  "latin": "Mesencephalon",
+  "system": "nervous"
+ },
+ {
+  "english": "optic chiasm",
+  "german": "Sehnervenkreuzung",
+  "latin": "Chiasma opticum",
+  "system": "nervous"
+ },
+ {
+  "english": "orbital gyrus",
+  "german": "Orbitale Windung",
+  "latin": "Gyrus orbitalis",
+  "system": "nervous"
+ },
+ {
+  "english": "peduncle of midbrain",
+  "german": "Hirnschenkel",
+  "latin": "Pedunculus cerebri",
+  "system": "nervous"
+ },
+ {
+  "english": "pons",
+  "german": "Brücke",
+  "latin": "Pons",
+  "system": "nervous"
+ },
+ {
+  "english": "posterior commissure",
+  "german": "Hintere Kommissur",
+  "latin": "Commissura posterior",
+  "system": "nervous"
+ },
+ {
+  "english": "posterior part of left superior temporal gyrus",
+  "german": "Hinterer Teil des linken Gyrus temporalis superior",
+  "latin": "Pars posterior gyri temporalis superioris sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "posterior part of right superior temporal gyrus",
+  "german": "Hinterer Teil des rechten Gyrus temporalis superior",
+  "latin": "Pars posterior gyri temporalis superioris dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "right amygdala",
+  "german": "Rechter Mandelkern",
+  "latin": "Corpus amygdaloideum dextrum",
+  "system": "nervous"
+ },
+ {
+  "english": "right angular gyrus",
+  "german": "Rechter Gyrus angularis",
+  "latin": "Gyrus angularis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right anterior ethmoidal nerve",
+  "german": "Rechter vorderer Siebbeinnerv",
+  "latin": "Nervus ethmoidalis anterior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right caudate nucleus",
+  "german": "Rechter Schweifkern",
+  "latin": "Nucleus caudatus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right ciliary ganglion",
+  "german": "Rechtes Ziliarganglion",
+  "latin": "Ganglion ciliare dextrum",
+  "system": "nervous"
+ },
+ {
+  "english": "right cingulate gyrus",
+  "german": "Rechte Gürtelwindung",
+  "latin": "Gyrus cinguli dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right fornix of forebrain",
+  "german": "Rechter Fornix",
+  "latin": "Fornix dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right frontal nerve",
+  "german": "Rechter Stirnnerv",
+  "latin": "Nervus frontalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right fusiform gyrus",
+  "german": "Rechte Spindelförmige Windung",
+  "latin": "Gyrus fusiformis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right globus pallidus",
+  "german": "Rechtes Pallidum",
+  "latin": "Globus pallidus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right hippocampus",
+  "german": "Rechter Hippocampus",
+  "latin": "Hippocampus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right inferior colliculus",
+  "german": "Rechter unterer Hügel",
+  "latin": "Colliculus inferior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right inferior frontal gyrus",
+  "german": "Rechte untere Stirnwindung",
+  "latin": "Gyrus frontalis inferior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right inferior temporal gyrus",
+  "german": "Rechte untere Schläfenwindung",
+  "latin": "Gyrus temporalis inferior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right infratrochlear nerve",
+  "german": "Rechter Nervus infratrochlearis",
+  "latin": "Nervus infratrochlearis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right insula",
+  "german": "Rechte Inselrinde",
+  "latin": "Insula dextra",
+  "system": "nervous"
+ },
+ {
+  "english": "right internal capsule",
+  "german": "Rechte innere Kapsel",
+  "latin": "Capsula interna dextra",
+  "system": "nervous"
+ },
+ {
+  "english": "right lacrimal nerve",
+  "german": "Rechter Tränennerv",
+  "latin": "Nervus lacrimalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right lateral geniculate body",
+  "german": "Rechter seitlicher Kniehöcker",
+  "latin": "Corpus geniculatum laterale dextrum",
+  "system": "nervous"
+ },
+ {
+  "english": "right long ciliary nerve",
+  "german": "Rechter langer Ziliarnerv",
+  "latin": "Nervus ciliaris longus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right medial geniculate body",
+  "german": "Rechter medialer Kniehöcker",
+  "latin": "Corpus geniculatum mediale dextrum",
+  "system": "nervous"
+ },
+ {
+  "english": "right middle frontal gyrus",
+  "german": "Rechte mittlere Stirnwindung",
+  "latin": "Gyrus frontalis medius dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right middle temporal gyrus",
+  "german": "Rechte mittlere Schläfenwindung",
+  "latin": "Gyrus temporalis medius dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right nasociliary nerve",
+  "german": "Rechter Nasoziliarnerv",
+  "latin": "Nervus nasociliaris dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right occipital lobe",
+  "german": "Rechter Hinterhauptslappen",
+  "latin": "Lobus occipitalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right ophthalmic nerve",
+  "german": "Rechter Augennerv",
+  "latin": "Nervus ophthalmicus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right optic nerve",
+  "german": "Rechter Sehnerv",
+  "latin": "Nervus opticus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right optic tract",
+  "german": "Rechte Sehbahn",
+  "latin": "Tractus opticus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right parahippocampal gyrus",
+  "german": "Rechte Parahippocampale Windung",
+  "latin": "Gyrus parahippocampalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right postcentral gyrus",
+  "german": "Rechte hintere Zentralwindung",
+  "latin": "Gyrus postcentralis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right posterior ethmoidal nerve",
+  "german": "Rechter hinterer Siebbeinnerv",
+  "latin": "Nervus ethmoidalis posterior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right precentral gyrus",
+  "german": "Rechte vordere Zentralwindung",
+  "latin": "Gyrus precentralis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right putamen",
+  "german": "Rechtes Putamen",
+  "latin": "Putamen dextrum",
+  "system": "nervous"
+ },
+ {
+  "english": "right stria medullaris of thalamus",
+  "german": "Rechter Markstreifen des Thalamus",
+  "latin": "Stria medullaris thalami dextra",
+  "system": "nervous"
+ },
+ {
+  "english": "right superior colliculus",
+  "german": "Rechter oberer Hügel",
+  "latin": "Colliculus superior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right superior frontal gyrus",
+  "german": "Rechte obere Stirnwindung",
+  "latin": "Gyrus frontalis superior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right superior parietal lobule",
+  "german": "Rechtes oberes Scheitelläppchen",
+  "latin": "Lobulus parietalis superior dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right supra-orbital nerve",
+  "german": "Rechter oberer Augenhöhlennerv",
+  "latin": "Nervus supraorbitalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right supramarginal gyrus",
+  "german": "Rechter Gyrus supramarginalis",
+  "latin": "Gyrus supramarginalis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right supratrochlear nerve",
+  "german": "Rechter Nervus supratrochlearis",
+  "latin": "Nervus supratrochlearis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right thalamus",
+  "german": "Rechter Thalamus",
+  "latin": "Thalamus dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "right trochlear nerve",
+  "german": "Rechter Rollnerv",
+  "latin": "Nervus trochlearis dexter",
+  "system": "nervous"
+ },
+ {
+  "english": "septum of telencephalon",
+  "german": "Septum des Endhirns",
+  "latin": "Septum telencephali",
+  "system": "nervous"
+ },
+ {
+  "english": "short ciliary nerve",
+  "german": "Kurzer Ziliarnerv",
+  "latin": "Nervus ciliaris brevis",
+  "system": "nervous"
+ },
+ {
+  "english": "stria terminalis",
+  "german": "Stria terminalis",
+  "latin": "Stria terminalis",
+  "system": "nervous"
+ },
+ {
+  "english": "superior branch of left oculomotor nerve",
+  "german": "Oberer Ast des linken Augenbewegungsnervs",
+  "latin": "Ramus superior nervi oculomotorii sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "superior branch of right oculomotor nerve",
+  "german": "Oberer Ast des rechten Augenbewegungsnervs",
+  "latin": "Ramus superior nervi oculomotorii dextri",
+  "system": "nervous"
+ },
+ {
+  "english": "tentorium cerebelli",
+  "german": "Kleinhirnzelt",
+  "latin": "Tentorium cerebelli",
+  "system": "nervous"
+ },
+ {
+  "english": "tuber cinereum",
+  "german": "Tuber cinereum",
+  "latin": "Tuber cinereum",
+  "system": "nervous"
+ },
+ {
+  "english": "white matter of left cerebral hemisphere",
+  "german": "Weiße Substanz der linken Großhirnhemisphäre",
+  "latin": "Substantia alba hemispherii cerebri sinistri",
+  "system": "nervous"
+ },
+ {
+  "english": "white matter of right cerebral hemisphere",
+  "german": "Weiße Substanz der rechten Großhirnhemisphäre",
+  "latin": "Substantia alba hemispherii cerebri dextri",
+  "system": "nervous"
+ }
+]

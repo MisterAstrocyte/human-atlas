@@ -7,8 +7,9 @@ import {createExplosionLayout} from './explosion-layout';
 import {decodeModelResponse} from './model-download';
 import {PointerTap} from './pointer-tap';
 import {SYSTEMS,type Atlas,type SceneState} from './anatomy';
-interface Props {atlas:Atlas;state:SceneState;onSelect:(id:string)=>void;onProgress:(n:number)=>void;onError:(s:string)=>void}
-export default function AnatomyScene({atlas,state,onSelect,onProgress,onError}:Props){
+interface Props {atlas:Atlas;state:SceneState;onSelect:(id:string)=>void;onProgress:(n:number)=>void;onError:(s:string)=>void;label?:(id:string,name:string)=>string}
+export default function AnatomyScene({atlas,state,onSelect,onProgress,onError,label}:Props){
+ const labelRef=useRef(label);labelRef.current=label;
  const host=useRef<HTMLDivElement>(null),latest=useRef(state),select=useRef(onSelect);
  latest.current=state;select.current=onSelect;
  useEffect(()=>{
@@ -83,9 +84,34 @@ export default function AnatomyScene({atlas,state,onSelect,onProgress,onError}:P
    controls.target.set(extent>.1&&el.clientWidth>767?-packingWidth*.12:0,extent>.1||mobile?.85:.68,0);camera.position.copy(controls.target).addScaledVector(direction,distance);controls.update();dirty=true;
   };
   const resize=()=>{layoutKey='';lastState=null;renderer.setPixelRatio(Math.min(devicePixelRatio,el.clientWidth<768||el.clientHeight<600?1.5:2));camera.aspect=el.clientWidth/el.clientHeight;camera.updateProjectionMatrix();renderer.setSize(el.clientWidth,el.clientHeight);fit(latest.current.view,amount);};const observer=new ResizeObserver(resize);observer.observe(el);
+  const keys=new Set<string>();
+  const typing=(t:EventTarget|null)=>{const n=t as HTMLElement|null;return !!n&&(n.tagName==='INPUT'||n.tagName==='TEXTAREA'||n.isContentEditable);};
+  const KEYS=new Set(['w','a','s','d','q','e','r','f','arrowup','arrowdown','arrowleft','arrowright','shift']);
+  const keyDown=(e:KeyboardEvent)=>{if(typing(e.target)||e.metaKey||e.ctrlKey||e.altKey)return;const k=e.key.toLowerCase();if(!KEYS.has(k))return;e.preventDefault();keys.add(k);};
+  const keyUp=(e:KeyboardEvent)=>{keys.delete(e.key.toLowerCase());};
+  const blur=()=>keys.clear();
+  addEventListener('keydown',keyDown);addEventListener('keyup',keyUp);addEventListener('blur',blur);
+  const moveForward=new T.Vector3(),moveRight=new T.Vector3(),moveStep=new T.Vector3();
+  const stepCamera=(dt:number)=>{
+   if(!keys.size)return false;
+   const fwd=(keys.has('w')?1:0)-(keys.has('s')?1:0);
+   const strafe=(keys.has('d')?1:0)-(keys.has('a')?1:0)+(keys.has('arrowright')?1:0)-(keys.has('arrowleft')?1:0);
+   const lift=(keys.has('e')||keys.has('r')||keys.has('arrowup')?1:0)-(keys.has('q')||keys.has('f')||keys.has('arrowdown')?1:0);
+   if(!fwd&&!strafe&&!lift)return false;
+   const distance=camera.position.distanceTo(controls.target);
+   const speed=distance*(keys.has('shift')?2.4:.9)*dt;
+   moveForward.subVectors(controls.target,camera.position).normalize();
+   moveRight.crossVectors(moveForward,camera.up).normalize();
+   moveStep.set(0,0,0);
+   if(strafe)moveStep.addScaledVector(moveRight,strafe*speed);
+   if(lift)moveStep.addScaledVector(camera.up,lift*speed);
+   camera.position.add(moveStep);controls.target.add(moveStep);
+   if(fwd){const next=distance-fwd*speed;const clamped=T.MathUtils.clamp(next,controls.minDistance,controls.maxDistance);camera.position.addScaledVector(moveForward,distance-clamped);}
+   return true;
+  };
   const raycaster=new T.Raycaster(),pointer=new T.Vector2(),tap=new PointerTap(),worldBox=new T.Box3(),hitPoint=new T.Vector3();
   const down=(e:PointerEvent)=>{hover.hidden=true;tap.down(e.pointerId,e.clientX,e.clientY,e.pointerType==='touch'?12:5);};
-  const move=(e:PointerEvent)=>{tap.move(e.pointerId,e.clientX,e.clientY);if(e.buttons||amount<.5||e.pointerType==='touch'){hover.hidden=true;return;}const rect=el.getBoundingClientRect(),x=e.clientX-rect.left,y=e.clientY-rect.top,index=findTarget(x,y,12);hover.hidden=index<0;renderer.domElement.style.cursor=index<0?'grab':'pointer';if(index>=0){hover.textContent=atlas.parts[index].name;hover.style.left=`${Math.max(8,Math.min(x+14,el.clientWidth-260))}px`;hover.style.top=`${Math.max(8,Math.min(y+18,el.clientHeight-55))}px`;}};
+  const move=(e:PointerEvent)=>{tap.move(e.pointerId,e.clientX,e.clientY);if(e.buttons||amount<.5||e.pointerType==='touch'){hover.hidden=true;return;}const rect=el.getBoundingClientRect(),x=e.clientX-rect.left,y=e.clientY-rect.top,index=findTarget(x,y,12);hover.hidden=index<0;renderer.domElement.style.cursor=index<0?'grab':'pointer';if(index>=0){hover.textContent=labelRef.current?labelRef.current(atlas.parts[index].id,atlas.parts[index].name):atlas.parts[index].name;hover.style.left=`${Math.max(8,Math.min(x+14,el.clientWidth-260))}px`;hover.style.top=`${Math.max(8,Math.min(y+18,el.clientHeight-55))}px`;}};
   const cancel=(e:PointerEvent)=>tap.cancel(e.pointerId);
   const up=(e:PointerEvent)=>{
    const validTap=tap.up(e.pointerId,e.clientX,e.clientY);if(!validTap||!ready)return;const rect=renderer.domElement.getBoundingClientRect();pointer.set((e.clientX-rect.left)/rect.width*2-1,-(e.clientY-rect.top)/rect.height*2+1);raycaster.setFromCamera(pointer,camera);
@@ -123,12 +149,13 @@ export default function AnatomyScene({atlas,state,onSelect,onProgress,onError}:P
     }else if(lastIsolate){camera.clearViewOffset();fit(s.view,amount);}
     lastIsolate=isolateKey;
    }
+   if(stepCamera(dt))dirty=true;
    controls.enableRotate=amount<.8;controls.mouseButtons.LEFT=amount<.8?T.MOUSE.ROTATE:T.MOUSE.PAN;controls.touches.ONE=amount<.8?T.TOUCH.ROTATE:T.TOUCH.PAN;ground.visible=platform.visible=ring.visible=innerRing.visible=amount<.5&&!s.isolate;markers.visible=amount>.75;controls.autoRotate=s.rotate&&!s.isolate&&amount<.4;controls.autoRotateSpeed=.65;controls.update();if(controls.autoRotate)dirty=true;
    if(dirty){renderer.render(scene,camera);targets=[];if(amount>.45){const hasSolid=atlas.parts.some((p,i)=>p.system!=='integumentary'&&data[i*4+3]>.5);atlas.parts.forEach((p,i)=>{if(data[i*4+3]<.5||(hasSolid&&p.system==='integumentary'))return;let left=Infinity,right=-Infinity,top=Infinity,bottom=-Infinity;for(let corner=0;corner<8;corner++){projected.set(p.bounds[(corner&1)?1:0][0]+data[i*4],p.bounds[(corner&2)?1:0][1]+data[i*4+1],p.bounds[(corner&4)?1:0][2]+data[i*4+2]).project(camera);const x=(projected.x+1)*el.clientWidth/2,y=(1-projected.y)*el.clientHeight/2;left=Math.min(left,x);right=Math.max(right,x);top=Math.min(top,y);bottom=Math.max(bottom,y);}projected.copy(centers[i]).add(new T.Vector3(data[i*4],data[i*4+1],data[i*4+2])).project(camera);if(projected.z< -1||projected.z>1)return;targets.push({index:i,x:(projected.x+1)*el.clientWidth/2,y:(1-projected.y)*el.clientHeight/2,left,right,top,bottom});});}dirty=false;}
 
   };animate();
   const contextLost=(e:Event)=>{e.preventDefault();onError('The 3D session was paused by your device. Reload to continue.');};renderer.domElement.addEventListener('webglcontextlost',contextLost);
-  return()=>{disposed=true;abort.abort();cancelAnimationFrame(frame);observer.disconnect();controls.dispose();geometries.forEach(g=>g.dispose());materials.forEach(m=>m.dispose());scene.traverse(o=>{if(o instanceof T.Mesh&&!geometries.includes(o.geometry)){o.geometry.dispose();const ms=Array.isArray(o.material)?o.material:[o.material];ms.forEach(m=>m.dispose());}});env.dispose();partTexture.dispose();selectionTexture.dispose();markerGeometry.dispose();markerMaterial.dispose();hover.remove();renderer.dispose();renderer.domElement.remove();};
+  return()=>{disposed=true;removeEventListener('keydown',keyDown);removeEventListener('keyup',keyUp);removeEventListener('blur',blur);abort.abort();cancelAnimationFrame(frame);observer.disconnect();controls.dispose();geometries.forEach(g=>g.dispose());materials.forEach(m=>m.dispose());scene.traverse(o=>{if(o instanceof T.Mesh&&!geometries.includes(o.geometry)){o.geometry.dispose();const ms=Array.isArray(o.material)?o.material:[o.material];ms.forEach(m=>m.dispose());}});env.dispose();partTexture.dispose();selectionTexture.dispose();markerGeometry.dispose();markerMaterial.dispose();hover.remove();renderer.dispose();renderer.domElement.remove();};
  },[atlas]);
  return <div className="scene" ref={host}/>;
 }

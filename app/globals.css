@@ -86,3 +86,14 @@ h1 .edition{font-family:inherit;font-weight:500;font-size:10px;letter-spacing:.0
 @media(max-width:767px){body:has(.detail-sheet) .view-controls{visibility:hidden}}
 
 @media(max-height:600px) and (orientation:landscape){body:has(.detail-sheet) .bottom-dock{left:12px;right:324px;width:auto;transform:none;max-width:none;margin:0}}
+
+.lang-toggle{font-size:12px;letter-spacing:.08em;font-weight:500}.search-latin{display:block;font-size:11px;color:#87929d;text-transform:none;font-style:italic;line-height:1.3}.structure-latin{font-size:14px;color:#74818e;font-style:italic;margin-top:6px}
+
+.info-box{margin:14px 0 4px;padding:12px 14px;border:1px solid rgba(255,255,255,.08);border-radius:12px;background:rgba(255,255,255,.03);display:grid;gap:12px}
+.info-box h4{margin:0 0 4px;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:#87929d;font-weight:600}
+.info-box p{margin:0;font-size:13px;line-height:1.5;color:#c9d1d9}
+.info-box ul{margin:0;padding:0;list-style:none;display:grid;gap:6px}
+.info-box li{font-size:13px;line-height:1.45;display:grid}
+.info-box li strong{color:#e6ebef;font-weight:600}
+.info-box li span{color:#9aa5b1}
+.info-box .info-note{font-size:11px;color:#74818e;border-top:1px solid rgba(255,255,255,.06);padding-top:8px;margin-top:2px}

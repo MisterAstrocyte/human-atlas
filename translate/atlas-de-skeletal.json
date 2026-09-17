@@ -1,0 +1,1754 @@
+[
+ {
+  "english": "atlas",
+  "german": "Atlas",
+  "latin": "Atlas",
+  "system": "skeletal"
+ },
+ {
+  "english": "axis",
+  "german": "Axis",
+  "latin": "Axis",
+  "system": "skeletal"
+ },
+ {
+  "english": "body of sternum",
+  "german": "Brustbeinkörper",
+  "latin": "Corpus sterni",
+  "system": "skeletal"
+ },
+ {
+  "english": "cricoid cartilage",
+  "german": "Ringknorpel",
+  "latin": "Cartilago cricoidea",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left big toe",
+  "german": "Endphalanx der linken Großzehe",
+  "latin": "Phalanx distalis hallucis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left fourth toe",
+  "german": "Endphalanx der linken vierten Zehe",
+  "latin": "Phalanx distalis digiti quarti pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left index finger",
+  "german": "Endphalanx des linken Zeigefingers",
+  "latin": "Phalanx distalis indicis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left little finger",
+  "german": "Endphalanx des linken Kleinfingers",
+  "latin": "Phalanx distalis digiti minimi manus sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left little toe",
+  "german": "Endphalanx der linken Kleinzehe",
+  "latin": "Phalanx distalis digiti minimi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left middle finger",
+  "german": "Endphalanx des linken Mittelfingers",
+  "latin": "Phalanx distalis digiti medii sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left ring finger",
+  "german": "Endphalanx des linken Ringfingers",
+  "latin": "Phalanx distalis digiti anularis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left second toe",
+  "german": "Endphalanx der linken zweiten Zehe",
+  "latin": "Phalanx distalis digiti secundi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left third toe",
+  "german": "Endphalanx der linken dritten Zehe",
+  "latin": "Phalanx distalis digiti tertii pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of left thumb",
+  "german": "Endphalanx des linken Daumens",
+  "latin": "Phalanx distalis pollicis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right big toe",
+  "german": "Endphalanx der rechten Großzehe",
+  "latin": "Phalanx distalis hallucis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right fourth toe",
+  "german": "Endphalanx der rechten vierten Zehe",
+  "latin": "Phalanx distalis digiti quarti pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right index finger",
+  "german": "Endphalanx des rechten Zeigefingers",
+  "latin": "Phalanx distalis indicis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right little finger",
+  "german": "Endphalanx des rechten Kleinfingers",
+  "latin": "Phalanx distalis digiti minimi manus dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right little toe",
+  "german": "Endphalanx der rechten Kleinzehe",
+  "latin": "Phalanx distalis digiti minimi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right middle finger",
+  "german": "Endphalanx des rechten Mittelfingers",
+  "latin": "Phalanx distalis digiti medii dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right ring finger",
+  "german": "Endphalanx des rechten Ringfingers",
+  "latin": "Phalanx distalis digiti anularis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right second toe",
+  "german": "Endphalanx der rechten zweiten Zehe",
+  "latin": "Phalanx distalis digiti secundi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right third toe",
+  "german": "Endphalanx der rechten dritten Zehe",
+  "latin": "Phalanx distalis digiti tertii pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "distal phalanx of right thumb",
+  "german": "Endphalanx des rechten Daumens",
+  "latin": "Phalanx distalis pollicis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "eighth thoracic vertebra",
+  "german": "Achter Brustwirbel",
+  "latin": "Vertebra thoracica octava",
+  "system": "skeletal"
+ },
+ {
+  "english": "eleventh thoracic vertebra",
+  "german": "Elfter Brustwirbel",
+  "latin": "Vertebra thoracica undecima",
+  "system": "skeletal"
+ },
+ {
+  "english": "ethmoid",
+  "german": "Siebbein",
+  "latin": "Os ethmoidale",
+  "system": "skeletal"
+ },
+ {
+  "english": "fifth cervical vertebra",
+  "german": "Fünfter Halswirbel",
+  "latin": "Vertebra cervicalis quinta",
+  "system": "skeletal"
+ },
+ {
+  "english": "fifth lumbar vertebra",
+  "german": "Fünfter Lendenwirbel",
+  "latin": "Vertebra lumbalis quinta",
+  "system": "skeletal"
+ },
+ {
+  "english": "fifth thoracic vertebra",
+  "german": "Fünfter Brustwirbel",
+  "latin": "Vertebra thoracica quinta",
+  "system": "skeletal"
+ },
+ {
+  "english": "first lumbar vertebra",
+  "german": "Erster Lendenwirbel",
+  "latin": "Vertebra lumbalis prima",
+  "system": "skeletal"
+ },
+ {
+  "english": "first thoracic vertebra",
+  "german": "Erster Brustwirbel",
+  "latin": "Vertebra thoracica prima",
+  "system": "skeletal"
+ },
+ {
+  "english": "fourth cervical vertebra",
+  "german": "Vierter Halswirbel",
+  "latin": "Vertebra cervicalis quarta",
+  "system": "skeletal"
+ },
+ {
+  "english": "fourth lumbar vertebra",
+  "german": "Vierter Lendenwirbel",
+  "latin": "Vertebra lumbalis quarta",
+  "system": "skeletal"
+ },
+ {
+  "english": "fourth thoracic vertebra",
+  "german": "Vierter Brustwirbel",
+  "latin": "Vertebra thoracica quarta",
+  "system": "skeletal"
+ },
+ {
+  "english": "frontal bone",
+  "german": "Stirnbein",
+  "latin": "Os frontale",
+  "system": "skeletal"
+ },
+ {
+  "english": "gingiva of lower jaw",
+  "german": "Zahnfleisch des Unterkiefers",
+  "latin": "Gingiva mandibularis",
+  "system": "skeletal"
+ },
+ {
+  "english": "gingiva of upper jaw",
+  "german": "Zahnfleisch des Oberkiefers",
+  "latin": "Gingiva maxillaris",
+  "system": "skeletal"
+ },
+ {
+  "english": "hyoid bone",
+  "german": "Zungenbein",
+  "latin": "Os hyoideum",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk",
+  "german": "Bandscheibe",
+  "latin": "Discus intervertebralis",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of axis",
+  "german": "Bandscheibe des Axis",
+  "latin": "Discus intervertebralis axis",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of eighth thoracic vertebra",
+  "german": "Bandscheibe des achten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae octavae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of eleventh thoracic vertebra",
+  "german": "Bandscheibe des elften Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae undecimae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fifth cervical vertebra",
+  "german": "Bandscheibe des fünften Halswirbels",
+  "latin": "Discus intervertebralis vertebrae cervicalis quintae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fifth lumbar vertebra",
+  "german": "Bandscheibe des fünften Lendenwirbels",
+  "latin": "Discus intervertebralis vertebrae lumbalis quintae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fifth thoracic vertebra",
+  "german": "Bandscheibe des fünften Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae quintae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of first lumbar vertebra",
+  "german": "Bandscheibe des ersten Lendenwirbels",
+  "latin": "Discus intervertebralis vertebrae lumbalis primae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of first thoracic vertebra",
+  "german": "Bandscheibe des ersten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae primae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fourth cervical vertebra",
+  "german": "Bandscheibe des vierten Halswirbels",
+  "latin": "Discus intervertebralis vertebrae cervicalis quartae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fourth lumbar vertebra",
+  "german": "Bandscheibe des vierten Lendenwirbels",
+  "latin": "Discus intervertebralis vertebrae lumbalis quartae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of fourth thoracic vertebra",
+  "german": "Bandscheibe des vierten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae quartae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of ninth thoracic vertebra",
+  "german": "Bandscheibe des neunten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae nonae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of second lumbar vertebra",
+  "german": "Bandscheibe des zweiten Lendenwirbels",
+  "latin": "Discus intervertebralis vertebrae lumbalis secundae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of second thoracic vertebra",
+  "german": "Bandscheibe des zweiten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae secundae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of seventh cervical vertebra",
+  "german": "Bandscheibe des siebten Halswirbels",
+  "latin": "Discus intervertebralis vertebrae cervicalis septimae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of seventh thoracic vertebra",
+  "german": "Bandscheibe des siebten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae septimae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of sixth cervical vertebra",
+  "german": "Bandscheibe des sechsten Halswirbels",
+  "latin": "Discus intervertebralis vertebrae cervicalis sextae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of sixth thoracic vertebra",
+  "german": "Bandscheibe des sechsten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae sextae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of tenth thoracic vertebra",
+  "german": "Bandscheibe des zehnten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae decimae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of third cervical vertebra",
+  "german": "Bandscheibe des dritten Halswirbels",
+  "latin": "Discus intervertebralis vertebrae cervicalis tertiae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of third lumbar vertebra",
+  "german": "Bandscheibe des dritten Lendenwirbels",
+  "latin": "Discus intervertebralis vertebrae lumbalis tertiae",
+  "system": "skeletal"
+ },
+ {
+  "english": "intervertebral disk of third thoracic vertebra",
+  "german": "Bandscheibe des dritten Brustwirbels",
+  "latin": "Discus intervertebralis vertebrae thoracicae tertiae",
+  "system": "skeletal"
+ },
+ {
+  "english": "left arytenoid cartilage",
+  "german": "Linker Stellknorpel",
+  "latin": "Cartilago arytenoidea sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left calcaneus",
+  "german": "Linkes Fersenbein",
+  "latin": "Calcaneus sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left capitate",
+  "german": "Linkes Kopfbein",
+  "latin": "Os capitatum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left clavicle",
+  "german": "Linkes Schlüsselbein",
+  "latin": "Clavicula sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left corniculate cartilage",
+  "german": "Linker Spitzenknorpel",
+  "latin": "Cartilago corniculata sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left cuboid bone",
+  "german": "Linkes Würfelbein",
+  "latin": "Os cuboideum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left cuneiform cartilage",
+  "german": "Linker Keilknorpel des Kehlkopfs",
+  "latin": "Cartilago cuneiformis sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left eighth rib",
+  "german": "Linke achte Rippe",
+  "latin": "Costa octava sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left eleventh rib",
+  "german": "Linke elfte Rippe",
+  "latin": "Costa undecima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left femur",
+  "german": "Linker Oberschenkelknochen",
+  "latin": "Femur sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fibula",
+  "german": "Linkes Wadenbein",
+  "latin": "Fibula sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fibularis brevis",
+  "german": "Linker kurzer Wadenbeinmuskel",
+  "latin": "Musculus fibularis brevis sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fibularis longus",
+  "german": "Linker langer Wadenbeinmuskel",
+  "latin": "Musculus fibularis longus sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fibularis tertius",
+  "german": "Linker dritter Wadenbeinmuskel",
+  "latin": "Musculus fibularis tertius sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fifth costal cartilage",
+  "german": "Linker fünfter Rippenknorpel",
+  "latin": "Cartilago costalis quinta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fifth metacarpal bone",
+  "german": "Linker fünfter Mittelhandknochen",
+  "latin": "Os metacarpale quintum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fifth metatarsal bone",
+  "german": "Linker fünfter Mittelfußknochen",
+  "latin": "Os metatarsale quintum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fifth rib",
+  "german": "Linke fünfte Rippe",
+  "latin": "Costa quinta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left first costal cartilage",
+  "german": "Linker erster Rippenknorpel",
+  "latin": "Cartilago costalis prima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left first metacarpal bone",
+  "german": "Linker erster Mittelhandknochen",
+  "latin": "Os metacarpale primum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left first metatarsal bone",
+  "german": "Linker erster Mittelfußknochen",
+  "latin": "Os metatarsale primum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left first rib",
+  "german": "Linke erste Rippe",
+  "latin": "Costa prima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fourth costal cartilage",
+  "german": "Linker vierter Rippenknorpel",
+  "latin": "Cartilago costalis quarta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fourth metacarpal bone",
+  "german": "Linker vierter Mittelhandknochen",
+  "latin": "Os metacarpale quartum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fourth metatarsal bone",
+  "german": "Linker vierter Mittelfußknochen",
+  "latin": "Os metatarsale quartum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left fourth rib",
+  "german": "Linke vierte Rippe",
+  "latin": "Costa quarta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left hamate",
+  "german": "Linkes Hakenbein",
+  "latin": "Os hamatum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left hip bone",
+  "german": "Linkes Hüftbein",
+  "latin": "Os coxae sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left humerus",
+  "german": "Linker Oberarmknochen",
+  "latin": "Humerus sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left iliotibial tract",
+  "german": "Linker Iliotibialtrakt",
+  "latin": "Tractus iliotibialis sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left intermediate cuneiform bone",
+  "german": "Linkes mittleres Keilbein",
+  "latin": "Os cuneiforme intermedium sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lateral cuneiform bone",
+  "german": "Linkes äußeres Keilbein",
+  "latin": "Os cuneiforme laterale sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left levator scapulae",
+  "german": "Linker Schulterblattheber",
+  "latin": "Musculus levator scapulae sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower central secondary incisor tooth",
+  "german": "Linker unterer mittlerer Schneidezahn",
+  "latin": "Dens incisivus medialis inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower first secondary molar tooth",
+  "german": "Linker unterer erster Molar",
+  "latin": "Dens molaris primus inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower first secondary premolar tooth",
+  "german": "Linker unterer erster Prämolar",
+  "latin": "Dens premolaris primus inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower lateral secondary incisor tooth",
+  "german": "Linker unterer seitlicher Schneidezahn",
+  "latin": "Dens incisivus lateralis inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower second secondary molar tooth",
+  "german": "Linker unterer zweiter Molar",
+  "latin": "Dens molaris secundus inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower second secondary premolar tooth",
+  "german": "Linker unterer zweiter Prämolar",
+  "latin": "Dens premolaris secundus inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lower secondary canine tooth",
+  "german": "Linker unterer Eckzahn",
+  "latin": "Dens caninus inferior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left lunate",
+  "german": "Linkes Mondbein",
+  "latin": "Os lunatum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left major alar cartilage",
+  "german": "Linker großer Flügelknorpel",
+  "latin": "Cartilago alaris major sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left maxilla",
+  "german": "Linker Oberkiefer",
+  "latin": "Maxilla sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left medial cuneiform bone",
+  "german": "Linkes inneres Keilbein",
+  "latin": "Os cuneiforme mediale sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left nasal bone",
+  "german": "Linkes Nasenbein",
+  "latin": "Os nasale sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left ninth rib",
+  "german": "Linke neunte Rippe",
+  "latin": "Costa nona sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left palatine bone",
+  "german": "Linkes Gaumenbein",
+  "latin": "Os palatinum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left parietal bone",
+  "german": "Linkes Scheitelbein",
+  "latin": "Os parietale sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left patella",
+  "german": "Linke Kniescheibe",
+  "latin": "Patella sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left pisiform",
+  "german": "Linkes Erbsenbein",
+  "latin": "Os pisiforme sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left radius",
+  "german": "Linke Speiche",
+  "latin": "Radius sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left scaphoid",
+  "german": "Linkes Kahnbein",
+  "latin": "Os scaphoideum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left scapula",
+  "german": "Linkes Schulterblatt",
+  "latin": "Scapula sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left second costal cartilage",
+  "german": "Linker zweiter Rippenknorpel",
+  "latin": "Cartilago costalis secunda sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left second metacarpal bone",
+  "german": "Linker zweiter Mittelhandknochen",
+  "latin": "Os metacarpale secundum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left second metatarsal bone",
+  "german": "Linker zweiter Mittelfußknochen",
+  "latin": "Os metatarsale secundum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left second rib",
+  "german": "Linke zweite Rippe",
+  "latin": "Costa secunda sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left seventh costal cartilage",
+  "german": "Linker siebter Rippenknorpel",
+  "latin": "Cartilago costalis septima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left seventh rib",
+  "german": "Linke siebte Rippe",
+  "latin": "Costa septima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left sixth costal cartilage",
+  "german": "Linker sechster Rippenknorpel",
+  "latin": "Cartilago costalis sexta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left sixth rib",
+  "german": "Linke sechste Rippe",
+  "latin": "Costa sexta sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left subscapularis",
+  "german": "Linker Unterschulterblattmuskel",
+  "latin": "Musculus subscapularis sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left talus",
+  "german": "Linkes Sprungbein",
+  "latin": "Talus sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left temporal bone",
+  "german": "Linkes Schläfenbein",
+  "latin": "Os temporale sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left tenth rib",
+  "german": "Linke zehnte Rippe",
+  "latin": "Costa decima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left third costal cartilage",
+  "german": "Linker dritter Rippenknorpel",
+  "latin": "Cartilago costalis tertia sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left third metacarpal bone",
+  "german": "Linker dritter Mittelhandknochen",
+  "latin": "Os metacarpale tertium sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left third metatarsal bone",
+  "german": "Linker dritter Mittelfußknochen",
+  "latin": "Os metatarsale tertium sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left third rib",
+  "german": "Linke dritte Rippe",
+  "latin": "Costa tertia sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left tibia",
+  "german": "Linkes Schienbein",
+  "latin": "Tibia sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left tibialis anterior",
+  "german": "Linker vorderer Schienbeinmuskel",
+  "latin": "Musculus tibialis anterior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left tibialis posterior",
+  "german": "Linker hinterer Schienbeinmuskel",
+  "latin": "Musculus tibialis posterior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left trapezium",
+  "german": "Linkes großes Vieleckbein",
+  "latin": "Os trapezium sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left trapezoid",
+  "german": "Linkes kleines Vieleckbein",
+  "latin": "Os trapezoideum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left triquetral",
+  "german": "Linkes Dreiecksbein",
+  "latin": "Os triquetrum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "left twelfth rib",
+  "german": "Linke zwölfte Rippe",
+  "latin": "Costa duodecima sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left ulna",
+  "german": "Linke Elle",
+  "latin": "Ulna sinistra",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper central secondary incisor tooth",
+  "german": "Linker oberer mittlerer Schneidezahn",
+  "latin": "Dens incisivus medialis superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper first secondary molar tooth",
+  "german": "Linker oberer erster Molar",
+  "latin": "Dens molaris primus superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper first secondary premolar tooth",
+  "german": "Linker oberer erster Prämolar",
+  "latin": "Dens premolaris primus superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper lateral secondary incisor tooth",
+  "german": "Linker oberer seitlicher Schneidezahn",
+  "latin": "Dens incisivus lateralis superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper second secondary molar tooth",
+  "german": "Linker oberer zweiter Molar",
+  "latin": "Dens molaris secundus superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper second secondary premolar tooth",
+  "german": "Linker oberer zweiter Prämolar",
+  "latin": "Dens premolaris secundus superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left upper secondary canine tooth",
+  "german": "Linker oberer Eckzahn",
+  "latin": "Dens caninus superior sinister",
+  "system": "skeletal"
+ },
+ {
+  "english": "left zygomatic bone",
+  "german": "Linkes Jochbein",
+  "latin": "Os zygomaticum sinistrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "mandible",
+  "german": "Unterkiefer",
+  "latin": "Mandibula",
+  "system": "skeletal"
+ },
+ {
+  "english": "manubrium",
+  "german": "Brustbeingriff",
+  "latin": "Manubrium sterni",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left fourth toe",
+  "german": "Mittelphalanx der linken vierten Zehe",
+  "latin": "Phalanx media digiti quarti pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left index finger",
+  "german": "Mittelphalanx des linken Zeigefingers",
+  "latin": "Phalanx media indicis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left little finger",
+  "german": "Mittelphalanx des linken Kleinfingers",
+  "latin": "Phalanx media digiti minimi manus sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left little toe",
+  "german": "Mittelphalanx der linken Kleinzehe",
+  "latin": "Phalanx media digiti minimi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left middle finger",
+  "german": "Mittelphalanx des linken Mittelfingers",
+  "latin": "Phalanx media digiti medii sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left ring finger",
+  "german": "Mittelphalanx des linken Ringfingers",
+  "latin": "Phalanx media digiti anularis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left second toe",
+  "german": "Mittelphalanx der linken zweiten Zehe",
+  "latin": "Phalanx media digiti secundi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of left third toe",
+  "german": "Mittelphalanx der linken dritten Zehe",
+  "latin": "Phalanx media digiti tertii pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right fourth toe",
+  "german": "Mittelphalanx der rechten vierten Zehe",
+  "latin": "Phalanx media digiti quarti pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right index finger",
+  "german": "Mittelphalanx des rechten Zeigefingers",
+  "latin": "Phalanx media indicis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right little finger",
+  "german": "Mittelphalanx des rechten Kleinfingers",
+  "latin": "Phalanx media digiti minimi manus dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right little toe",
+  "german": "Mittelphalanx der rechten Kleinzehe",
+  "latin": "Phalanx media digiti minimi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right middle finger",
+  "german": "Mittelphalanx des rechten Mittelfingers",
+  "latin": "Phalanx media digiti medii dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right ring finger",
+  "german": "Mittelphalanx des rechten Ringfingers",
+  "latin": "Phalanx media digiti anularis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right second toe",
+  "german": "Mittelphalanx der rechten zweiten Zehe",
+  "latin": "Phalanx media digiti secundi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "middle phalanx of right third toe",
+  "german": "Mittelphalanx der rechten dritten Zehe",
+  "latin": "Phalanx media digiti tertii pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "navicular bone of left foot",
+  "german": "Kahnbein des linken Fußes",
+  "latin": "Os naviculare pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "navicular bone of right foot",
+  "german": "Kahnbein des rechten Fußes",
+  "latin": "Os naviculare pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "ninth thoracic vertebra",
+  "german": "Neunter Brustwirbel",
+  "latin": "Vertebra thoracica nona",
+  "system": "skeletal"
+ },
+ {
+  "english": "occipital bone",
+  "german": "Hinterhauptbein",
+  "latin": "Os occipitale",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left big toe",
+  "german": "Grundphalanx der linken Großzehe",
+  "latin": "Phalanx proximalis hallucis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left fourth toe",
+  "german": "Grundphalanx der linken vierten Zehe",
+  "latin": "Phalanx proximalis digiti quarti pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left index finger",
+  "german": "Grundphalanx des linken Zeigefingers",
+  "latin": "Phalanx proximalis indicis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left little finger",
+  "german": "Grundphalanx des linken Kleinfingers",
+  "latin": "Phalanx proximalis digiti minimi manus sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left little toe",
+  "german": "Grundphalanx der linken Kleinzehe",
+  "latin": "Phalanx proximalis digiti minimi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left middle finger",
+  "german": "Grundphalanx des linken Mittelfingers",
+  "latin": "Phalanx proximalis digiti medii sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left ring finger",
+  "german": "Grundphalanx des linken Ringfingers",
+  "latin": "Phalanx proximalis digiti anularis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left second toe",
+  "german": "Grundphalanx der linken zweiten Zehe",
+  "latin": "Phalanx proximalis digiti secundi pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left third toe",
+  "german": "Grundphalanx der linken dritten Zehe",
+  "latin": "Phalanx proximalis digiti tertii pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of left thumb",
+  "german": "Grundphalanx des linken Daumens",
+  "latin": "Phalanx proximalis pollicis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right big toe",
+  "german": "Grundphalanx der rechten Großzehe",
+  "latin": "Phalanx proximalis hallucis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right fourth toe",
+  "german": "Grundphalanx der rechten vierten Zehe",
+  "latin": "Phalanx proximalis digiti quarti pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right index finger",
+  "german": "Grundphalanx des rechten Zeigefingers",
+  "latin": "Phalanx proximalis indicis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right little finger",
+  "german": "Grundphalanx des rechten Kleinfingers",
+  "latin": "Phalanx proximalis digiti minimi manus dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right little toe",
+  "german": "Grundphalanx der rechten Kleinzehe",
+  "latin": "Phalanx proximalis digiti minimi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right middle finger",
+  "german": "Grundphalanx des rechten Mittelfingers",
+  "latin": "Phalanx proximalis digiti medii dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right ring finger",
+  "german": "Grundphalanx des rechten Ringfingers",
+  "latin": "Phalanx proximalis digiti anularis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right second toe",
+  "german": "Grundphalanx der rechten zweiten Zehe",
+  "latin": "Phalanx proximalis digiti secundi pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right third toe",
+  "german": "Grundphalanx der rechten dritten Zehe",
+  "latin": "Phalanx proximalis digiti tertii pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "proximal phalanx of right thumb",
+  "german": "Grundphalanx des rechten Daumens",
+  "latin": "Phalanx proximalis pollicis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "right arytenoid cartilage",
+  "german": "Rechter Stellknorpel",
+  "latin": "Cartilago arytenoidea dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right calcaneus",
+  "german": "Rechtes Fersenbein",
+  "latin": "Calcaneus dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right capitate",
+  "german": "Rechtes Kopfbein",
+  "latin": "Os capitatum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right clavicle",
+  "german": "Rechtes Schlüsselbein",
+  "latin": "Clavicula dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right corniculate cartilage",
+  "german": "Rechter Spitzenknorpel",
+  "latin": "Cartilago corniculata dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right cuboid bone",
+  "german": "Rechtes Würfelbein",
+  "latin": "Os cuboideum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right cuneiform cartilage",
+  "german": "Rechter Keilknorpel des Kehlkopfs",
+  "latin": "Cartilago cuneiformis dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right eighth rib",
+  "german": "Rechte achte Rippe",
+  "latin": "Costa octava dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right eleventh rib",
+  "german": "Rechte elfte Rippe",
+  "latin": "Costa undecima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right femur",
+  "german": "Rechter Oberschenkelknochen",
+  "latin": "Femur dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fibula",
+  "german": "Rechtes Wadenbein",
+  "latin": "Fibula dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fibularis brevis",
+  "german": "Rechter kurzer Wadenbeinmuskel",
+  "latin": "Musculus fibularis brevis dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fibularis longus",
+  "german": "Rechter langer Wadenbeinmuskel",
+  "latin": "Musculus fibularis longus dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fibularis tertius",
+  "german": "Rechter dritter Wadenbeinmuskel",
+  "latin": "Musculus fibularis tertius dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fifth costal cartilage",
+  "german": "Rechter fünfter Rippenknorpel",
+  "latin": "Cartilago costalis quinta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fifth metacarpal bone",
+  "german": "Rechter fünfter Mittelhandknochen",
+  "latin": "Os metacarpale quintum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fifth metatarsal bone",
+  "german": "Rechter fünfter Mittelfußknochen",
+  "latin": "Os metatarsale quintum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fifth rib",
+  "german": "Rechte fünfte Rippe",
+  "latin": "Costa quinta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right first costal cartilage",
+  "german": "Rechter erster Rippenknorpel",
+  "latin": "Cartilago costalis prima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right first metacarpal bone",
+  "german": "Rechter erster Mittelhandknochen",
+  "latin": "Os metacarpale primum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right first metatarsal bone",
+  "german": "Rechter erster Mittelfußknochen",
+  "latin": "Os metatarsale primum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right first rib",
+  "german": "Rechte erste Rippe",
+  "latin": "Costa prima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fourth costal cartilage",
+  "german": "Rechter vierter Rippenknorpel",
+  "latin": "Cartilago costalis quarta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fourth metacarpal bone",
+  "german": "Rechter vierter Mittelhandknochen",
+  "latin": "Os metacarpale quartum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fourth metatarsal bone",
+  "german": "Rechter vierter Mittelfußknochen",
+  "latin": "Os metatarsale quartum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right fourth rib",
+  "german": "Rechte vierte Rippe",
+  "latin": "Costa quarta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right hamate",
+  "german": "Rechtes Hakenbein",
+  "latin": "Os hamatum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right hip bone",
+  "german": "Rechtes Hüftbein",
+  "latin": "Os coxae dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right humerus",
+  "german": "Rechter Oberarmknochen",
+  "latin": "Humerus dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right iliotibial tract",
+  "german": "Rechter Iliotibialtrakt",
+  "latin": "Tractus iliotibialis dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right intermediate cuneiform bone",
+  "german": "Rechtes mittleres Keilbein",
+  "latin": "Os cuneiforme intermedium dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lateral cuneiform bone",
+  "german": "Rechtes äußeres Keilbein",
+  "latin": "Os cuneiforme laterale dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right levator scapulae",
+  "german": "Rechter Schulterblattheber",
+  "latin": "Musculus levator scapulae dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower central secondary incisor tooth",
+  "german": "Rechter unterer mittlerer Schneidezahn",
+  "latin": "Dens incisivus medialis inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower first secondary molar tooth",
+  "german": "Rechter unterer erster Molar",
+  "latin": "Dens molaris primus inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower first secondary premolar tooth",
+  "german": "Rechter unterer erster Prämolar",
+  "latin": "Dens premolaris primus inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower lateral secondary incisor tooth",
+  "german": "Rechter unterer seitlicher Schneidezahn",
+  "latin": "Dens incisivus lateralis inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower second secondary molar tooth",
+  "german": "Rechter unterer zweiter Molar",
+  "latin": "Dens molaris secundus inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower second secondary premolar tooth",
+  "german": "Rechter unterer zweiter Prämolar",
+  "latin": "Dens premolaris secundus inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lower secondary canine tooth",
+  "german": "Rechter unterer Eckzahn",
+  "latin": "Dens caninus inferior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right lunate",
+  "german": "Rechtes Mondbein",
+  "latin": "Os lunatum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right major alar cartilage",
+  "german": "Rechter großer Flügelknorpel",
+  "latin": "Cartilago alaris major dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right maxilla",
+  "german": "Rechter Oberkiefer",
+  "latin": "Maxilla dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right medial cuneiform bone",
+  "german": "Rechtes inneres Keilbein",
+  "latin": "Os cuneiforme mediale dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right nasal bone",
+  "german": "Rechtes Nasenbein",
+  "latin": "Os nasale dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right ninth rib",
+  "german": "Rechte neunte Rippe",
+  "latin": "Costa nona dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right palatine bone",
+  "german": "Rechtes Gaumenbein",
+  "latin": "Os palatinum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right parietal bone",
+  "german": "Rechtes Scheitelbein",
+  "latin": "Os parietale dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right patella",
+  "german": "Rechte Kniescheibe",
+  "latin": "Patella dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right pisiform",
+  "german": "Rechtes Erbsenbein",
+  "latin": "Os pisiforme dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right radius",
+  "german": "Rechte Speiche",
+  "latin": "Radius dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right scaphoid",
+  "german": "Rechtes Kahnbein",
+  "latin": "Os scaphoideum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right scapula",
+  "german": "Rechtes Schulterblatt",
+  "latin": "Scapula dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right second costal cartilage",
+  "german": "Rechter zweiter Rippenknorpel",
+  "latin": "Cartilago costalis secunda dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right second metacarpal bone",
+  "german": "Rechter zweiter Mittelhandknochen",
+  "latin": "Os metacarpale secundum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right second metatarsal bone",
+  "german": "Rechter zweiter Mittelfußknochen",
+  "latin": "Os metatarsale secundum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right second rib",
+  "german": "Rechte zweite Rippe",
+  "latin": "Costa secunda dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right seventh costal cartilage",
+  "german": "Rechter siebter Rippenknorpel",
+  "latin": "Cartilago costalis septima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right seventh rib",
+  "german": "Rechte siebte Rippe",
+  "latin": "Costa septima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right sixth costal cartilage",
+  "german": "Rechter sechster Rippenknorpel",
+  "latin": "Cartilago costalis sexta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right sixth rib",
+  "german": "Rechte sechste Rippe",
+  "latin": "Costa sexta dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right subscapularis",
+  "german": "Rechter Unterschulterblattmuskel",
+  "latin": "Musculus subscapularis dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right talus",
+  "german": "Rechtes Sprungbein",
+  "latin": "Talus dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right temporal bone",
+  "german": "Rechtes Schläfenbein",
+  "latin": "Os temporale dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right tenth rib",
+  "german": "Rechte zehnte Rippe",
+  "latin": "Costa decima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right third costal cartilage",
+  "german": "Rechter dritter Rippenknorpel",
+  "latin": "Cartilago costalis tertia dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right third metacarpal bone",
+  "german": "Rechter dritter Mittelhandknochen",
+  "latin": "Os metacarpale tertium dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right third metatarsal bone",
+  "german": "Rechter dritter Mittelfußknochen",
+  "latin": "Os metatarsale tertium dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right third rib",
+  "german": "Rechte dritte Rippe",
+  "latin": "Costa tertia dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right tibia",
+  "german": "Rechtes Schienbein",
+  "latin": "Tibia dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right tibialis anterior",
+  "german": "Rechter vorderer Schienbeinmuskel",
+  "latin": "Musculus tibialis anterior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right tibialis posterior",
+  "german": "Rechter hinterer Schienbeinmuskel",
+  "latin": "Musculus tibialis posterior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right trapezium",
+  "german": "Rechtes großes Vieleckbein",
+  "latin": "Os trapezium dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right trapezoid",
+  "german": "Rechtes kleines Vieleckbein",
+  "latin": "Os trapezoideum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right triquetral",
+  "german": "Rechtes Dreiecksbein",
+  "latin": "Os triquetrum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "right twelfth rib",
+  "german": "Rechte zwölfte Rippe",
+  "latin": "Costa duodecima dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right ulna",
+  "german": "Rechte Elle",
+  "latin": "Ulna dextra",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper central secondary incisor tooth",
+  "german": "Rechter oberer mittlerer Schneidezahn",
+  "latin": "Dens incisivus medialis superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper first secondary molar tooth",
+  "german": "Rechter oberer erster Molar",
+  "latin": "Dens molaris primus superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper first secondary premolar tooth",
+  "german": "Rechter oberer erster Prämolar",
+  "latin": "Dens premolaris primus superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper lateral secondary incisor tooth",
+  "german": "Rechter oberer seitlicher Schneidezahn",
+  "latin": "Dens incisivus lateralis superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper second secondary molar tooth",
+  "german": "Rechter oberer zweiter Molar",
+  "latin": "Dens molaris secundus superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper second secondary premolar tooth",
+  "german": "Rechter oberer zweiter Prämolar",
+  "latin": "Dens premolaris secundus superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right upper secondary canine tooth",
+  "german": "Rechter oberer Eckzahn",
+  "latin": "Dens caninus superior dexter",
+  "system": "skeletal"
+ },
+ {
+  "english": "right zygomatic bone",
+  "german": "Rechtes Jochbein",
+  "latin": "Os zygomaticum dextrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "sacrum",
+  "german": "Kreuzbein",
+  "latin": "Os sacrum",
+  "system": "skeletal"
+ },
+ {
+  "english": "second lumbar vertebra",
+  "german": "Zweiter Lendenwirbel",
+  "latin": "Vertebra lumbalis secunda",
+  "system": "skeletal"
+ },
+ {
+  "english": "second thoracic vertebra",
+  "german": "Zweiter Brustwirbel",
+  "latin": "Vertebra thoracica secunda",
+  "system": "skeletal"
+ },
+ {
+  "english": "sesamoid bone of left foot",
+  "german": "Sesambein des linken Fußes",
+  "latin": "Os sesamoideum pedis sinistri",
+  "system": "skeletal"
+ },
+ {
+  "english": "sesamoid bone of right foot",
+  "german": "Sesambein des rechten Fußes",
+  "latin": "Os sesamoideum pedis dextri",
+  "system": "skeletal"
+ },
+ {
+  "english": "seventh cervical vertebra",
+  "german": "Siebter Halswirbel",
+  "latin": "Vertebra cervicalis septima",
+  "system": "skeletal"
+ },
+ {
+  "english": "seventh thoracic vertebra",
+  "german": "Siebter Brustwirbel",
+  "latin": "Vertebra thoracica septima",
+  "system": "skeletal"
+ },
+ {
+  "english": "sixth cervical vertebra",
+  "german": "Sechster Halswirbel",
+  "latin": "Vertebra cervicalis sexta",
+  "system": "skeletal"
+ },
+ {
+  "english": "sixth thoracic vertebra",
+  "german": "Sechster Brustwirbel",
+  "latin": "Vertebra thoracica sexta",
+  "system": "skeletal"
+ },
+ {
+  "english": "sphenoid bone",
+  "german": "Keilbein",
+  "latin": "Os sphenoidale",
+  "system": "skeletal"
+ },
+ {
+  "english": "tenth thoracic vertebra",
+  "german": "Zehnter Brustwirbel",
+  "latin": "Vertebra thoracica decima",
+  "system": "skeletal"
+ },
+ {
+  "english": "third cervical vertebra",
+  "german": "Dritter Halswirbel",
+  "latin": "Vertebra cervicalis tertia",
+  "system": "skeletal"
+ },
+ {
+  "english": "third lumbar vertebra",
+  "german": "Dritter Lendenwirbel",
+  "latin": "Vertebra lumbalis tertia",
+  "system": "skeletal"
+ },
+ {
+  "english": "third thoracic vertebra",
+  "german": "Dritter Brustwirbel",
+  "latin": "Vertebra thoracica tertia",
+  "system": "skeletal"
+ },
+ {
+  "english": "thyroid cartilage",
+  "german": "Schildknorpel",
+  "latin": "Cartilago thyroidea",
+  "system": "skeletal"
+ },
+ {
+  "english": "twelfth thoracic vertebra",
+  "german": "Zwölfter Brustwirbel",
+  "latin": "Vertebra thoracica duodecima",
+  "system": "skeletal"
+ },
+ {
+  "english": "vomer",
+  "german": "Pflugscharbein",
+  "latin": "Vomer",
+  "system": "skeletal"
+ },
+ {
+  "english": "xiphoid process",
+  "german": "Schwertfortsatz",
+  "latin": "Processus xiphoideus",
+  "system": "skeletal"
+ }
+]

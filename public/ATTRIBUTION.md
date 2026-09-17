@@ -1,15 +1,18 @@
 # Anatomy data attribution
 
-BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
+BodyParts3D, © The Database Center for Life Science (DBCLS).
+
+**Licence note:** the bulk 4.0 archive is distributed under CC Attribution 4.0 International. The 4.3 object set as distributed through the Anatomography endpoints carries **CC Attribution-Share Alike 2.1 Japan**. This build uses 4.3 geometry, so the share-alike terms apply: attribute DBCLS / BodyParts3D and preserve the licence when redistributing.
 
 - License: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html (updated 2025-02-27)
 - Dataset: https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html
 - License terms: https://creativecommons.org/licenses/by/4.0/
-- Source geometry: `isa_BP3D_4.0_obj_99.zip`, BodyParts3D 4.0.
+- Source geometry: BodyParts3D / Anatomography **4.3** object set (3,210 element meshes), obtained via the Anatomography endpoints; manifest `FMA2Obj.txt` (Data Version 4.3).
+- Previous release used `isa_BP3D_4.0_obj_99.zip` (BodyParts3D 4.0, 2,234 meshes).
 - English names and relationships: IS-A and PART-OF concept, element, and inclusion tables from the same archive.
 - Publication: Mitsuhashi et al. (2009), BodyParts3D: 3D structure database for anatomical concepts. https://doi.org/10.1093/nar/gkn613
 
-Adaptations: axes and units converted from millimeters/Z-up to meters/Y-up; translated to rest at the stage; geometry simplified using meshoptimizer with 0.2% relative error limit per structure; normals quantized to signed 16-bit; packed into binary chunks; curated display system groupings and colors. The source contains 2,234 individual OBJ meshes; all remain represented. The combined hierarchy contains 3,432 named FMA concepts, which may reference multiple meshes. Original source identity is preserved in the manifest.
+Adaptations: axes and units converted from millimeters/Z-up to meters/Y-up; translated to rest at the stage; geometry simplified using meshoptimizer with 0.2% relative error limit per structure; normals quantized to signed 16-bit; packed into binary chunks; curated display system groupings and colors. The source contains 3,210 individual OBJ meshes; all remain represented. The combined hierarchy contains 3,926 named FMA concepts, which may reference multiple meshes. Original source identity is preserved in the manifest.
 
 Source OBJ comments mention an older CC BY-SA 2.1 Japan license. The official current database license linked above supersedes that legacy text and explicitly permits redistribution and adaptation under CC BY 4.0.
 

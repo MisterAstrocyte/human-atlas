@@ -1,0 +1,278 @@
+[
+ {
+  "english": "anterior inferior tributary of right hepatic biliary tree",
+  "german": "Vorderer unterer Segmentzufluss des rechten Gallengangsystems",
+  "latin": "Ramus segmentalis anterior inferior arboris biliaris dextri",
+  "system": "digestive"
+ },
+ {
+  "english": "anterior superior tributary of right hepatic biliary tree",
+  "german": "Vorderer oberer Segmentzufluss des rechten Gallengangsystems",
+  "latin": "Ramus segmentalis anterior superior arboris biliaris dextri",
+  "system": "digestive"
+ },
+ {
+  "english": "appendix",
+  "german": "Wurmfortsatz",
+  "latin": "Appendix vermiformis",
+  "system": "digestive"
+ },
+ {
+  "english": "ascending colon",
+  "german": "Aufsteigender Dickdarm",
+  "latin": "Colon ascendens",
+  "system": "digestive"
+ },
+ {
+  "english": "caudate lobe of liver",
+  "german": "Schwanzlappen der Leber",
+  "latin": "Lobus caudatus hepatis",
+  "system": "digestive"
+ },
+ {
+  "english": "caudate lobe tributary of left hepatic biliary tree",
+  "german": "Schwanzlappenzufluss des linken Gallengangsystems",
+  "latin": "Ramus lobi caudati arboris biliaris sinistri",
+  "system": "digestive"
+ },
+ {
+  "english": "common hepatic duct",
+  "german": "Gemeinsamer Lebergang",
+  "latin": "Ductus hepaticus communis",
+  "system": "digestive"
+ },
+ {
+  "english": "cystic duct",
+  "german": "Gallenblasengang",
+  "latin": "Ductus cysticus",
+  "system": "digestive"
+ },
+ {
+  "english": "descending colon",
+  "german": "Absteigender Dickdarm",
+  "latin": "Colon descendens",
+  "system": "digestive"
+ },
+ {
+  "english": "distal part of ileum",
+  "german": "Distaler Teil des Krummdarms",
+  "latin": "Pars distalis ilei",
+  "system": "digestive"
+ },
+ {
+  "english": "distal part of jejunum",
+  "german": "Distaler Teil des Leerdarms",
+  "latin": "Pars distalis jejuni",
+  "system": "digestive"
+ },
+ {
+  "english": "duodenum",
+  "german": "Zwölffingerdarm",
+  "latin": "Duodenum",
+  "system": "digestive"
+ },
+ {
+  "english": "esophagus",
+  "german": "Speiseröhre",
+  "latin": "Oesophagus",
+  "system": "digestive"
+ },
+ {
+  "english": "gallbladder",
+  "german": "Gallenblase",
+  "latin": "Vesica biliaris",
+  "system": "digestive"
+ },
+ {
+  "english": "ileocecal junction",
+  "german": "Ileozäkalübergang",
+  "latin": "Junctio ileocaecalis",
+  "system": "digestive"
+ },
+ {
+  "english": "lateral inferior tributary of left hepatic biliary tree",
+  "german": "Seitlicher unterer Segmentzufluss des linken Gallengangsystems",
+  "latin": "Ramus segmentalis lateralis inferior arboris biliaris sinistri",
+  "system": "digestive"
+ },
+ {
+  "english": "lateral superior tributary of left hepatic biliary tree",
+  "german": "Seitlicher oberer Segmentzufluss des linken Gallengangsystems",
+  "latin": "Ramus segmentalis lateralis superior arboris biliaris sinistri",
+  "system": "digestive"
+ },
+ {
+  "english": "left duct of caudate lobe of liver",
+  "german": "Linker Gang des Schwanzlappens der Leber",
+  "latin": "Ductus lobi caudati hepatis sinister",
+  "system": "digestive"
+ },
+ {
+  "english": "left hepatic duct",
+  "german": "Linker Lebergang",
+  "latin": "Ductus hepaticus sinister",
+  "system": "digestive"
+ },
+ {
+  "english": "left sublingual gland",
+  "german": "Linke Unterzungendrüse",
+  "latin": "Glandula sublingualis sinistra",
+  "system": "digestive"
+ },
+ {
+  "english": "left submandibular gland",
+  "german": "Linke Unterkieferdrüse",
+  "latin": "Glandula submandibularis sinistra",
+  "system": "digestive"
+ },
+ {
+  "english": "medial inferior tributary of left hepatic biliary tree",
+  "german": "Medialer unterer Segmentzufluss des linken Gallengangsystems",
+  "latin": "Ramus segmentalis medialis inferior arboris biliaris sinistri",
+  "system": "digestive"
+ },
+ {
+  "english": "medial superior tributary of left hepatic biliary tree",
+  "german": "Medialer oberer Segmentzufluss des linken Gallengangsystems",
+  "latin": "Ramus segmentalis medialis superior arboris biliaris sinistri",
+  "system": "digestive"
+ },
+ {
+  "english": "mesentery of small intestine",
+  "german": "Dünndarmgekröse",
+  "latin": "Mesenterium",
+  "system": "digestive"
+ },
+ {
+  "english": "mesoappendix",
+  "german": "Wurmfortsatzgekröse",
+  "latin": "Mesoappendix",
+  "system": "digestive"
+ },
+ {
+  "english": "middle part of ileum",
+  "german": "Mittlerer Teil des Krummdarms",
+  "latin": "Pars media ilei",
+  "system": "digestive"
+ },
+ {
+  "english": "middle part of jejunum",
+  "german": "Mittlerer Teil des Leerdarms",
+  "latin": "Pars media jejuni",
+  "system": "digestive"
+ },
+ {
+  "english": "pancreas",
+  "german": "Bauchspeicheldrüse",
+  "latin": "Pancreas",
+  "system": "digestive"
+ },
+ {
+  "english": "pancreatic duct",
+  "german": "Bauchspeicheldrüsengang",
+  "latin": "Ductus pancreaticus",
+  "system": "digestive"
+ },
+ {
+  "english": "pancreatic duct tree",
+  "german": "Bauchspeicheldrüsen-Gangsystem",
+  "latin": "Arbor ductuum pancreaticorum",
+  "system": "digestive"
+ },
+ {
+  "english": "parenchyma of pancreas",
+  "german": "Parenchym der Bauchspeicheldrüse",
+  "latin": "Parenchyma pancreatis",
+  "system": "digestive"
+ },
+ {
+  "english": "posterior inferior tributary of right hepatic biliary tree",
+  "german": "Hinterer unterer Segmentzufluss des rechten Gallengangsystems",
+  "latin": "Ramus segmentalis posterior inferior arboris biliaris dextri",
+  "system": "digestive"
+ },
+ {
+  "english": "posterior superior tributary of right hepatic biliary tree",
+  "german": "Hinterer oberer Segmentzufluss des rechten Gallengangsystems",
+  "latin": "Ramus segmentalis posterior superior arboris biliaris dextri",
+  "system": "digestive"
+ },
+ {
+  "english": "proximal part of ileum",
+  "german": "Proximaler Teil des Krummdarms",
+  "latin": "Pars proximalis ilei",
+  "system": "digestive"
+ },
+ {
+  "english": "proximal part of jejunum",
+  "german": "Proximaler Teil des Leerdarms",
+  "latin": "Pars proximalis jejuni",
+  "system": "digestive"
+ },
+ {
+  "english": "rectum",
+  "german": "Mastdarm",
+  "latin": "Rectum",
+  "system": "digestive"
+ },
+ {
+  "english": "right hepatic duct",
+  "german": "Rechter Lebergang",
+  "latin": "Ductus hepaticus dexter",
+  "system": "digestive"
+ },
+ {
+  "english": "right sublingual gland",
+  "german": "Rechte Unterzungendrüse",
+  "latin": "Glandula sublingualis dextra",
+  "system": "digestive"
+ },
+ {
+  "english": "right submandibular gland",
+  "german": "Rechte Unterkieferdrüse",
+  "latin": "Glandula submandibularis dextra",
+  "system": "digestive"
+ },
+ {
+  "english": "stomach",
+  "german": "Magen",
+  "latin": "Gaster",
+  "system": "digestive"
+ },
+ {
+  "english": "taenia libera",
+  "german": "Freie Tänie",
+  "latin": "Taenia libera",
+  "system": "digestive"
+ },
+ {
+  "english": "taenia mesocolica",
+  "german": "Mesokolische Tänie",
+  "latin": "Taenia mesocolica",
+  "system": "digestive"
+ },
+ {
+  "english": "taenia omentalis",
+  "german": "Omentale Tänie",
+  "latin": "Taenia omentalis",
+  "system": "digestive"
+ },
+ {
+  "english": "tongue",
+  "german": "Zunge",
+  "latin": "Lingua",
+  "system": "digestive"
+ },
+ {
+  "english": "transverse colon",
+  "german": "Querer Dickdarm",
+  "latin": "Colon transversum",
+  "system": "digestive"
+ },
+ {
+  "english": "transverse mesocolon",
+  "german": "Gekröse des queren Dickdarms",
+  "latin": "Mesocolon transversum",
+  "system": "digestive"
+ }
+]

@@ -1,0 +1,248 @@
+[
+ {
+  "english": "epiglottis",
+  "german": "Kehldeckel",
+  "latin": "Epiglottis",
+  "system": "respiratory"
+ },
+ {
+  "english": "inferior lingular bronchial tree",
+  "german": "Unterer Lingula-Bronchialbaum",
+  "latin": "Arbor bronchialis lingularis inferior",
+  "system": "respiratory"
+ },
+ {
+  "english": "lateral segmental bronchial tree",
+  "german": "Seitlicher Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis lateralis",
+  "system": "respiratory"
+ },
+ {
+  "english": "left anterior basal segmental bronchial tree",
+  "german": "Linker vorderer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis anterior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left anterior segmental bronchial tree",
+  "german": "Linker vorderer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis anterior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left apical segmental bronchial tree",
+  "german": "Linker apikaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis apicalis sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left inferior nasal concha",
+  "german": "Linke untere Nasenmuschel",
+  "latin": "Concha nasalis inferior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left inferior pharyngeal constrictor",
+  "german": "Linker unterer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis inferior sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left lateral basal segmental bronchial tree",
+  "german": "Linker seitlicher basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis lateralis sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left lateral nasal cartilage",
+  "german": "Linker seitlicher Nasenknorpel",
+  "latin": "Cartilago nasi lateralis sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left main bronchus",
+  "german": "Linker Hauptbronchus",
+  "latin": "Bronchus principalis sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left medial basal segmental bronchial tree",
+  "german": "Linker medialer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis medialis sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left middle pharyngeal constrictor",
+  "german": "Linker mittlerer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis medius sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left palatopharyngeus",
+  "german": "Linker Gaumen-Rachen-Muskel",
+  "latin": "Musculus palatopharyngeus sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left posterior basal segmental bronchial tree",
+  "german": "Linker hinterer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis posterior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left posterior segmental bronchial tree",
+  "german": "Linker hinterer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis posterior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "left salpingopharyngeus",
+  "german": "Linker Tuben-Rachen-Muskel",
+  "latin": "Musculus salpingopharyngeus sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left stylopharyngeus",
+  "german": "Linker Griffel-Rachen-Muskel",
+  "latin": "Musculus stylopharyngeus sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left superior pharyngeal constrictor",
+  "german": "Linker oberer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis superior sinister",
+  "system": "respiratory"
+ },
+ {
+  "english": "left superior segmental bronchial tree",
+  "german": "Linker oberer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis superior sinistra",
+  "system": "respiratory"
+ },
+ {
+  "english": "medial segmental bronchial tree",
+  "german": "Medialer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis medialis",
+  "system": "respiratory"
+ },
+ {
+  "english": "right anterior basal segmental bronchial tree",
+  "german": "Rechter vorderer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis anterior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right anterior segmental bronchial tree",
+  "german": "Rechter vorderer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis anterior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right apical segmental bronchial tree",
+  "german": "Rechter apikaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis apicalis dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right inferior nasal concha",
+  "german": "Rechte untere Nasenmuschel",
+  "latin": "Concha nasalis inferior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right inferior pharyngeal constrictor",
+  "german": "Rechter unterer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis inferior dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right lateral basal segmental bronchial tree",
+  "german": "Rechter seitlicher basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis lateralis dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right lateral nasal cartilage",
+  "german": "Rechter seitlicher Nasenknorpel",
+  "latin": "Cartilago nasi lateralis dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right main bronchus proper",
+  "german": "Rechter eigentlicher Hauptbronchus",
+  "latin": "Bronchus principalis proprius dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right medial basal segmental bronchial tree",
+  "german": "Rechter medialer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis medialis dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right middle pharyngeal constrictor",
+  "german": "Rechter mittlerer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis medius dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right palatopharyngeus",
+  "german": "Rechter Gaumen-Rachen-Muskel",
+  "latin": "Musculus palatopharyngeus dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right posterior basal segmental bronchial tree",
+  "german": "Rechter hinterer basaler Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis basalis posterior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right posterior segmental bronchial tree",
+  "german": "Rechter hinterer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis posterior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "right salpingopharyngeus",
+  "german": "Rechter Tuben-Rachen-Muskel",
+  "latin": "Musculus salpingopharyngeus dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right stylopharyngeus",
+  "german": "Rechter Griffel-Rachen-Muskel",
+  "latin": "Musculus stylopharyngeus dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right superior pharyngeal constrictor",
+  "german": "Rechter oberer Schlundschnürer",
+  "latin": "Musculus constrictor pharyngis superior dexter",
+  "system": "respiratory"
+ },
+ {
+  "english": "right superior segmental bronchial tree",
+  "german": "Rechter oberer Segmentbronchialbaum",
+  "latin": "Arbor bronchialis segmentalis superior dextra",
+  "system": "respiratory"
+ },
+ {
+  "english": "septal nasal cartilage",
+  "german": "Nasenscheidewandknorpel",
+  "latin": "Cartilago septi nasi",
+  "system": "respiratory"
+ },
+ {
+  "english": "superior lingular bronchial tree",
+  "german": "Oberer Lingula-Bronchialbaum",
+  "latin": "Arbor bronchialis lingularis superior",
+  "system": "respiratory"
+ },
+ {
+  "english": "trachea",
+  "german": "Luftröhre",
+  "latin": "Trachea",
+  "system": "respiratory"
+ }
+]

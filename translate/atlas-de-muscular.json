@@ -1,0 +1,2258 @@
+[
+ {
+  "english": "abdominal part of left pectoralis major",
+  "german": "Bauchanteil des linken großen Brustmuskels",
+  "latin": "Pars abdominalis musculi pectoralis majoris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "abdominal part of right pectoralis major",
+  "german": "Bauchanteil des rechten großen Brustmuskels",
+  "latin": "Pars abdominalis musculi pectoralis majoris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "abductor digiti minimi of left foot",
+  "german": "Kleinzehenabzieher des linken Fußes",
+  "latin": "Musculus abductor digiti minimi pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "abductor digiti minimi of left hand",
+  "german": "Kleinfingerabzieher der linken Hand",
+  "latin": "Musculus abductor digiti minimi manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "abductor digiti minimi of right foot",
+  "german": "Kleinzehenabzieher des rechten Fußes",
+  "latin": "Musculus abductor digiti minimi pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "abductor digiti minimi of right hand",
+  "german": "Kleinfingerabzieher der rechten Hand",
+  "latin": "Musculus abductor digiti minimi manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "acromial part of left deltoid",
+  "german": "Schulterhöhenanteil des linken Deltamuskels",
+  "latin": "Pars acromialis musculi deltoidei sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "acromial part of right deltoid",
+  "german": "Schulterhöhenanteil des rechten Deltamuskels",
+  "latin": "Pars acromialis musculi deltoidei dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "anterior papillary muscle of right ventricle",
+  "german": "Vorderer Papillarmuskel der rechten Herzkammer",
+  "latin": "Musculus papillaris anterior ventriculi dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "anterolateral head of lateral papillary muscle of left ventricle",
+  "german": "Vorderer seitlicher Kopf des seitlichen Papillarmuskels der linken Herzkammer",
+  "latin": "Caput anterolaterale musculi papillaris lateralis ventriculi sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "ascending part of left trapezius",
+  "german": "Aufsteigender Anteil des linken Trapezmuskels",
+  "latin": "Pars ascendens musculi trapezii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "ascending part of right trapezius",
+  "german": "Aufsteigender Anteil des rechten Trapezmuskels",
+  "latin": "Pars ascendens musculi trapezii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "clavicular part of left deltoid",
+  "german": "Schlüsselbeinanteil des linken Deltamuskels",
+  "latin": "Pars clavicularis musculi deltoidei sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "clavicular part of left pectoralis major",
+  "german": "Schlüsselbeinanteil des linken großen Brustmuskels",
+  "latin": "Pars clavicularis musculi pectoralis majoris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "clavicular part of right deltoid",
+  "german": "Schlüsselbeinanteil des rechten Deltamuskels",
+  "latin": "Pars clavicularis musculi deltoidei dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "clavicular part of right pectoralis major",
+  "german": "Schlüsselbeinanteil des rechten großen Brustmuskels",
+  "latin": "Pars clavicularis musculi pectoralis majoris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "descending part of left trapezius",
+  "german": "Absteigender Anteil des linken Trapezmuskels",
+  "latin": "Pars descendens musculi trapezii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "descending part of right trapezius",
+  "german": "Absteigender Anteil des rechten Trapezmuskels",
+  "latin": "Pars descendens musculi trapezii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "diaphragm",
+  "german": "Zwerchfell",
+  "latin": "Diaphragma",
+  "system": "muscular"
+ },
+ {
+  "english": "external anal sphincter",
+  "german": "Äußerer Afterschließmuskel",
+  "latin": "Musculus sphincter ani externus",
+  "system": "muscular"
+ },
+ {
+  "english": "external intercostal muscle",
+  "german": "Äußerer Zwischenrippenmuskel",
+  "latin": "Musculus intercostalis externus",
+  "system": "muscular"
+ },
+ {
+  "english": "first lumbrical of left foot",
+  "german": "Erster Spulmuskel des linken Fußes",
+  "latin": "Musculus lumbricalis primus pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "first lumbrical of right foot",
+  "german": "Erster Spulmuskel des rechten Fußes",
+  "latin": "Musculus lumbricalis primus pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "first plantar interosseous of left foot",
+  "german": "Erster Sohlenzwischenknochenmuskel des linken Fußes",
+  "latin": "Musculus interosseus plantaris primus pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "first plantar interosseous of right foot",
+  "german": "Erster Sohlenzwischenknochenmuskel des rechten Fußes",
+  "latin": "Musculus interosseus plantaris primus pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "flexor digiti minimi brevis of left foot",
+  "german": "Kurzer Kleinzehenbeuger des linken Fußes",
+  "latin": "Musculus flexor digiti minimi brevis pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "flexor digiti minimi brevis of left hand",
+  "german": "Kurzer Kleinfingerbeuger der linken Hand",
+  "latin": "Musculus flexor digiti minimi brevis manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "flexor digiti minimi brevis of right foot",
+  "german": "Kurzer Kleinzehenbeuger des rechten Fußes",
+  "latin": "Musculus flexor digiti minimi brevis pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "flexor digiti minimi brevis of right hand",
+  "german": "Kurzer Kleinfingerbeuger der rechten Hand",
+  "latin": "Musculus flexor digiti minimi brevis manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "fourth lumbrical of left foot",
+  "german": "Vierter Spulmuskel des linken Fußes",
+  "latin": "Musculus lumbricalis quartus pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "fourth lumbrical of right foot",
+  "german": "Vierter Spulmuskel des rechten Fußes",
+  "latin": "Musculus lumbricalis quartus pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "humeral head of left flexor carpi ulnaris",
+  "german": "Oberarmkopf des linken ellenseitigen Handbeugers",
+  "latin": "Caput humerale musculi flexoris carpi ulnaris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "humeral head of left pronator teres",
+  "german": "Oberarmkopf des linken runden Einwärtsdrehers",
+  "latin": "Caput humerale musculi pronatoris teretis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "humeral head of right flexor carpi ulnaris",
+  "german": "Oberarmkopf des rechten ellenseitigen Handbeugers",
+  "latin": "Caput humerale musculi flexoris carpi ulnaris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "humeral head of right pronator teres",
+  "german": "Oberarmkopf des rechten runden Einwärtsdrehers",
+  "latin": "Caput humerale musculi pronatoris teretis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "inferior oblique part of left longus colli",
+  "german": "Unterer schräger Anteil des linken langen Halsmuskels",
+  "latin": "Pars obliqua inferior musculi longi colli sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "innermost intercostal muscle",
+  "german": "Innerster Zwischenrippenmuskel",
+  "latin": "Musculus intercostalis intimus",
+  "system": "muscular"
+ },
+ {
+  "english": "internal intercostal muscle",
+  "german": "Innerer Zwischenrippenmuskel",
+  "latin": "Musculus intercostalis internus",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of left flexor hallucis brevis",
+  "german": "Seitlicher Kopf des linken kurzen Großzehenbeugers",
+  "latin": "Caput laterale musculi flexoris hallucis brevis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of left gastrocnemius",
+  "german": "Seitlicher Kopf des linken Zwillingswadenmuskels",
+  "latin": "Caput laterale musculi gastrocnemii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of left triceps brachii",
+  "german": "Seitlicher Kopf des linken dreiköpfigen Oberarmmuskels",
+  "latin": "Caput laterale musculi tricipitis brachii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of right flexor hallucis brevis",
+  "german": "Seitlicher Kopf des rechten kurzen Großzehenbeugers",
+  "latin": "Caput laterale musculi flexoris hallucis brevis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of right gastrocnemius",
+  "german": "Seitlicher Kopf des rechten Zwillingswadenmuskels",
+  "latin": "Caput laterale musculi gastrocnemii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral head of right triceps brachii",
+  "german": "Seitlicher Kopf des rechten dreiköpfigen Oberarmmuskels",
+  "latin": "Caput laterale musculi tricipitis brachii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral lumbar intertransversarius",
+  "german": "Seitlicher Zwischenquerfortsatzmuskel der Lende",
+  "latin": "Musculus intertransversarius lateralis lumborum",
+  "system": "muscular"
+ },
+ {
+  "english": "lateral papillary muscle of left ventricle",
+  "german": "Seitlicher Papillarmuskel der linken Herzkammer",
+  "latin": "Musculus papillaris lateralis ventriculi sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "left abductor hallucis",
+  "german": "Linker Großzehenabzieher",
+  "latin": "Musculus abductor hallucis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left abductor pollicis brevis",
+  "german": "Linker kurzer Daumenabzieher",
+  "latin": "Musculus abductor pollicis brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left abductor pollicis longus",
+  "german": "Linker langer Daumenabzieher",
+  "latin": "Musculus abductor pollicis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left adductor brevis",
+  "german": "Linker kurzer Schenkelanzieher",
+  "latin": "Musculus adductor brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left adductor longus",
+  "german": "Linker langer Schenkelanzieher",
+  "latin": "Musculus adductor longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left adductor magnus",
+  "german": "Linker großer Schenkelanzieher",
+  "latin": "Musculus adductor magnus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left adductor minimus",
+  "german": "Linker kleinster Schenkelanzieher",
+  "latin": "Musculus adductor minimus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left anconeus",
+  "german": "Linker Knorrenmuskel",
+  "latin": "Musculus anconeus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left aryepiglotticus",
+  "german": "Linker Stellknorpel-Kehldeckel-Muskel",
+  "latin": "Musculus aryepiglotticus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left brachialis",
+  "german": "Linker Armbeuger",
+  "latin": "Musculus brachialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left brachioradialis",
+  "german": "Linker Oberarm-Speichen-Muskel",
+  "latin": "Musculus brachioradialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left cervical rotator",
+  "german": "Linker Halsdrehmuskel",
+  "latin": "Musculus rotator cervicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left coccygeus",
+  "german": "Linker Steißbeinmuskel",
+  "latin": "Musculus coccygeus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left coracobrachialis",
+  "german": "Linker Hakenarmmuskel",
+  "latin": "Musculus coracobrachialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left digastric",
+  "german": "Linker zweibäuchiger Muskel",
+  "latin": "Musculus digastricus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor carpi radialis brevis",
+  "german": "Linker kurzer speichenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi radialis brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor carpi radialis longus",
+  "german": "Linker langer speichenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi radialis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor carpi ulnaris",
+  "german": "Linker ellenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi ulnaris sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor digiti minimi",
+  "german": "Linker Kleinfingerstrecker",
+  "latin": "Musculus extensor digiti minimi sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor digitorum",
+  "german": "Linker Fingerstrecker",
+  "latin": "Musculus extensor digitorum sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor digitorum longus",
+  "german": "Linker langer Zehenstrecker",
+  "latin": "Musculus extensor digitorum longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor hallucis brevis",
+  "german": "Linker kurzer Großzehenstrecker",
+  "latin": "Musculus extensor hallucis brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor hallucis longus",
+  "german": "Linker langer Großzehenstrecker",
+  "latin": "Musculus extensor hallucis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor indicis",
+  "german": "Linker Zeigefingerstrecker",
+  "latin": "Musculus extensor indicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor pollicis brevis",
+  "german": "Linker kurzer Daumenstrecker",
+  "latin": "Musculus extensor pollicis brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left extensor pollicis longus",
+  "german": "Linker langer Daumenstrecker",
+  "latin": "Musculus extensor pollicis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left external oblique",
+  "german": "Linker äußerer schräger Bauchmuskel",
+  "latin": "Musculus obliquus externus abdominis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor accessorius",
+  "german": "Linker viereckiger Sohlenmuskel",
+  "latin": "Musculus quadratus plantae sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor carpi radialis",
+  "german": "Linker speichenseitiger Handbeuger",
+  "latin": "Musculus flexor carpi radialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor digitorum brevis",
+  "german": "Linker kurzer Zehenbeuger",
+  "latin": "Musculus flexor digitorum brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor digitorum longus",
+  "german": "Linker langer Zehenbeuger",
+  "latin": "Musculus flexor digitorum longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor digitorum profundus",
+  "german": "Linker tiefer Fingerbeuger",
+  "latin": "Musculus flexor digitorum profundus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor digitorum superficialis",
+  "german": "Linker oberflächlicher Fingerbeuger",
+  "latin": "Musculus flexor digitorum superficialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor hallucis longus",
+  "german": "Linker langer Großzehenbeuger",
+  "latin": "Musculus flexor hallucis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor pollicis brevis",
+  "german": "Linker kurzer Daumenbeuger",
+  "latin": "Musculus flexor pollicis brevis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left flexor pollicis longus",
+  "german": "Linker langer Daumenbeuger",
+  "latin": "Musculus flexor pollicis longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gemellus inferior",
+  "german": "Linker unterer Zwillingsmuskel",
+  "latin": "Musculus gemellus inferior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gemellus superior",
+  "german": "Linker oberer Zwillingsmuskel",
+  "latin": "Musculus gemellus superior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left genioglossus",
+  "german": "Linker Kinn-Zungen-Muskel",
+  "latin": "Musculus genioglossus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left geniohyoid",
+  "german": "Linker Kinn-Zungenbein-Muskel",
+  "latin": "Musculus geniohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gluteus maximus",
+  "german": "Linker großer Gesäßmuskel",
+  "latin": "Musculus gluteus maximus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gluteus medius",
+  "german": "Linker mittlerer Gesäßmuskel",
+  "latin": "Musculus gluteus medius sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gluteus minimus",
+  "german": "Linker kleiner Gesäßmuskel",
+  "latin": "Musculus gluteus minimus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left gracilis",
+  "german": "Linker schlanker Muskel",
+  "latin": "Musculus gracilis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left hyoglossus",
+  "german": "Linker Zungenbein-Zungen-Muskel",
+  "latin": "Musculus hyoglossus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left iliacus",
+  "german": "Linker Darmbeinmuskel",
+  "latin": "Musculus iliacus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left iliococcygeus",
+  "german": "Linker Darmbein-Steißbein-Muskel",
+  "latin": "Musculus iliococcygeus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left iliocostalis cervicis",
+  "german": "Linker Darmbein-Rippen-Muskel des Halses",
+  "latin": "Musculus iliocostalis cervicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left iliocostalis lumborum",
+  "german": "Linker Darmbein-Rippen-Muskel der Lende",
+  "latin": "Musculus iliocostalis lumborum sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left iliocostalis thoracis",
+  "german": "Linker Darmbein-Rippen-Muskel des Brustkorbs",
+  "latin": "Musculus iliocostalis thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left inferior oblique",
+  "german": "Linker unterer schräger Augenmuskel",
+  "latin": "Musculus obliquus inferior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left inferior rectus",
+  "german": "Linker unterer gerader Augenmuskel",
+  "latin": "Musculus rectus inferior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left infraspinatus muscle",
+  "german": "Linker Untergrätenmuskel",
+  "latin": "Musculus infraspinatus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left interspinalis thoracis",
+  "german": "Linker Zwischendornmuskel des Brustkorbs",
+  "latin": "Musculus interspinalis thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left lateral crico-arytenoid",
+  "german": "Linker seitlicher Ringknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus cricoarytenoideus lateralis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left lateral rectus",
+  "german": "Linker seitlicher gerader Augenmuskel",
+  "latin": "Musculus rectus lateralis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left levator palpebrae superioris",
+  "german": "Linker Oberlidheber",
+  "latin": "Musculus levator palpebrae superioris sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left levator veli palatini",
+  "german": "Linker Gaumensegelheber",
+  "latin": "Musculus levator veli palatini sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left longissimus capitis",
+  "german": "Linker längster Muskel des Kopfes",
+  "latin": "Musculus longissimus capitis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left longissimus cervicis",
+  "german": "Linker längster Muskel des Halses",
+  "latin": "Musculus longissimus cervicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left longissimus thoracis",
+  "german": "Linker längster Muskel des Brustkorbs",
+  "latin": "Musculus longissimus thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left longus capitis",
+  "german": "Linker langer Kopfmuskel",
+  "latin": "Musculus longus capitis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left lumbar rotator",
+  "german": "Linker Lendendrehmuskel",
+  "latin": "Musculus rotator lumborum sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left medial rectus",
+  "german": "Linker innerer gerader Augenmuskel",
+  "latin": "Musculus rectus medialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left mylohyoid",
+  "german": "Linker Kiefer-Zungenbein-Muskel",
+  "latin": "Musculus mylohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left oblique arytenoid",
+  "german": "Linker schräger Stellknorpelmuskel",
+  "latin": "Musculus arytenoideus obliquus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left obliquus capitis inferior",
+  "german": "Linker unterer schräger Kopfmuskel",
+  "latin": "Musculus obliquus capitis inferior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left obliquus capitis superior",
+  "german": "Linker oberer schräger Kopfmuskel",
+  "latin": "Musculus obliquus capitis superior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left obturator externus",
+  "german": "Linker äußerer Hüftlochmuskel",
+  "latin": "Musculus obturatorius externus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left obturator internus",
+  "german": "Linker innerer Hüftlochmuskel",
+  "latin": "Musculus obturatorius internus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left omohyoid",
+  "german": "Linker Schulterblatt-Zungenbein-Muskel",
+  "latin": "Musculus omohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left opponens pollicis",
+  "german": "Linker Daumengegensteller",
+  "latin": "Musculus opponens pollicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left palmaris longus",
+  "german": "Linker langer Hohlhandmuskel",
+  "latin": "Musculus palmaris longus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left pectineus",
+  "german": "Linker Kammmuskel",
+  "latin": "Musculus pectineus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left pectoralis minor",
+  "german": "Linker kleiner Brustmuskel",
+  "latin": "Musculus pectoralis minor sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left piriformis",
+  "german": "Linker birnenförmiger Muskel",
+  "latin": "Musculus piriformis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left plantaris",
+  "german": "Linker langer Sohlenmuskel",
+  "latin": "Musculus plantaris sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left platysma",
+  "german": "Linker Hautmuskel des Halses",
+  "latin": "Platysma sinistrum",
+  "system": "muscular"
+ },
+ {
+  "english": "left popliteus",
+  "german": "Linker Kniekehlenmuskel",
+  "latin": "Musculus popliteus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left posterior crico-arytenoid",
+  "german": "Linker hinterer Ringknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus cricoarytenoideus posterior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left pronator quadratus",
+  "german": "Linker viereckiger Einwärtsdreher",
+  "latin": "Musculus pronator quadratus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left psoas major",
+  "german": "Linker großer Lendenmuskel",
+  "latin": "Musculus psoas major sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left pubococcygeus",
+  "german": "Linker Schambein-Steißbein-Muskel",
+  "latin": "Musculus pubococcygeus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left puborectalis",
+  "german": "Linker Schambein-Mastdarm-Muskel",
+  "latin": "Musculus puborectalis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left quadratus femoris",
+  "german": "Linker viereckiger Schenkelmuskel",
+  "latin": "Musculus quadratus femoris sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rectus capitis anterior",
+  "german": "Linker vorderer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis anterior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rectus capitis lateralis",
+  "german": "Linker seitlicher gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis lateralis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rectus capitis posterior major",
+  "german": "Linker großer hinterer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis posterior major sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rectus capitis posterior minor",
+  "german": "Linker kleiner hinterer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis posterior minor sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rectus femoris",
+  "german": "Linker gerader Schenkelmuskel",
+  "latin": "Musculus rectus femoris sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rhomboid major",
+  "german": "Linker großer Rautenmuskel",
+  "latin": "Musculus rhomboideus major sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left rhomboid minor",
+  "german": "Linker kleiner Rautenmuskel",
+  "latin": "Musculus rhomboideus minor sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left sartorius",
+  "german": "Linker Schneidermuskel",
+  "latin": "Musculus sartorius sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left scalenus anterior",
+  "german": "Linker vorderer Treppenmuskel",
+  "latin": "Musculus scalenus anterior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left scalenus medius",
+  "german": "Linker mittlerer Treppenmuskel",
+  "latin": "Musculus scalenus medius sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left scalenus posterior",
+  "german": "Linker hinterer Treppenmuskel",
+  "latin": "Musculus scalenus posterior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left semimembranosus",
+  "german": "Linker Plattsehnenmuskel",
+  "latin": "Musculus semimembranosus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left semispinalis capitis",
+  "german": "Linker Halbdornmuskel des Kopfes",
+  "latin": "Musculus semispinalis capitis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left semispinalis cervicis",
+  "german": "Linker Halbdornmuskel des Halses",
+  "latin": "Musculus semispinalis cervicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left semispinalis thoracis",
+  "german": "Linker Halbdornmuskel des Brustkorbs",
+  "latin": "Musculus semispinalis thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left semitendinosus",
+  "german": "Linker Halbsehnenmuskel",
+  "latin": "Musculus semitendinosus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left serratus anterior",
+  "german": "Linker vorderer Sägemuskel",
+  "latin": "Musculus serratus anterior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left serratus posterior inferior",
+  "german": "Linker hinterer unterer Sägemuskel",
+  "latin": "Musculus serratus posterior inferior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left serratus posterior superior",
+  "german": "Linker hinterer oberer Sägemuskel",
+  "latin": "Musculus serratus posterior superior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left soleus",
+  "german": "Linker Schollenmuskel",
+  "latin": "Musculus soleus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left spinalis thoracis",
+  "german": "Linker Dornmuskel des Brustkorbs",
+  "latin": "Musculus spinalis thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left splenius capitis",
+  "german": "Linker Riemenmuskel des Kopfes",
+  "latin": "Musculus splenius capitis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left splenius cervicis",
+  "german": "Linker Riemenmuskel des Halses",
+  "latin": "Musculus splenius cervicis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left sternocleidomastoid",
+  "german": "Linker Kopfwender",
+  "latin": "Musculus sternocleidomastoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left sternohyoid",
+  "german": "Linker Brustbein-Zungenbein-Muskel",
+  "latin": "Musculus sternohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left sternothyroid",
+  "german": "Linker Brustbein-Schildknorpel-Muskel",
+  "latin": "Musculus sternothyroideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left stylohyoid",
+  "german": "Linker Griffel-Zungenbein-Muskel",
+  "latin": "Musculus stylohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left subclavius",
+  "german": "Linker Unterschlüsselbeinmuskel",
+  "latin": "Musculus subclavius sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left superior oblique",
+  "german": "Linker oberer schräger Augenmuskel",
+  "latin": "Musculus obliquus superior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left superior rectus",
+  "german": "Linker oberer gerader Augenmuskel",
+  "latin": "Musculus rectus superior sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left supinator",
+  "german": "Linker Auswärtsdreher",
+  "latin": "Musculus supinator sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left supraspinatus",
+  "german": "Linker Obergrätenmuskel",
+  "latin": "Musculus supraspinatus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left tensor veli palatini",
+  "german": "Linker Gaumensegelspanner",
+  "latin": "Musculus tensor veli palatini sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left teres major",
+  "german": "Linker großer Rundmuskel",
+  "latin": "Musculus teres major sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left teres minor",
+  "german": "Linker kleiner Rundmuskel",
+  "latin": "Musculus teres minor sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left thyro-arytenoid",
+  "german": "Linker Schildknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus thyroarytenoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left thyrohyoid",
+  "german": "Linker Schildknorpel-Zungenbein-Muskel",
+  "latin": "Musculus thyrohyoideus sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left transversus thoracis",
+  "german": "Linker querer Brustkorbmuskel",
+  "latin": "Musculus transversus thoracis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left vastus intermedius",
+  "german": "Linker mittlerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus intermedius sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left vastus lateralis",
+  "german": "Linker äußerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus lateralis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left vastus medialis",
+  "german": "Linker innerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus medialis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "left vocalis",
+  "german": "Linker Stimmmuskel",
+  "latin": "Musculus vocalis sinister",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of left biceps brachii",
+  "german": "Langer Kopf des linken zweiköpfigen Oberarmmuskels",
+  "latin": "Caput longum musculi bicipitis brachii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of left biceps femoris",
+  "german": "Langer Kopf des linken zweiköpfigen Schenkelmuskels",
+  "latin": "Caput longum musculi bicipitis femoris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of left triceps brachii",
+  "german": "Langer Kopf des linken dreiköpfigen Oberarmmuskels",
+  "latin": "Caput longum musculi tricipitis brachii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of right biceps brachii",
+  "german": "Langer Kopf des rechten zweiköpfigen Oberarmmuskels",
+  "latin": "Caput longum musculi bicipitis brachii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of right biceps femoris",
+  "german": "Langer Kopf des rechten zweiköpfigen Schenkelmuskels",
+  "latin": "Caput longum musculi bicipitis femoris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "long head of right triceps brachii",
+  "german": "Langer Kopf des rechten dreiköpfigen Oberarmmuskels",
+  "latin": "Caput longum musculi tricipitis brachii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of left flexor hallucis brevis",
+  "german": "Medialer Kopf des linken kurzen Großzehenbeugers",
+  "latin": "Caput mediale musculi flexoris hallucis brevis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of left gastrocnemius",
+  "german": "Medialer Kopf des linken Zwillingswadenmuskels",
+  "latin": "Caput mediale musculi gastrocnemii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of left triceps brachii",
+  "german": "Medialer Kopf des linken dreiköpfigen Oberarmmuskels",
+  "latin": "Caput mediale musculi tricipitis brachii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of right flexor hallucis brevis",
+  "german": "Medialer Kopf des rechten kurzen Großzehenbeugers",
+  "latin": "Caput mediale musculi flexoris hallucis brevis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of right gastrocnemius",
+  "german": "Medialer Kopf des rechten Zwillingswadenmuskels",
+  "latin": "Caput mediale musculi gastrocnemii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial head of right triceps brachii",
+  "german": "Medialer Kopf des rechten dreiköpfigen Oberarmmuskels",
+  "latin": "Caput mediale musculi tricipitis brachii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "medial lumbar intertransversarius",
+  "german": "Medialer Zwischenquerfortsatzmuskel der Lende",
+  "latin": "Musculus intertransversarius medialis lumborum",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique head of left adductor hallucis",
+  "german": "Schräger Kopf des linken Großzehenanziehers",
+  "latin": "Caput obliquum musculi adductoris hallucis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique head of left adductor pollicis",
+  "german": "Schräger Kopf des linken Daumenanziehers",
+  "latin": "Caput obliquum musculi adductoris pollicis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique head of right adductor hallucis",
+  "german": "Schräger Kopf des rechten Großzehenanziehers",
+  "latin": "Caput obliquum musculi adductoris hallucis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique head of right adductor pollicis",
+  "german": "Schräger Kopf des rechten Daumenanziehers",
+  "latin": "Caput obliquum musculi adductoris pollicis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique part of left cricothyroid",
+  "german": "Schräger Anteil des linken Ringknorpel-Schildknorpel-Muskels",
+  "latin": "Pars obliqua musculi cricothyroidei sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "oblique part of right cricothyroid",
+  "german": "Schräger Anteil des rechten Ringknorpel-Schildknorpel-Muskels",
+  "latin": "Pars obliqua musculi cricothyroidei dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "opponens digiti minimi of left foot",
+  "german": "Kleinzehengegensteller des linken Fußes",
+  "latin": "Musculus opponens digiti minimi pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "opponens digiti minimi of left hand",
+  "german": "Kleinfingergegensteller der linken Hand",
+  "latin": "Musculus opponens digiti minimi manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "opponens digiti minimi of right foot",
+  "german": "Kleinzehengegensteller des rechten Fußes",
+  "latin": "Musculus opponens digiti minimi pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "opponens digiti minimi of right hand",
+  "german": "Kleinfingergegensteller der rechten Hand",
+  "latin": "Musculus opponens digiti minimi manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "posterior papillary muscle of right ventricle",
+  "german": "Hinterer Papillarmuskel der rechten Herzkammer",
+  "latin": "Musculus papillaris posterior ventriculi dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "right abductor hallucis",
+  "german": "Rechter Großzehenabzieher",
+  "latin": "Musculus abductor hallucis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right abductor pollicis brevis",
+  "german": "Rechter kurzer Daumenabzieher",
+  "latin": "Musculus abductor pollicis brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right abductor pollicis longus",
+  "german": "Rechter langer Daumenabzieher",
+  "latin": "Musculus abductor pollicis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right adductor brevis",
+  "german": "Rechter kurzer Schenkelanzieher",
+  "latin": "Musculus adductor brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right adductor longus",
+  "german": "Rechter langer Schenkelanzieher",
+  "latin": "Musculus adductor longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right adductor magnus",
+  "german": "Rechter großer Schenkelanzieher",
+  "latin": "Musculus adductor magnus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right adductor minimus",
+  "german": "Rechter kleinster Schenkelanzieher",
+  "latin": "Musculus adductor minimus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right anconeus",
+  "german": "Rechter Knorrenmuskel",
+  "latin": "Musculus anconeus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right aryepiglotticus",
+  "german": "Rechter Stellknorpel-Kehldeckel-Muskel",
+  "latin": "Musculus aryepiglotticus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right brachialis",
+  "german": "Rechter Armbeuger",
+  "latin": "Musculus brachialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right brachioradialis",
+  "german": "Rechter Oberarm-Speichen-Muskel",
+  "latin": "Musculus brachioradialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right cervical rotator",
+  "german": "Rechter Halsdrehmuskel",
+  "latin": "Musculus rotator cervicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right coccygeus",
+  "german": "Rechter Steißbeinmuskel",
+  "latin": "Musculus coccygeus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right coracobrachialis",
+  "german": "Rechter Hakenarmmuskel",
+  "latin": "Musculus coracobrachialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right digastric",
+  "german": "Rechter zweibäuchiger Muskel",
+  "latin": "Musculus digastricus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor carpi radialis brevis",
+  "german": "Rechter kurzer speichenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi radialis brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor carpi radialis longus",
+  "german": "Rechter langer speichenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi radialis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor carpi ulnaris",
+  "german": "Rechter ellenseitiger Handstrecker",
+  "latin": "Musculus extensor carpi ulnaris dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor digiti minimi",
+  "german": "Rechter Kleinfingerstrecker",
+  "latin": "Musculus extensor digiti minimi dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor digitorum",
+  "german": "Rechter Fingerstrecker",
+  "latin": "Musculus extensor digitorum dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor digitorum longus",
+  "german": "Rechter langer Zehenstrecker",
+  "latin": "Musculus extensor digitorum longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor hallucis brevis",
+  "german": "Rechter kurzer Großzehenstrecker",
+  "latin": "Musculus extensor hallucis brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor hallucis longus",
+  "german": "Rechter langer Großzehenstrecker",
+  "latin": "Musculus extensor hallucis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor indicis",
+  "german": "Rechter Zeigefingerstrecker",
+  "latin": "Musculus extensor indicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor pollicis brevis",
+  "german": "Rechter kurzer Daumenstrecker",
+  "latin": "Musculus extensor pollicis brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right extensor pollicis longus",
+  "german": "Rechter langer Daumenstrecker",
+  "latin": "Musculus extensor pollicis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right external oblique",
+  "german": "Rechter äußerer schräger Bauchmuskel",
+  "latin": "Musculus obliquus externus abdominis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor accessorius",
+  "german": "Rechter viereckiger Sohlenmuskel",
+  "latin": "Musculus quadratus plantae dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor carpi radialis",
+  "german": "Rechter speichenseitiger Handbeuger",
+  "latin": "Musculus flexor carpi radialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor digitorum brevis",
+  "german": "Rechter kurzer Zehenbeuger",
+  "latin": "Musculus flexor digitorum brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor digitorum longus",
+  "german": "Rechter langer Zehenbeuger",
+  "latin": "Musculus flexor digitorum longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor digitorum profundus",
+  "german": "Rechter tiefer Fingerbeuger",
+  "latin": "Musculus flexor digitorum profundus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor digitorum superficialis",
+  "german": "Rechter oberflächlicher Fingerbeuger",
+  "latin": "Musculus flexor digitorum superficialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor hallucis longus",
+  "german": "Rechter langer Großzehenbeuger",
+  "latin": "Musculus flexor hallucis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor pollicis brevis",
+  "german": "Rechter kurzer Daumenbeuger",
+  "latin": "Musculus flexor pollicis brevis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right flexor pollicis longus",
+  "german": "Rechter langer Daumenbeuger",
+  "latin": "Musculus flexor pollicis longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gemellus inferior",
+  "german": "Rechter unterer Zwillingsmuskel",
+  "latin": "Musculus gemellus inferior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gemellus superior",
+  "german": "Rechter oberer Zwillingsmuskel",
+  "latin": "Musculus gemellus superior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right genioglossus",
+  "german": "Rechter Kinn-Zungen-Muskel",
+  "latin": "Musculus genioglossus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right geniohyoid",
+  "german": "Rechter Kinn-Zungenbein-Muskel",
+  "latin": "Musculus geniohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gluteus maximus",
+  "german": "Rechter großer Gesäßmuskel",
+  "latin": "Musculus gluteus maximus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gluteus medius",
+  "german": "Rechter mittlerer Gesäßmuskel",
+  "latin": "Musculus gluteus medius dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gluteus minimus",
+  "german": "Rechter kleiner Gesäßmuskel",
+  "latin": "Musculus gluteus minimus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right gracilis",
+  "german": "Rechter schlanker Muskel",
+  "latin": "Musculus gracilis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right hyoglossus",
+  "german": "Rechter Zungenbein-Zungen-Muskel",
+  "latin": "Musculus hyoglossus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right iliacus",
+  "german": "Rechter Darmbeinmuskel",
+  "latin": "Musculus iliacus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right iliococcygeus",
+  "german": "Rechter Darmbein-Steißbein-Muskel",
+  "latin": "Musculus iliococcygeus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right iliocostalis cervicis",
+  "german": "Rechter Darmbein-Rippen-Muskel des Halses",
+  "latin": "Musculus iliocostalis cervicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right iliocostalis lumborum",
+  "german": "Rechter Darmbein-Rippen-Muskel der Lende",
+  "latin": "Musculus iliocostalis lumborum dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right iliocostalis thoracis",
+  "german": "Rechter Darmbein-Rippen-Muskel des Brustkorbs",
+  "latin": "Musculus iliocostalis thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right inferior oblique",
+  "german": "Rechter unterer schräger Augenmuskel",
+  "latin": "Musculus obliquus inferior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right inferior rectus",
+  "german": "Rechter unterer gerader Augenmuskel",
+  "latin": "Musculus rectus inferior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right infraspinatus muscle",
+  "german": "Rechter Untergrätenmuskel",
+  "latin": "Musculus infraspinatus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right interspinalis thoracis",
+  "german": "Rechter Zwischendornmuskel des Brustkorbs",
+  "latin": "Musculus interspinalis thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right lateral crico-arytenoid",
+  "german": "Rechter seitlicher Ringknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus cricoarytenoideus lateralis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right lateral rectus",
+  "german": "Rechter seitlicher gerader Augenmuskel",
+  "latin": "Musculus rectus lateralis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right levator palpebrae superioris",
+  "german": "Rechter Oberlidheber",
+  "latin": "Musculus levator palpebrae superioris dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right levator veli palatini",
+  "german": "Rechter Gaumensegelheber",
+  "latin": "Musculus levator veli palatini dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right longissimus capitis",
+  "german": "Rechter längster Muskel des Kopfes",
+  "latin": "Musculus longissimus capitis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right longissimus cervicis",
+  "german": "Rechter längster Muskel des Halses",
+  "latin": "Musculus longissimus cervicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right longissimus thoracis",
+  "german": "Rechter längster Muskel des Brustkorbs",
+  "latin": "Musculus longissimus thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right longus capitis",
+  "german": "Rechter langer Kopfmuskel",
+  "latin": "Musculus longus capitis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right lumbar rotator",
+  "german": "Rechter Lendendrehmuskel",
+  "latin": "Musculus rotator lumborum dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right medial rectus",
+  "german": "Rechter innerer gerader Augenmuskel",
+  "latin": "Musculus rectus medialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right mylohyoid",
+  "german": "Rechter Kiefer-Zungenbein-Muskel",
+  "latin": "Musculus mylohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right oblique arytenoid",
+  "german": "Rechter schräger Stellknorpelmuskel",
+  "latin": "Musculus arytenoideus obliquus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right obliquus capitis inferior",
+  "german": "Rechter unterer schräger Kopfmuskel",
+  "latin": "Musculus obliquus capitis inferior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right obliquus capitis superior",
+  "german": "Rechter oberer schräger Kopfmuskel",
+  "latin": "Musculus obliquus capitis superior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right obturator externus",
+  "german": "Rechter äußerer Hüftlochmuskel",
+  "latin": "Musculus obturatorius externus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right obturator internus",
+  "german": "Rechter innerer Hüftlochmuskel",
+  "latin": "Musculus obturatorius internus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right omohyoid",
+  "german": "Rechter Schulterblatt-Zungenbein-Muskel",
+  "latin": "Musculus omohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right opponens pollicis",
+  "german": "Rechter Daumengegensteller",
+  "latin": "Musculus opponens pollicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right palmaris longus",
+  "german": "Rechter langer Hohlhandmuskel",
+  "latin": "Musculus palmaris longus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right pectineus",
+  "german": "Rechter Kammmuskel",
+  "latin": "Musculus pectineus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right pectoralis minor",
+  "german": "Rechter kleiner Brustmuskel",
+  "latin": "Musculus pectoralis minor dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right piriformis",
+  "german": "Rechter birnenförmiger Muskel",
+  "latin": "Musculus piriformis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right plantaris",
+  "german": "Rechter langer Sohlenmuskel",
+  "latin": "Musculus plantaris dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right platysma",
+  "german": "Rechter Hautmuskel des Halses",
+  "latin": "Platysma dextrum",
+  "system": "muscular"
+ },
+ {
+  "english": "right popliteus",
+  "german": "Rechter Kniekehlenmuskel",
+  "latin": "Musculus popliteus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right posterior crico-arytenoid",
+  "german": "Rechter hinterer Ringknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus cricoarytenoideus posterior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right pronator quadratus",
+  "german": "Rechter viereckiger Einwärtsdreher",
+  "latin": "Musculus pronator quadratus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right psoas major",
+  "german": "Rechter großer Lendenmuskel",
+  "latin": "Musculus psoas major dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right pubococcygeus",
+  "german": "Rechter Schambein-Steißbein-Muskel",
+  "latin": "Musculus pubococcygeus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right puborectalis",
+  "german": "Rechter Schambein-Mastdarm-Muskel",
+  "latin": "Musculus puborectalis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right quadratus femoris",
+  "german": "Rechter viereckiger Schenkelmuskel",
+  "latin": "Musculus quadratus femoris dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rectus capitis anterior",
+  "german": "Rechter vorderer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis anterior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rectus capitis lateralis",
+  "german": "Rechter seitlicher gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis lateralis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rectus capitis posterior major",
+  "german": "Rechter großer hinterer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis posterior major dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rectus capitis posterior minor",
+  "german": "Rechter kleiner hinterer gerader Kopfmuskel",
+  "latin": "Musculus rectus capitis posterior minor dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rectus femoris",
+  "german": "Rechter gerader Schenkelmuskel",
+  "latin": "Musculus rectus femoris dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rhomboid major",
+  "german": "Rechter großer Rautenmuskel",
+  "latin": "Musculus rhomboideus major dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right rhomboid minor",
+  "german": "Rechter kleiner Rautenmuskel",
+  "latin": "Musculus rhomboideus minor dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right sartorius",
+  "german": "Rechter Schneidermuskel",
+  "latin": "Musculus sartorius dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right scalenus anterior",
+  "german": "Rechter vorderer Treppenmuskel",
+  "latin": "Musculus scalenus anterior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right scalenus medius",
+  "german": "Rechter mittlerer Treppenmuskel",
+  "latin": "Musculus scalenus medius dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right scalenus posterior",
+  "german": "Rechter hinterer Treppenmuskel",
+  "latin": "Musculus scalenus posterior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right semimembranosus",
+  "german": "Rechter Plattsehnenmuskel",
+  "latin": "Musculus semimembranosus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right semispinalis capitis",
+  "german": "Rechter Halbdornmuskel des Kopfes",
+  "latin": "Musculus semispinalis capitis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right semispinalis cervicis",
+  "german": "Rechter Halbdornmuskel des Halses",
+  "latin": "Musculus semispinalis cervicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right semispinalis thoracis",
+  "german": "Rechter Halbdornmuskel des Brustkorbs",
+  "latin": "Musculus semispinalis thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right semitendinosus",
+  "german": "Rechter Halbsehnenmuskel",
+  "latin": "Musculus semitendinosus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right serratus anterior",
+  "german": "Rechter vorderer Sägemuskel",
+  "latin": "Musculus serratus anterior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right serratus posterior inferior",
+  "german": "Rechter hinterer unterer Sägemuskel",
+  "latin": "Musculus serratus posterior inferior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right serratus posterior superior",
+  "german": "Rechter hinterer oberer Sägemuskel",
+  "latin": "Musculus serratus posterior superior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right soleus",
+  "german": "Rechter Schollenmuskel",
+  "latin": "Musculus soleus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right spinalis thoracis",
+  "german": "Rechter Dornmuskel des Brustkorbs",
+  "latin": "Musculus spinalis thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right splenius capitis",
+  "german": "Rechter Riemenmuskel des Kopfes",
+  "latin": "Musculus splenius capitis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right splenius cervicis",
+  "german": "Rechter Riemenmuskel des Halses",
+  "latin": "Musculus splenius cervicis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right sternocleidomastoid",
+  "german": "Rechter Kopfwender",
+  "latin": "Musculus sternocleidomastoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right sternohyoid",
+  "german": "Rechter Brustbein-Zungenbein-Muskel",
+  "latin": "Musculus sternohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right sternothyroid",
+  "german": "Rechter Brustbein-Schildknorpel-Muskel",
+  "latin": "Musculus sternothyroideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right stylohyoid",
+  "german": "Rechter Griffel-Zungenbein-Muskel",
+  "latin": "Musculus stylohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right subclavius",
+  "german": "Rechter Unterschlüsselbeinmuskel",
+  "latin": "Musculus subclavius dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right superior oblique",
+  "german": "Rechter oberer schräger Augenmuskel",
+  "latin": "Musculus obliquus superior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right superior rectus",
+  "german": "Rechter oberer gerader Augenmuskel",
+  "latin": "Musculus rectus superior dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right supinator",
+  "german": "Rechter Auswärtsdreher",
+  "latin": "Musculus supinator dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right supraspinatus",
+  "german": "Rechter Obergrätenmuskel",
+  "latin": "Musculus supraspinatus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right tensor veli palatini",
+  "german": "Rechter Gaumensegelspanner",
+  "latin": "Musculus tensor veli palatini dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right teres major",
+  "german": "Rechter großer Rundmuskel",
+  "latin": "Musculus teres major dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right teres minor",
+  "german": "Rechter kleiner Rundmuskel",
+  "latin": "Musculus teres minor dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right thyro-arytenoid",
+  "german": "Rechter Schildknorpel-Stellknorpel-Muskel",
+  "latin": "Musculus thyroarytenoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right thyrohyoid",
+  "german": "Rechter Schildknorpel-Zungenbein-Muskel",
+  "latin": "Musculus thyrohyoideus dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right transversus thoracis",
+  "german": "Rechter querer Brustkorbmuskel",
+  "latin": "Musculus transversus thoracis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right vastus intermedius",
+  "german": "Rechter mittlerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus intermedius dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right vastus lateralis",
+  "german": "Rechter äußerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus lateralis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right vastus medialis",
+  "german": "Rechter innerer breiter Schenkelmuskel",
+  "latin": "Musculus vastus medialis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "right vocalis",
+  "german": "Rechter Stimmmuskel",
+  "latin": "Musculus vocalis dexter",
+  "system": "muscular"
+ },
+ {
+  "english": "second lumbrical of left foot",
+  "german": "Zweiter Spulmuskel des linken Fußes",
+  "latin": "Musculus lumbricalis secundus pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "second lumbrical of right foot",
+  "german": "Zweiter Spulmuskel des rechten Fußes",
+  "latin": "Musculus lumbricalis secundus pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "second plantar interosseous of left foot",
+  "german": "Zweiter Sohlenzwischenknochenmuskel des linken Fußes",
+  "latin": "Musculus interosseus plantaris secundus pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "second plantar interosseous of right foot",
+  "german": "Zweiter Sohlenzwischenknochenmuskel des rechten Fußes",
+  "latin": "Musculus interosseus plantaris secundus pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "septal papillary muscle of right ventricle",
+  "german": "Septaler Papillarmuskel der rechten Herzkammer",
+  "latin": "Musculus papillaris septalis ventriculi dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "set of anterior cervical intertransversarii",
+  "german": "Vordere Zwischenquerfortsatzmuskeln des Halses",
+  "latin": "Musculi intertransversarii anteriores cervicis",
+  "system": "muscular"
+ },
+ {
+  "english": "set of dorsal interossei of left hand",
+  "german": "Rückseitige Zwischenknochenmuskeln der linken Hand",
+  "latin": "Musculi interossei dorsales manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of dorsal interossei of right hand",
+  "german": "Rückseitige Zwischenknochenmuskeln der rechten Hand",
+  "latin": "Musculi interossei dorsales manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of interspinales cervicis",
+  "german": "Zwischendornmuskeln des Halses",
+  "latin": "Musculi interspinales cervicis",
+  "system": "muscular"
+ },
+ {
+  "english": "set of interspinales lumborum",
+  "german": "Zwischendornmuskeln der Lende",
+  "latin": "Musculi interspinales lumborum",
+  "system": "muscular"
+ },
+ {
+  "english": "set of left levatores costarum breves",
+  "german": "Linke kurze Rippenheber",
+  "latin": "Musculi levatores costarum breves sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "set of left levatores costarum longi",
+  "german": "Linke lange Rippenheber",
+  "latin": "Musculi levatores costarum longi sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "set of lumbricals of left hand",
+  "german": "Spulmuskeln der linken Hand",
+  "latin": "Musculi lumbricales manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of lumbricals of right hand",
+  "german": "Spulmuskeln der rechten Hand",
+  "latin": "Musculi lumbricales manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of palmar interossei of left hand",
+  "german": "Hohlhandseitige Zwischenknochenmuskeln der linken Hand",
+  "latin": "Musculi interossei palmares manus sinistrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of palmar interossei of right hand",
+  "german": "Hohlhandseitige Zwischenknochenmuskeln der rechten Hand",
+  "latin": "Musculi interossei palmares manus dextrae",
+  "system": "muscular"
+ },
+ {
+  "english": "set of posterior cervical intertransversarii",
+  "german": "Hintere Zwischenquerfortsatzmuskeln des Halses",
+  "latin": "Musculi intertransversarii posteriores cervicis",
+  "system": "muscular"
+ },
+ {
+  "english": "set of right levatores costarum breves",
+  "german": "Rechte kurze Rippenheber",
+  "latin": "Musculi levatores costarum breves dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "set of right levatores costarum longi",
+  "german": "Rechte lange Rippenheber",
+  "latin": "Musculi levatores costarum longi dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "short head of left biceps brachii",
+  "german": "Kurzer Kopf des linken zweiköpfigen Oberarmmuskels",
+  "latin": "Caput breve musculi bicipitis brachii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "short head of left biceps femoris",
+  "german": "Kurzer Kopf des linken zweiköpfigen Schenkelmuskels",
+  "latin": "Caput breve musculi bicipitis femoris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "short head of right biceps brachii",
+  "german": "Kurzer Kopf des rechten zweiköpfigen Oberarmmuskels",
+  "latin": "Caput breve musculi bicipitis brachii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "short head of right biceps femoris",
+  "german": "Kurzer Kopf des rechten zweiköpfigen Schenkelmuskels",
+  "latin": "Caput breve musculi bicipitis femoris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "spinal part of left deltoid",
+  "german": "Grätenanteil des linken Deltamuskels",
+  "latin": "Pars spinalis musculi deltoidei sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "spinal part of right deltoid",
+  "german": "Grätenanteil des rechten Deltamuskels",
+  "latin": "Pars spinalis musculi deltoidei dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "spinalis",
+  "german": "Dornmuskel",
+  "latin": "Musculus spinalis",
+  "system": "muscular"
+ },
+ {
+  "english": "sternocostal part of left pectoralis major",
+  "german": "Brustbein-Rippen-Anteil des linken großen Brustmuskels",
+  "latin": "Pars sternocostalis musculi pectoralis majoris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "sternocostal part of right pectoralis major",
+  "german": "Brustbein-Rippen-Anteil des rechten großen Brustmuskels",
+  "latin": "Pars sternocostalis musculi pectoralis majoris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "straight part of left cricothyroid",
+  "german": "Gerader Anteil des linken Ringknorpel-Schildknorpel-Muskels",
+  "latin": "Pars recta musculi cricothyroidei sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "straight part of right cricothyroid",
+  "german": "Gerader Anteil des rechten Ringknorpel-Schildknorpel-Muskels",
+  "latin": "Pars recta musculi cricothyroidei dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "superficial head of left flexor pollicis brevis",
+  "german": "Oberflächlicher Kopf des linken kurzen Daumenbeugers",
+  "latin": "Caput superficiale musculi flexoris pollicis brevis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "superficial head of right flexor pollicis brevis",
+  "german": "Oberflächlicher Kopf des rechten kurzen Daumenbeugers",
+  "latin": "Caput superficiale musculi flexoris pollicis brevis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "superficial perineal muscle",
+  "german": "Oberflächlicher querer Dammmuskel",
+  "latin": "Musculus transversus perinei superficialis",
+  "system": "muscular"
+ },
+ {
+  "english": "superior oblique part of left longus colli",
+  "german": "Oberer schräger Anteil des linken langen Halsmuskels",
+  "latin": "Pars obliqua superior musculi longi colli sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "third lumbrical of left foot",
+  "german": "Dritter Spulmuskel des linken Fußes",
+  "latin": "Musculus lumbricalis tertius pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "third lumbrical of right foot",
+  "german": "Dritter Spulmuskel des rechten Fußes",
+  "latin": "Musculus lumbricalis tertius pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "third plantar interosseous of left foot",
+  "german": "Dritter Sohlenzwischenknochenmuskel des linken Fußes",
+  "latin": "Musculus interosseus plantaris tertius pedis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "third plantar interosseous of right foot",
+  "german": "Dritter Sohlenzwischenknochenmuskel des rechten Fußes",
+  "latin": "Musculus interosseus plantaris tertius pedis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "thoracic rotator",
+  "german": "Brustdrehmuskel",
+  "latin": "Musculus rotator thoracis",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse arytenoid",
+  "german": "Querer Stellknorpelmuskel",
+  "latin": "Musculus arytenoideus transversus",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse head of left adductor hallucis",
+  "german": "Querer Kopf des linken Großzehenanziehers",
+  "latin": "Caput transversum musculi adductoris hallucis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse head of left adductor pollicis",
+  "german": "Querer Kopf des linken Daumenanziehers",
+  "latin": "Caput transversum musculi adductoris pollicis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse head of right adductor hallucis",
+  "german": "Querer Kopf des rechten Großzehenanziehers",
+  "latin": "Caput transversum musculi adductoris hallucis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse head of right adductor pollicis",
+  "german": "Querer Kopf des rechten Daumenanziehers",
+  "latin": "Caput transversum musculi adductoris pollicis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse part of left trapezius",
+  "german": "Querer Anteil des linken Trapezmuskels",
+  "latin": "Pars transversa musculi trapezii sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "transverse part of right trapezius",
+  "german": "Querer Anteil des rechten Trapezmuskels",
+  "latin": "Pars transversa musculi trapezii dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "ulnar head of left flexor carpi ulnaris",
+  "german": "Ellenkopf des linken ellenseitigen Handbeugers",
+  "latin": "Caput ulnare musculi flexoris carpi ulnaris sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "ulnar head of left pronator teres",
+  "german": "Ellenkopf des linken runden Einwärtsdrehers",
+  "latin": "Caput ulnare musculi pronatoris teretis sinistri",
+  "system": "muscular"
+ },
+ {
+  "english": "ulnar head of right flexor carpi ulnaris",
+  "german": "Ellenkopf des rechten ellenseitigen Handbeugers",
+  "latin": "Caput ulnare musculi flexoris carpi ulnaris dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "ulnar head of right pronator teres",
+  "german": "Ellenkopf des rechten runden Einwärtsdrehers",
+  "latin": "Caput ulnare musculi pronatoris teretis dextri",
+  "system": "muscular"
+ },
+ {
+  "english": "uvular muscle",
+  "german": "Zäpfchenmuskel",
+  "latin": "Musculus uvulae",
+  "system": "muscular"
+ },
+ {
+  "english": "vertical intermediate part of left longus colli",
+  "german": "Senkrechter mittlerer Anteil des linken langen Halsmuskels",
+  "latin": "Pars verticalis intermedia musculi longi colli sinistri",
+  "system": "muscular"
+ }
+]

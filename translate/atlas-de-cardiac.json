@@ -1,0 +1,140 @@
+[
+ {
+  "english": "anterior cusp of aortic valve",
+  "german": "Vordere Tasche der Aortenklappe",
+  "latin": "Valvula semilunaris anterior valvae aortae",
+  "system": "cardiac"
+ },
+ {
+  "english": "anterior leaflet of mitral valve",
+  "german": "Vorderes Segel der Mitralklappe",
+  "latin": "Cuspis anterior valvae mitralis",
+  "system": "cardiac"
+ },
+ {
+  "english": "anterior leaflet of tricuspid valve",
+  "german": "Vorderes Segel der Trikuspidalklappe",
+  "latin": "Cuspis anterior valvae tricuspidalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "cavity of left atrium",
+  "german": "Höhle des linken Vorhofs",
+  "latin": "Cavitas atrii sinistri",
+  "system": "cardiac"
+ },
+ {
+  "english": "cavity of left ventricle",
+  "german": "Höhle der linken Herzkammer",
+  "latin": "Cavitas ventriculi sinistri",
+  "system": "cardiac"
+ },
+ {
+  "english": "cavity of right atrium",
+  "german": "Höhle des rechten Vorhofs",
+  "latin": "Cavitas atrii dextri",
+  "system": "cardiac"
+ },
+ {
+  "english": "cavity of right ventricle",
+  "german": "Höhle der rechten Herzkammer",
+  "latin": "Cavitas ventriculi dextri",
+  "system": "cardiac"
+ },
+ {
+  "english": "fourth ventricle",
+  "german": "Vierter Hirnventrikel",
+  "latin": "Ventriculus quartus",
+  "system": "cardiac"
+ },
+ {
+  "english": "interventricular foramen",
+  "german": "Zwischenkammerloch",
+  "latin": "Foramen interventriculare",
+  "system": "cardiac"
+ },
+ {
+  "english": "left anterior cusp of pulmonary valve",
+  "german": "Linke vordere Tasche der Pulmonalklappe",
+  "latin": "Valvula semilunaris anterior sinistra valvae trunci pulmonalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "left lateral ventricle",
+  "german": "Linker Seitenventrikel",
+  "latin": "Ventriculus lateralis sinister",
+  "system": "cardiac"
+ },
+ {
+  "english": "left posterior cusp of aortic valve",
+  "german": "Linke hintere Tasche der Aortenklappe",
+  "latin": "Valvula semilunaris posterior sinistra valvae aortae",
+  "system": "cardiac"
+ },
+ {
+  "english": "posterior cusp of pulmonary valve",
+  "german": "Hintere Tasche der Pulmonalklappe",
+  "latin": "Valvula semilunaris posterior valvae trunci pulmonalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "posterior leaflet of mitral valve",
+  "german": "Hinteres Segel der Mitralklappe",
+  "latin": "Cuspis posterior valvae mitralis",
+  "system": "cardiac"
+ },
+ {
+  "english": "posterior leaflet of tricuspid valve",
+  "german": "Hinteres Segel der Trikuspidalklappe",
+  "latin": "Cuspis posterior valvae tricuspidalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "right anterior cusp of pulmonary valve",
+  "german": "Rechte vordere Tasche der Pulmonalklappe",
+  "latin": "Valvula semilunaris anterior dextra valvae trunci pulmonalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "right lateral ventricle",
+  "german": "Rechter Seitenventrikel",
+  "latin": "Ventriculus lateralis dexter",
+  "system": "cardiac"
+ },
+ {
+  "english": "right posterior cusp of aortic valve",
+  "german": "Rechte hintere Tasche der Aortenklappe",
+  "latin": "Valvula semilunaris posterior dextra valvae aortae",
+  "system": "cardiac"
+ },
+ {
+  "english": "septal leaflet of tricuspid valve",
+  "german": "Septales Segel der Trikuspidalklappe",
+  "latin": "Cuspis septalis valvae tricuspidalis",
+  "system": "cardiac"
+ },
+ {
+  "english": "third ventricle",
+  "german": "Dritter Hirnventrikel",
+  "latin": "Ventriculus tertius",
+  "system": "cardiac"
+ },
+ {
+  "english": "wall of left atrium",
+  "german": "Wand des linken Vorhofs",
+  "latin": "Paries atrii sinistri",
+  "system": "cardiac"
+ },
+ {
+  "english": "wall of right atrium",
+  "german": "Wand des rechten Vorhofs",
+  "latin": "Paries atrii dextri",
+  "system": "cardiac"
+ },
+ {
+  "english": "wall of ventricle",
+  "german": "Wand der Herzkammer",
+  "latin": "Paries ventriculi",
+  "system": "cardiac"
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "english": "anterior chamber of left eyeball",
+  "german": "Vordere Augenkammer des linken Augapfels",
+  "latin": "Camera anterior bulbi oculi sinistri",
+  "system": "sensory"
+ },
+ {
+  "english": "anterior chamber of right eyeball",
+  "german": "Vordere Augenkammer des rechten Augapfels",
+  "latin": "Camera anterior bulbi oculi dextri",
+  "system": "sensory"
+ },
+ {
+  "english": "choroid plexus of cerebral hemisphere",
+  "german": "Adergeflecht der Großhirnhemisphäre",
+  "latin": "Plexus choroideus hemispherii cerebri",
+  "system": "sensory"
+ },
+ {
+  "english": "external ear",
+  "german": "Äußeres Ohr",
+  "latin": "Auris externa",
+  "system": "sensory"
+ },
+ {
+  "english": "flexor retinaculum of left wrist",
+  "german": "Beugesehnen-Halteband des linken Handgelenks",
+  "latin": "Retinaculum musculorum flexorum carpi sinistri",
+  "system": "sensory"
+ },
+ {
+  "english": "flexor retinaculum of right wrist",
+  "german": "Beugesehnen-Halteband des rechten Handgelenks",
+  "latin": "Retinaculum musculorum flexorum carpi dextri",
+  "system": "sensory"
+ },
+ {
+  "english": "left choroid",
+  "german": "Linke Aderhaut",
+  "latin": "Choroidea sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left common tendinous ring",
+  "german": "Linker gemeinsamer Sehnenring",
+  "latin": "Anulus tendineus communis sinister",
+  "system": "sensory"
+ },
+ {
+  "english": "left cornea",
+  "german": "Linke Hornhaut",
+  "latin": "Cornea sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left corona ciliaris",
+  "german": "Linker Ziliarkranz",
+  "latin": "Corona ciliaris sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left iris",
+  "german": "Linke Regenbogenhaut",
+  "latin": "Iris sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left lacrimal bone",
+  "german": "Linkes Tränenbein",
+  "latin": "Os lacrimale sinistrum",
+  "system": "sensory"
+ },
+ {
+  "english": "left lacrimal canaliculus",
+  "german": "Linkes Tränenkanälchen",
+  "latin": "Canaliculus lacrimalis sinister",
+  "system": "sensory"
+ },
+ {
+  "english": "left lacrimal gland",
+  "german": "Linke Tränendrüse",
+  "latin": "Glandula lacrimalis sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left lacrimal lake",
+  "german": "Linker Tränensee",
+  "latin": "Lacus lacrimalis sinister",
+  "system": "sensory"
+ },
+ {
+  "english": "left lacrimal sac",
+  "german": "Linker Tränensack",
+  "latin": "Saccus lacrimalis sinister",
+  "system": "sensory"
+ },
+ {
+  "english": "left lens",
+  "german": "Linke Linse",
+  "latin": "Lens sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left nasolacrimal duct",
+  "german": "Linker Tränen-Nasen-Gang",
+  "latin": "Ductus nasolacrimalis sinister",
+  "system": "sensory"
+ },
+ {
+  "english": "left sclera",
+  "german": "Linke Lederhaut",
+  "latin": "Sclera sinistra",
+  "system": "sensory"
+ },
+ {
+  "english": "left vitreous body",
+  "german": "Linker Glaskörper",
+  "latin": "Corpus vitreum sinistrum",
+  "system": "sensory"
+ },
+ {
+  "english": "optic part of left retina",
+  "german": "Optischer Teil der linken Netzhaut",
+  "latin": "Pars optica retinae sinistrae",
+  "system": "sensory"
+ },
+ {
+  "english": "optic part of right retina",
+  "german": "Optischer Teil der rechten Netzhaut",
+  "latin": "Pars optica retinae dextrae",
+  "system": "sensory"
+ },
+ {
+  "english": "right choroid",
+  "german": "Rechte Aderhaut",
+  "latin": "Choroidea dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right common tendinous ring",
+  "german": "Rechter gemeinsamer Sehnenring",
+  "latin": "Anulus tendineus communis dexter",
+  "system": "sensory"
+ },
+ {
+  "english": "right cornea",
+  "german": "Rechte Hornhaut",
+  "latin": "Cornea dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right corona ciliaris",
+  "german": "Rechter Ziliarkranz",
+  "latin": "Corona ciliaris dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right iris",
+  "german": "Rechte Regenbogenhaut",
+  "latin": "Iris dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right lacrimal bone",
+  "german": "Rechtes Tränenbein",
+  "latin": "Os lacrimale dextrum",
+  "system": "sensory"
+ },
+ {
+  "english": "right lacrimal canaliculus",
+  "german": "Rechtes Tränenkanälchen",
+  "latin": "Canaliculus lacrimalis dexter",
+  "system": "sensory"
+ },
+ {
+  "english": "right lacrimal gland",
+  "german": "Rechte Tränendrüse",
+  "latin": "Glandula lacrimalis dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right lacrimal lake",
+  "german": "Rechter Tränensee",
+  "latin": "Lacus lacrimalis dexter",
+  "system": "sensory"
+ },
+ {
+  "english": "right lacrimal sac",
+  "german": "Rechter Tränensack",
+  "latin": "Saccus lacrimalis dexter",
+  "system": "sensory"
+ },
+ {
+  "english": "right lens",
+  "german": "Rechte Linse",
+  "latin": "Lens dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right nasolacrimal duct",
+  "german": "Rechter Tränen-Nasen-Gang",
+  "latin": "Ductus nasolacrimalis dexter",
+  "system": "sensory"
+ },
+ {
+  "english": "right sclera",
+  "german": "Rechte Lederhaut",
+  "latin": "Sclera dextra",
+  "system": "sensory"
+ },
+ {
+  "english": "right vitreous body",
+  "german": "Rechter Glaskörper",
+  "latin": "Corpus vitreum dextrum",
+  "system": "sensory"
+ },
+ {
+  "english": "suspensory ligament of left lens",
+  "german": "Aufhängeband der linken Linse",
+  "latin": "Zonula ciliaris lentis sinistrae",
+  "system": "sensory"
+ },
+ {
+  "english": "suspensory ligament of right lens",
+  "german": "Aufhängeband der rechten Linse",
+  "latin": "Zonula ciliaris lentis dextrae",
+  "system": "sensory"
+ },
+ {
+  "english": "tarsal plate of left lower eyelid",
+  "german": "Lidplatte des linken Unterlids",
+  "latin": "Tarsus inferior palpebrae sinistrae",
+  "system": "sensory"
+ },
+ {
+  "english": "tarsal plate of left upper eyelid",
+  "german": "Lidplatte des linken Oberlids",
+  "latin": "Tarsus superior palpebrae sinistrae",
+  "system": "sensory"
+ },
+ {
+  "english": "tarsal plate of right lower eyelid",
+  "german": "Lidplatte des rechten Unterlids",
+  "latin": "Tarsus inferior palpebrae dextrae",
+  "system": "sensory"
+ },
+ {
+  "english": "tarsal plate of right upper eyelid",
+  "german": "Lidplatte des rechten Oberlids",
+  "latin": "Tarsus superior palpebrae dextrae",
+  "system": "sensory"
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "english": "corpus cavernosum of penis",
+  "german": "Penisschwellkörper",
+  "latin": "Corpus cavernosum penis",
+  "system": "reproductive"
+ },
+ {
+  "english": "corpus spongiosum of penis",
+  "german": "Harnröhrenschwellkörper",
+  "latin": "Corpus spongiosum penis",
+  "system": "reproductive"
+ },
+ {
+  "english": "glans penis",
+  "german": "Eichel",
+  "latin": "Glans penis",
+  "system": "reproductive"
+ },
+ {
+  "english": "left deferent duct",
+  "german": "Linker Samenleiter",
+  "latin": "Ductus deferens sinister",
+  "system": "reproductive"
+ },
+ {
+  "english": "left epididymis",
+  "german": "Linker Nebenhoden",
+  "latin": "Epididymis sinistra",
+  "system": "reproductive"
+ },
+ {
+  "english": "left seminal vesicle",
+  "german": "Linke Samenblase",
+  "latin": "Glandula vesiculosa sinistra",
+  "system": "reproductive"
+ },
+ {
+  "english": "left testis",
+  "german": "Linker Hoden",
+  "latin": "Testis sinister",
+  "system": "reproductive"
+ },
+ {
+  "english": "prostate",
+  "german": "Vorsteherdrüse",
+  "latin": "Prostata",
+  "system": "reproductive"
+ },
+ {
+  "english": "right deferent duct",
+  "german": "Rechter Samenleiter",
+  "latin": "Ductus deferens dexter",
+  "system": "reproductive"
+ },
+ {
+  "english": "right epididymis",
+  "german": "Rechter Nebenhoden",
+  "latin": "Epididymis dextra",
+  "system": "reproductive"
+ },
+ {
+  "english": "right seminal vesicle",
+  "german": "Rechte Samenblase",
+  "latin": "Glandula vesiculosa dextra",
+  "system": "reproductive"
+ },
+ {
+  "english": "right testis",
+  "german": "Rechter Hoden",
+  "latin": "Testis dexter",
+  "system": "reproductive"
+ },
+ {
+  "english": "left kidney",
+  "german": "Linke Niere",
+  "latin": "Ren sinister",
+  "system": "urinary"
+ },
+ {
+  "english": "left ureter",
+  "german": "Linker Harnleiter",
+  "latin": "Ureter sinister",
+  "system": "urinary"
+ },
+ {
+  "english": "right kidney",
+  "german": "Rechte Niere",
+  "latin": "Ren dexter",
+  "system": "urinary"
+ },
+ {
+  "english": "right ureter",
+  "german": "Rechter Harnleiter",
+  "latin": "Ureter dexter",
+  "system": "urinary"
+ },
+ {
+  "english": "urethra",
+  "german": "Harnröhre",
+  "latin": "Urethra",
+  "system": "urinary"
+ },
+ {
+  "english": "urinary bladder",
+  "german": "Harnblase",
+  "latin": "Vesica urinaria",
+  "system": "urinary"
+ },
+ {
+  "english": "eyebrow",
+  "german": "Augenbraue",
+  "latin": "Supercilium",
+  "system": "integumentary"
+ },
+ {
+  "english": "hair of head",
+  "german": "Kopfhaar",
+  "latin": "Capilli",
+  "system": "integumentary"
+ },
+ {
+  "english": "lip",
+  "german": "Lippe",
+  "latin": "Labium oris",
+  "system": "integumentary"
+ },
+ {
+  "english": "pubic hair",
+  "german": "Schamhaar",
+  "latin": "Pubes",
+  "system": "integumentary"
+ },
+ {
+  "english": "skin",
+  "german": "Haut",
+  "latin": "Cutis",
+  "system": "integumentary"
+ },
+ {
+  "english": "left adrenal gland",
+  "german": "Linke Nebenniere",
+  "latin": "Glandula suprarenalis sinistra",
+  "system": "endocrine"
+ },
+ {
+  "english": "pineal body",
+  "german": "Zirbeldrüse",
+  "latin": "Glandula pinealis",
+  "system": "endocrine"
+ },
+ {
+  "english": "pituitary gland",
+  "german": "Hirnanhangsdrüse",
+  "latin": "Hypophysis",
+  "system": "endocrine"
+ },
+ {
+  "english": "right adrenal gland",
+  "german": "Rechte Nebenniere",
+  "latin": "Glandula suprarenalis dextra",
+  "system": "endocrine"
+ },
+ {
+  "english": "left lobe of thymus",
+  "german": "Linker Thymuslappen",
+  "latin": "Lobus sinister thymi",
+  "system": "lymphatic"
+ },
+ {
+  "english": "right lobe of thymus",
+  "german": "Rechter Thymuslappen",
+  "latin": "Lobus dexter thymi",
+  "system": "lymphatic"
+ },
+ {
+  "english": "spleen",
+  "german": "Milz",
+  "latin": "Splen",
+  "system": "lymphatic"
+ }
+]

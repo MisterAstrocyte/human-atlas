@@ -1,0 +1,224 @@
+[
+ {
+  "english": "check ligament of left lateral rectus",
+  "german": "Hemmungsband des linken seitlichen geraden Augenmuskels",
+  "latin": "Lacertus musculi recti lateralis sinistri",
+  "system": "connective"
+ },
+ {
+  "english": "check ligament of left medial rectus",
+  "german": "Hemmungsband des linken inneren geraden Augenmuskels",
+  "latin": "Lacertus musculi recti medialis sinistri",
+  "system": "connective"
+ },
+ {
+  "english": "check ligament of right lateral rectus",
+  "german": "Hemmungsband des rechten seitlichen geraden Augenmuskels",
+  "latin": "Lacertus musculi recti lateralis dextri",
+  "system": "connective"
+ },
+ {
+  "english": "check ligament of right medial rectus",
+  "german": "Hemmungsband des rechten inneren geraden Augenmuskels",
+  "latin": "Lacertus musculi recti medialis dextri",
+  "system": "connective"
+ },
+ {
+  "english": "hyo-epiglottic ligament",
+  "german": "Zungenbein-Kehldeckel-Band",
+  "latin": "Ligamentum hyoepiglotticum",
+  "system": "connective"
+ },
+ {
+  "english": "interosseous membrane of left forearm",
+  "german": "Zwischenknochenmembran des linken Unterarms",
+  "latin": "Membrana interossea antebrachii sinistri",
+  "system": "connective"
+ },
+ {
+  "english": "interosseous membrane of left leg",
+  "german": "Zwischenknochenmembran des linken Unterschenkels",
+  "latin": "Membrana interossea cruris sinistri",
+  "system": "connective"
+ },
+ {
+  "english": "interosseous membrane of right forearm",
+  "german": "Zwischenknochenmembran des rechten Unterarms",
+  "latin": "Membrana interossea antebrachii dextri",
+  "system": "connective"
+ },
+ {
+  "english": "interosseous membrane of right leg",
+  "german": "Zwischenknochenmembran des rechten Unterschenkels",
+  "latin": "Membrana interossea cruris dextri",
+  "system": "connective"
+ },
+ {
+  "english": "left calcaneal tendon",
+  "german": "Linke Achillessehne",
+  "latin": "Tendo calcaneus sinister",
+  "system": "connective"
+ },
+ {
+  "english": "left conus elasticus",
+  "german": "Linker Conus elasticus",
+  "latin": "Conus elasticus sinister",
+  "system": "connective"
+ },
+ {
+  "english": "left lateral thyrohyoid ligament",
+  "german": "Linkes seitliches Schildknorpel-Zungenbein-Band",
+  "latin": "Ligamentum thyrohyoideum laterale sinistrum",
+  "system": "connective"
+ },
+ {
+  "english": "left long plantar ligament",
+  "german": "Linkes langes Fußsohlenband",
+  "latin": "Ligamentum plantare longum sinistrum",
+  "system": "connective"
+ },
+ {
+  "english": "left pterygomandibular raphe",
+  "german": "Linke Flügel-Unterkiefer-Naht",
+  "latin": "Raphe pterygomandibularis sinistra",
+  "system": "connective"
+ },
+ {
+  "english": "left stylohyoid ligament",
+  "german": "Linkes Griffel-Zungenbein-Band",
+  "latin": "Ligamentum stylohyoideum sinistrum",
+  "system": "connective"
+ },
+ {
+  "english": "left tensor fasciae latae",
+  "german": "Linker Schenkelbindenspanner",
+  "latin": "Musculus tensor fasciae latae sinister",
+  "system": "connective"
+ },
+ {
+  "english": "left thyrohyoid membrane",
+  "german": "Linke Schildknorpel-Zungenbein-Membran",
+  "latin": "Membrana thyrohyoidea sinistra",
+  "system": "connective"
+ },
+ {
+  "english": "left vocal ligament",
+  "german": "Linkes Stimmband",
+  "latin": "Ligamentum vocale sinistrum",
+  "system": "connective"
+ },
+ {
+  "english": "linea alba",
+  "german": "Weiße Linie",
+  "latin": "Linea alba",
+  "system": "connective"
+ },
+ {
+  "english": "median cricothyroid ligament",
+  "german": "Mittleres Ringknorpel-Schildknorpel-Band",
+  "latin": "Ligamentum cricothyroideum medianum",
+  "system": "connective"
+ },
+ {
+  "english": "median thyrohyoid ligament",
+  "german": "Mittleres Schildknorpel-Zungenbein-Band",
+  "latin": "Ligamentum thyrohyoideum medianum",
+  "system": "connective"
+ },
+ {
+  "english": "pharyngeal raphe",
+  "german": "Rachennaht",
+  "latin": "Raphe pharyngis",
+  "system": "connective"
+ },
+ {
+  "english": "right calcaneal tendon",
+  "german": "Rechte Achillessehne",
+  "latin": "Tendo calcaneus dexter",
+  "system": "connective"
+ },
+ {
+  "english": "right conus elasticus",
+  "german": "Rechter Conus elasticus",
+  "latin": "Conus elasticus dexter",
+  "system": "connective"
+ },
+ {
+  "english": "right intermediate tendon",
+  "german": "Rechte Zwischensehne",
+  "latin": "Tendo intermedius dexter",
+  "system": "connective"
+ },
+ {
+  "english": "right lateral thyrohyoid ligament",
+  "german": "Rechtes seitliches Schildknorpel-Zungenbein-Band",
+  "latin": "Ligamentum thyrohyoideum laterale dextrum",
+  "system": "connective"
+ },
+ {
+  "english": "right long plantar ligament",
+  "german": "Rechtes langes Fußsohlenband",
+  "latin": "Ligamentum plantare longum dextrum",
+  "system": "connective"
+ },
+ {
+  "english": "right pterygomandibular raphe",
+  "german": "Rechte Flügel-Unterkiefer-Naht",
+  "latin": "Raphe pterygomandibularis dextra",
+  "system": "connective"
+ },
+ {
+  "english": "right stylohyoid ligament",
+  "german": "Rechtes Griffel-Zungenbein-Band",
+  "latin": "Ligamentum stylohyoideum dextrum",
+  "system": "connective"
+ },
+ {
+  "english": "right tensor fasciae latae",
+  "german": "Rechter Schenkelbindenspanner",
+  "latin": "Musculus tensor fasciae latae dexter",
+  "system": "connective"
+ },
+ {
+  "english": "right thyrohyoid membrane",
+  "german": "Rechte Schildknorpel-Zungenbein-Membran",
+  "latin": "Membrana thyrohyoidea dextra",
+  "system": "connective"
+ },
+ {
+  "english": "right vocal ligament",
+  "german": "Rechtes Stimmband",
+  "latin": "Ligamentum vocale dextrum",
+  "system": "connective"
+ },
+ {
+  "english": "tendinous arch of levator ani",
+  "german": "Sehnenbogen des Afterhebers",
+  "latin": "Arcus tendineus musculi levatoris ani",
+  "system": "connective"
+ },
+ {
+  "english": "tendon of right levator palpebrae superioris",
+  "german": "Sehne des rechten Oberlidhebers",
+  "latin": "Tendo musculi levatoris palpebrae superioris dextri",
+  "system": "connective"
+ },
+ {
+  "english": "thyro-epiglottic ligament",
+  "german": "Schildknorpel-Kehldeckel-Band",
+  "latin": "Ligamentum thyroepiglotticum",
+  "system": "connective"
+ },
+ {
+  "english": "trochlea of left superior oblique",
+  "german": "Rolle des linken oberen schrägen Augenmuskels",
+  "latin": "Trochlea musculi obliqui superioris sinistri",
+  "system": "connective"
+ },
+ {
+  "english": "trochlea of right superior oblique",
+  "german": "Rolle des rechten oberen schrägen Augenmuskels",
+  "latin": "Trochlea musculi obliqui superioris dextri",
+  "system": "connective"
+ }
+]
